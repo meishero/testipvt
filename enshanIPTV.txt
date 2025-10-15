@@ -57,6 +57,11 @@ CCTV-13,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV-14,http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 
+CCTV-4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+老故事,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001043/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+卫生健康,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001053/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+中学生,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 卫视,#genre#
@@ -125,6 +130,12 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 内蒙古卫视,http://112.27.235.94:8000/hls/49/index.m3u8
 
+北京卫视4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西藏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001071/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+兵团卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001072/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+新疆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001081/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宁夏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001091/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 陕西,#genre#
@@ -164,6 +175,10 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 铜川综合,http://111.20.33.93/PLTV/88888893/224/3221226379/index.m3u8
 铜川公共,http://111.20.33.93/PLTV/88888893/224/3221226380/index.m3u8
 
+陕西秦腔,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001001/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001002/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西部电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001011/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 电影,#genre#
@@ -178,10 +193,12 @@ CETV-1,http://111.20.33.93/PLTV/88888888/224/3221225753/index.m3u8
 CETV-2,http://111.20.33.93/PLTV/88888888/224/3221225756/index.m3u8
 CETV-3,http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
 CETV-4,http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8 
-CETV早教,http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8 
+CETV早期教育,http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8 
 广东嘉佳卡通,http://111.20.33.93/PLTV/88888893/224/3221226227/index.m3u8
 江苏优漫卡通,http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
 湖南金鹰卡通,http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
+
+CETV早期教育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001052/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 
@@ -248,7 +265,8 @@ FGTV,http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
 上海第一财经,http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
 江苏财富天下,http://111.20.33.93/PLTV/88888893/224/3221226350/index.m3u8
 湖南金鹰纪实,http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8 
-湖南茶频道,http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8  
+湖南茶频道,http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
+书画频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南快乐垂钓,http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8  
 江苏好享购物,http://111.20.33.93/PLTV/88888893/224/3221226018/index.m3u8
 聚鲨环球精选,http://111.20.33.93/PLTV/88888893/224/3221226459/index.m3u8
