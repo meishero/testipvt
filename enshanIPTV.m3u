@@ -478,10 +478,10 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000006/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="电影·娱乐",NEWTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="电影·娱乐",湖南茶友频道
-http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="电影·娱乐",书画频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="电影·娱乐",湖南茶友频道
+http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="电影·娱乐",湖南快乐垂钓
 http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 
@@ -645,4 +645,3 @@ http://111.20.33.93/PLTV/88888893/224/3221226353/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="未分类",CCTV-央广购物
 http://111.20.33.93/PLTV/88888893/224/3221226032/index.m3u8
-
