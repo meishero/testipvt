@@ -452,12 +452,14 @@ http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影·娱乐",CHC影迷电影
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影·娱乐",CHC动作电影
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影·娱乐",CHC家庭影院
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影·娱乐",CHC影迷电影
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
 #EXTINF:-1 tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影·娱乐",NEWTV超级电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影·娱乐",黑莓电影
@@ -597,23 +599,14 @@ http://111.20.33.93/PLTV/88888893/224/3221227104/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227017/index.m3u8
 #EXTINF:-1 tvg-name="横山" tvg-logo="https://live.fanmingming.com/tv/横山.png" group-title="陕西地方台",横山
 http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
-
 #EXTINF:-1 tvg-name="宁陕" tvg-logo="https://live.fanmingming.com/tv/宁陕.png" group-title="陕西地方台",宁陕
 http://111.20.33.93/PLTV/88888893/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-name="平利" tvg-logo="https://live.fanmingming.com/tv/平利.png" group-title="陕西地方台",平利
-http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8
-#EXTINF:-1 tvg-name="白河" tvg-logo="https://live.fanmingming.com/tv/白河.png" group-title="陕西地方台",白河
-http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226973/1.m3u8
-#EXTINF:-1 tvg-name="汉阴" tvg-logo="https://live.fanmingming.com/tv/汉阴.png" group-title="陕西地方台",汉阴
-http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8
-
 #EXTINF:-1 tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="陕西地方台",紫阳综合
 http://111.20.33.93/PLTV/88888893/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-name="镇平综合" tvg-logo="https://live.fanmingming.com/tv/镇平综合.png" group-title="陕西地方台",镇平综合
 http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
 #EXTINF:-1 tvg-name="岚皋" tvg-logo="https://live.fanmingming.com/tv/岚皋.png" group-title="陕西地方台",岚皋
 http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
-
 #EXTINF:-1 tvg-name="FGTV" tvg-logo="https://live.fanmingming.com/tv/FGTV.png" group-title="陕西地方台",FGTV
 http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
 #EXTINF:-1 tvg-name="未知地方台-1" tvg-logo="https://live.fanmingming.com/tv/未知地方台-1.png" group-title="陕西地方台",未知地方台-1
