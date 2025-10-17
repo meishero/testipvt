@@ -550,12 +550,14 @@ http://111.20.33.93/PLTV/88888888/224/3221226373/index.m3u8
 http://111.20.33.93/PLTV/88888951/224/3221226373/index.m3u8
 #EXTINF:-1 tvg-name="泾阳" tvg-logo="https://live.fanmingming.com/tv/泾阳.png" group-title="陕西地方台",泾阳
 http://111.20.33.93/PLTV/88888893/224/3221226979/index.m3u8
-#EXTINF:-1 tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="陕西地方台",扶风
-http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-name="永寿" tvg-logo="https://live.fanmingming.com/tv/永寿.png" group-title="陕西地方台",永寿
 http://111.20.33.93/PLTV/88888893/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-name="旬邑" tvg-logo="https://live.fanmingming.com/tv/旬邑.png" group-title="陕西地方台",旬邑
 http://111.20.33.93/PLTV/88888893/224/3221227077/index.m3u8
+#EXTINF:-1 tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="陕西地方台",扶风
+http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
+#EXTINF:-1 tvg-name="陈仓" tvg-logo="https://live.fanmingming.com/tv/陈仓.png" group-title="陕西地方台",陈仓
+http://111.20.33.93/PLTV/88888893/224/3221227086/index.m3u8
 #EXTINF:-1 tvg-name="眉县新闻综合" tvg-logo="https://live.fanmingming.com/tv/眉县新闻综合.png" group-title="陕西地方台",眉县新闻综合
 http://111.20.33.93/PLTV/88888893/224/3221227069/index.m3u8
 #EXTINF:-1 tvg-name="麟游" tvg-logo="https://live.fanmingming.com/tv/麟游.png" group-title="陕西地方台",麟游
@@ -623,8 +625,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226982/index.m3u8
 #EXTINF:-1 tvg-name="未知地方台-2" tvg-logo="https://live.fanmingming.com/tv/未知地方台-2.png" group-title="陕西地方台",未知地方台-2
 http://111.20.33.93/PLTV/88888893/224/3221226983/index.m3u8
 #EXTINF:-1 tvg-name="未知地方台-3" tvg-logo="https://live.fanmingming.com/tv/未知地方台-3.png" group-title="陕西地方台",未知地方台-3
-http://111.20.33.93/PLTV/88888893/224/3221227086/index.m3u8
-#EXTINF:-1 tvg-name="未知地方台-4" tvg-logo="https://live.fanmingming.com/tv/未知地方台-4.png" group-title="陕西地方台",未知地方台-4
 http://111.20.33.93/PLTV/88888893/224/3221227090/index.m3u8
 
 
