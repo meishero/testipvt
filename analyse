@@ -15,6 +15,13 @@ zteres.sn.chinamobile.com:6060
 [2409:8087:7000:20:1000::22]:6060
 
 
+中国移动IPTV域名通常遵循以下规律：
+全国通用
+iptv.chinamobile.com
+陕西
+dbiptv.sn.chinamobile.com   sn=陕西
+广东	
+dbiptv.gd.chinamobile.com   gd=广东
 
 中国移动IPTV主流平台概览
 平台详细解析
