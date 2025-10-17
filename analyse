@@ -14,7 +14,10 @@ zteres.sn.chinamobile.com:6060
 另IPv6 同样自带加速
 [2409:8087:7000:20:1000::22]:6060
 
-
+常见移动IP段：
+39.134.0.0/16     # 中国移动CDN网络
+112.25.0.0/16     # 中国移动骨干网
+117.136.0.0/16    # 中国移动4G网络
 中国移动IPTV域名通常遵循以下规律：
 全国通用
 iptv.chinamobile.com
@@ -22,6 +25,13 @@ iptv.chinamobile.com
 dbiptv.sn.chinamobile.com   sn=陕西
 广东	
 dbiptv.gd.chinamobile.com   gd=广东
+
+常见路径
+/live/stream.m3u8
+/hls/stream.m3u8  
+/tv/stream.m3u8
+/pltv/stream.m3u8
+
 
 中国移动IPTV主流平台概览
 平台详细解析
