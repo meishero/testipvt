@@ -1,0 +1,18 @@
+# 尽量每个源分开  电视里用多个频道合并功能
+# http://111.20.33.93/PLTV/ 电信移动均可 比较全 第一个找到的 作为频道顺序
+# http://112.27.235.94:8000/hls/  电信移动均可 看起来是私人搭建的HLS直播源服务器
+# http://zteres.sn.chinamobile.com  移动可用 应该是移动私有的
+# http://dbiptv.sn.chinamobile.com/PLTV/   典型的 ​中国移动省级IPTV直播源，属于运营商级专业直播服务，采用标准的HLS协议  CDN域名dbiptv.sn.chinamobile.com PLTV 直播电视平台  88888888移动通用标识  224 直播频道分类
+# http://zteres.sn.chinamobile.com:6060   应该是仅移动可用 下面有分析
+# /ottrrs.hl.chinamobile.com/PLTV/    移动失效了  已删除
+
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001071/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+zteres.sn.chinamobile.com:6060   CDN   	sn=陕西移动  运营商专用视频端口  	中兴银河IPTV平台  1=RTSP, 2=HLS, 3=HTTP-FLV  chxxx频道唯一编码    virtualDomain 智能调度虚拟域名
+
+CDN
+zteres.sn.chinamobile.com:6060 
+另IPv6 同样自带加速
+[2409:8087:7000:20:1000::22]:6060
+
+
+
