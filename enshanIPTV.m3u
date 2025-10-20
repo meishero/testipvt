@@ -625,6 +625,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226993/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227104/index.m3u8
 #EXTINF:-1 tvg-id="榆阳" tvg-name="榆阳" tvg-logo="https://live.fanmingming.com/tv/榆阳.png" group-title="🚩陕西地方台",榆阳
 http://111.20.33.93/PLTV/88888893/224/3221227017/index.m3u8
+#EXTINF:-1 tvg-id="府谷" tvg-name="府谷" tvg-logo="https://live.fanmingming.com/tv/FGTV.png" group-title="🚩陕西地方台",府谷
+http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
 #EXTINF:-1 tvg-id="横山" tvg-name="横山" tvg-logo="https://live.fanmingming.com/tv/横山.png" group-title="🚩陕西地方台",横山
 http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
 #EXTINF:-1 tvg-id="宁陕" tvg-name="宁陕" tvg-logo="https://live.fanmingming.com/tv/宁陕.png" group-title="🚩陕西地方台",宁陕
@@ -635,8 +637,6 @@ http://111.20.33.93/PLTV/88888893/224/3221227002/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
 #EXTINF:-1 tvg-id="岚皋" tvg-name="岚皋" tvg-logo="https://live.fanmingming.com/tv/岚皋.png" group-title="🚩陕西地方台",岚皋
 http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
-#EXTINF:-1 tvg-id="FGTV" tvg-name="FGTV" tvg-logo="https://live.fanmingming.com/tv/FGTV.png" group-title="🚩陕西地方台",FGTV
-http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
 #EXTINF:-1 tvg-id="未知地方台-1" tvg-name="未知地方台-1" tvg-logo="https://live.fanmingming.com/tv/未知地方台-1.png" group-title="🚩陕西地方台",未知地方台-1
 http://111.20.33.93/PLTV/88888893/224/3221226982/index.m3u8
 #EXTINF:-1 tvg-id="未知地方台-2" tvg-name="未知地方台-2" tvg-logo="https://live.fanmingming.com/tv/未知地方台-2.png" group-title="🚩陕西地方台",未知地方台-2
