@@ -376,10 +376,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="🌊港·澳·台",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
-
-
-
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+
+
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="🚩陕西",陕西卫视
 http://111.20.33.93/PLTV/88888893/224/3221227096/index.m3u8
 #EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西新闻资讯" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="🚩陕西",陕西新闻资讯
@@ -513,45 +513,45 @@ http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 
 
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="🪁教育·少儿·动画",CETV-1 综合教育 
-http://111.20.33.93/PLTV/极速版/224/3221225753/index.m3u8
+http://111.20.33.93/PLTV/88888888/224/3221225753/index.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="🪁教育·少儿·动画",CETV-2 教育教学
 http://111.20.33.93/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="🪁教育·少儿·极速版",CETV-3 北京地面
-http://111.20.33.93/PLTV/88888893/224/极速版/index.m3u8
+#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="🪁教育·少儿·动画",CETV-3 北京地面
+http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="🪁教育·少儿·动画",CETV-4 职业教育
 http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-l极速版="https://live.fanmingming.com/tv/早期教育.png" group-title="🪁教育·少儿·动画",CETV-早期教育
-http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u极速版
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="🪁教育·少儿·动画",CETV-早期教育
+http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="🪁教育·少儿·动画",湖南金鹰纪实
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🪁教育·少儿·动画",嘉佳卡通
-http://111.20极速版.33.93/PLTV/88888893/224/3221226227/index.m3u8
+http://111.20.33.93/PLTV/88888893/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁教育·少儿·动画",优漫卡通
 http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁教育·少儿·动画",金鹰卡通
 http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
 
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="�极速版教育·少儿·动画",C极速版早期教育
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="🪁教育·少儿·动画",CETV-早期教育
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001052/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🪁教育·少儿·动画",黑莓动画
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=100000000400002173极速版&livemode=1&stbId=3
-#EXTINF:-极速版 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com极速版/tv/动漫秀场.png" group-title="🪁教育·少儿·动画",SiTV动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🪁教育·少儿·动画",SiTV动漫秀场
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="🪁教育·少儿·动画",IHOT极速版动漫
-http://zteres.sn.chinamobile极速版.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="🪁教育·少儿·动画",IHOT爱动漫
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科学.png" group-title="🪁教育·少儿·动画",IHOT爱科学
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Content极速版id=6000000006000160630&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="🪁教育·少儿·动画",IHOT爱旅行
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stb极速版Id=3
-#EXTINF:-1 tvg-id="IHOT爱科幻" tvg极速版-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="🪁教育·少儿·动画",IHOT爱科幻
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000033/极速版1.m3u8?channel-id=hnbblive&Contentid=200极速版0000004000000033&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/t极速版v/求索记录.png" group-title="🪁教育·少儿·动画",求索记录
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="🪁教育·少儿·动画",IHOT爱科幻
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="🪁教育·少儿·动画",求索记录
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="🪁教育·少儿·动画",求索动物
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="🪁教育·少儿·动画",求索科学
-http://zteres.sn.chinamobile.com:606极速版0/000000001000/2000000004000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="探索记录" tvg-name="探索记录" tvg-logo="https://live.fanmingming.com/tv/探索记录.png" group-title="🪁教育·少儿·动画",探索记录
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3
 
@@ -643,6 +643,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226982/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226983/index.m3u8
 #EXTINF:-1 tvg-id="未知地方台-3" tvg-name="未知地方台-3" tvg-logo="https://live.fanmingming.com/tv/未知地方台-3.png" group-title="🚩陕西地方台",未知地方台-3
 http://111.20.33.93/PLTV/88888893/224/3221227090/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="🏛未分类",NEWTV精品萌宠
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
