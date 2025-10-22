@@ -129,7 +129,7 @@ http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
 http://111.20.33.93/PLTV/88888893/224/3221227112/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
@@ -530,5 +530,5 @@ http://111.20.33.93/PLTV/88888893/224/3221226353/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="🏛未分类",CCTV-央广购物
 http://111.20.33.93/PLTV/88888893/224/3221226032/index.m3u8
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="🏛未分类",CCTV-优购物
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="🏛未分类",山西优购物
 http://111.20.33.93/PLTV/88888893/224/3221227115/index.m3u8
