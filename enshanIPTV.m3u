@@ -740,7 +740,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227022/index.m3u8
 
 #EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="🏛未分类",NEWTV精品萌宠
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏛未分类",上海五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育HD" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏛未分类",上海五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="https://live.fanmingming.com/tv/漫游世界.png" group-title="🏛未分类",漫游世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/1.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
