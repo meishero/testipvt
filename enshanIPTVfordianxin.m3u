@@ -383,141 +383,151 @@ http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="长安" tvg-name="长安" tvg-logo="https://live.fanmingming.com/tv/长安.png" group-title="🚩陕西地方台",长安
+# 西安
+#EXTINF:-1 tvg-id="长安" tvg-name="长安" tvg-logo="https://live.fanmingming.com/tv/长安.png" group-title="🚩陕西地方台",西安·长安
 http://111.20.33.93/PLTV/88888893/224/3221226985/index.m3u8
-#EXTINF:-1 tvg-id="临潼" tvg-name="临潼" tvg-logo="https://live.fanmingming.com/tv/临潼.png" group-title="🚩陕西地方台",临潼
+#EXTINF:-1 tvg-id="临潼" tvg-name="临潼" tvg-logo="https://live.fanmingming.com/tv/临潼.png" group-title="🚩陕西地方台",西安·临潼
 http://111.20.33.93/PLTV/88888893/224/3221227062/index.m3u8
-#EXTINF:-1 tvg-id="周至" tvg-name="周至" tvg-logo="https://live.fanmingming.com/tv/周至.png" group-title="🚩陕西地方台",周至
+#EXTINF:-1 tvg-id="周至" tvg-name="周至" tvg-logo="https://live.fanmingming.com/tv/周至.png" group-title="🚩陕西地方台",西安·周至
 http://111.20.33.93/PLTV/88888893/224/3221226988/index.m3u8
-#EXTINF:-1 tvg-id="武功综合" tvg-name="武功综合" tvg-logo="https://live.fanmingming.com/tv/武功综合.png" group-title="🚩陕西地方台",武功综合
+# 咸阳
+#EXTINF:-1 tvg-id="武功综合" tvg-name="武功综合" tvg-logo="https://live.fanmingming.com/tv/武功综合.png" group-title="🚩陕西地方台",咸阳·武功综合
 http://111.20.33.93/PLTV/88888893/224/3221227043/index.m3u8
-#EXTINF:-1 tvg-id="兴平融媒" tvg-name="兴平融媒" tvg-logo="https://live.fanmingming.com/tv/兴平融媒.png" group-title="🚩陕西地方台",兴平融媒
+#EXTINF:-1 tvg-id="兴平融媒" tvg-name="兴平融媒" tvg-logo="https://live.fanmingming.com/tv/兴平融媒.png" group-title="🚩陕西地方台",咸阳·兴平融媒
 http://111.20.33.93/PLTV/88888893/224/3221226971/index.m3u8
 #EXTINF:-1 tvg-id="杨陵" tvg-name="杨陵" tvg-logo="https://live.fanmingming.com/tv/杨陵.png" group-title="🚩陕西地方台",杨陵
 http://111.20.33.93/PLTV/88888893/224/3221227063/index.m3u8
-#EXTINF:-1 tvg-id="乾县" tvg-name="乾县" tvg-logo="https://live.fanmingming.com/tv/乾县.png" group-title="🚩陕西地方台",乾县
+#EXTINF:-1 tvg-id="乾县" tvg-name="乾县" tvg-logo="https://live.fanmingming.com/tv/乾县.png" group-title="🚩陕西地方台",咸阳·乾县
 http://111.20.33.93/PLTV/88888893/224/3221227066/index.m3u8
-#EXTINF:-1 tvg-id="礼泉综合" tvg-name="礼泉综合" tvg-logo="https://live.fanmingming.com/tv/礼泉综合.png" group-title="🚩陕西地方台",礼泉综合
+#EXTINF:-1 tvg-id="礼泉综合" tvg-name="礼泉综合" tvg-logo="https://live.fanmingming.com/tv/礼泉综合.png" group-title="🚩陕西地方台",咸阳·礼泉综合
 http://111.20.33.93/PLTV/88888893/224/3221227065/index.m3u8
-#EXTINF:-1 tvg-id="礼泉影视" tvg-name="礼泉影视" tvg-logo="https://live.fanmingming.com/tv/礼泉影视.png" group-title="🚩陕西地方台",礼泉影视
+#EXTINF:-1 tvg-id="礼泉影视" tvg-name="礼泉影视" tvg-logo="https://live.fanmingming.com/tv/礼泉影视.png" group-title="🚩陕西地方台",咸阳·礼泉影视
 http://111.20.33.93/PLTV/88888893/224/3221227068/index.m3u8
-#EXTINF:-1 tvg-id="泾阳" tvg-name="泾阳" tvg-logo="https://live.fanmingming.com/tv/泾阳.png" group-title="🚩陕西地方台",泾阳
+#EXTINF:-1 tvg-id="泾阳" tvg-name="泾阳" tvg-logo="https://live.fanmingming.com/tv/泾阳.png" group-title="🚩陕西地方台",咸阳·泾阳
 http://111.20.33.93/PLTV/88888893/224/3221226979/index.m3u8
-#EXTINF:-1 tvg-id="彬州" tvg-name="彬州" tvg-logo="https://live.fanmingming.com/tv/彬州.png" group-title="🚩陕西地方台",彬州
+#EXTINF:-1 tvg-id="彬州" tvg-name="彬州" tvg-logo="https://live.fanmingming.com/tv/彬州.png" group-title="🚩陕西地方台",咸阳·彬州
 http://111.20.33.93/PLTV/88888893/224/3221227087/index.m3u8
-#EXTINF:-1 tvg-id="长武" tvg-name="长武" tvg-logo="https://live.fanmingming.com/tv/长武.png" group-title="🚩陕西地方台",长武
+#EXTINF:-1 tvg-id="长武" tvg-name="长武" tvg-logo="https://live.fanmingming.com/tv/长武.png" group-title="🚩陕西地方台",咸阳·长武
 http://111.20.33.93/PLTV/88888893/224/3221227074/index.m3u8
-#EXTINF:-1 tvg-id="淳化" tvg-name="淳化" tvg-logo="https://live.fanmingming.com/tv/淳化.png" group-title="🚩陕西地方台",淳化
+#EXTINF:-1 tvg-id="淳化" tvg-name="淳化" tvg-logo="https://live.fanmingming.com/tv/淳化.png" group-title="🚩陕西地方台",咸阳·淳化
 http://111.20.33.93/PLTV/88888893/224/3221227080/index.m3u8
-#EXTINF:-1 tvg-id="永寿" tvg-name="永寿" tvg-logo="https://live.fanmingming.com/tv/永寿.png" group-title="🚩陕西地方台",永寿
+#EXTINF:-1 tvg-id="永寿" tvg-name="永寿" tvg-logo="https://live.fanmingming.com/tv/永寿.png" group-title="🚩陕西地方台",咸阳·永寿
 http://111.20.33.93/PLTV/88888893/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-id="旬邑" tvg-name="旬邑" tvg-logo="https://live.fanmingming.com/tv/旬邑.png" group-title="🚩陕西地方台",旬邑
+#EXTINF:-1 tvg-id="旬邑" tvg-name="旬邑" tvg-logo="https://live.fanmingming.com/tv/旬邑.png" group-title="🚩陕西地方台",咸阳·旬邑
 http://111.20.33.93/PLTV/88888893/224/3221227077/index.m3u8
-#EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="🚩陕西地方台",扶风
+# 宝鸡
+#EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="🚩陕西地方台",宝鸡·扶风
 http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-id="陈仓" tvg-name="陈仓" tvg-logo="https://live.fanmingming.com/tv/陈仓.png" group-title="🚩陕西地方台",陈仓
+#EXTINF:-1 tvg-id="陈仓" tvg-name="陈仓" tvg-logo="https://live.fanmingming.com/tv/陈仓.png" group-title="🚩陕西地方台",宝鸡·陈仓
 http://111.20.33.93/PLTV/88888893/224/3221227086/index.m3u8
-#EXTINF:-1 tvg-id="眉县新闻综合" tvg-name="眉县新闻综合" tvg-logo="https://live.fanmingming.com/tv/眉县新闻综合.png" group-title="🚩陕西地方台",眉县新闻综合
+#EXTINF:-1 tvg-id="眉县新闻综合" tvg-name="眉县新闻综合" tvg-logo="https://live.fanmingming.com/tv/眉县新闻综合.png" group-title="🚩陕西地方台",宝鸡·眉县新闻综合
 http://111.20.33.93/PLTV/88888893/224/3221227069/index.m3u8
-#EXTINF:-1 tvg-id="麟游" tvg-name="麟游" tvg-logo="https://live.fanmingming.com/tv/麟游.png" group-title="🚩陕西地方台",麟游
+#EXTINF:-1 tvg-id="麟游" tvg-name="麟游" tvg-logo="https://live.fanmingming.com/tv/麟游.png" group-title="🚩陕西地方台",宝鸡·麟游
 http://111.20.33.93/PLTV/88888893/224/3221227072/index.m3u8
-#EXTINF:-1 tvg-id="太白" tvg-name="太白" tvg-logo="https://live.fanmingming.com/tv/太白.png" group-title="🚩陕西地方台",太白
+#EXTINF:-1 tvg-id="太白" tvg-name="太白" tvg-logo="https://live.fanmingming.com/tv/太白.png" group-title="🚩陕西地方台",宝鸡·太白
 http://111.20.33.93/PLTV/88888893/224/3221227083/index.m3u8
-#EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="🚩陕西地方台",千阳
+#EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="🚩陕西地方台",宝鸡·千阳
 http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
-#EXTINF:-1 tvg-id="蒲城综合" tvg-name="蒲城综合" tvg-logo="https://live.fanmingming.com/tv/蒲城综合.png" group-title="🚩陕西地方台",蒲城综合
+# 渭南
+#EXTINF:-1 tvg-id="蒲城综合" tvg-name="蒲城综合" tvg-logo="https://live.fanmingming.com/tv/蒲城综合.png" group-title="🚩陕西地方台",渭南·蒲城综合
 http://111.20.33.93/PLTV/88888893/224/3221226976/index.m3u8
-#EXTINF:-1 tvg-id="华州综合" tvg-name="华州综合" tvg-logo="https://live.fanmingming.com/tv/华州综合.png" group-title="🚩陕西地方台",华州综合
+#EXTINF:-1 tvg-id="华州综合" tvg-name="华州综合" tvg-logo="https://live.fanmingming.com/tv/华州综合.png" group-title="🚩陕西地方台",渭南·华州综合
 http://111.20.33.93/PLTV/88888893/224/3221227050/index.m3u8
-#EXTINF:-1 tvg-id="富平" tvg-name="富平" tvg-logo="https://live.fanmingming.com/tv/富平.png" group-title="🚩陕西地方台",富平
+#EXTINF:-1 tvg-id="富平" tvg-name="富平" tvg-logo="https://live.fanmingming.com/tv/富平.png" group-title="🚩陕西地方台",渭南·富平
 http://111.20.33.93/PLTV/88888893/224/3221226968/index.m3u8
-#EXTINF:-1 tvg-id="华阴" tvg-name="华阴" tvg-logo="https://live.fanmingming.com/tv/华阴.png" group-title="🚩陕西地方台",华阴
+#EXTINF:-1 tvg-id="华阴" tvg-name="华阴" tvg-logo="https://live.fanmingming.com/tv/华阴.png" group-title="🚩陕西地方台",渭南·华阴
 http://111.20.33.93/PLTV/88888893/224/3221227028/index.m3u8
-#EXTINF:-1 tvg-id="韩城综合" tvg-name="韩城综合" tvg-logo="https://live.fanmingming.com/tv/韩城综合.png" group-title="🚩陕西地方台",韩城综合
+#EXTINF:-1 tvg-id="韩城综合" tvg-name="韩城综合" tvg-logo="https://live.fanmingming.com/tv/韩城综合.png" group-title="🚩陕西地方台",渭南·韩城综合
 http://111.20.33.93/PLTV/88888893/224/3221227107/index.m3u8
-#EXTINF:-1 tvg-id="合阳" tvg-name="合阳" tvg-logo="https://live.fanmingming.com/tv/合阳.png" group-title="🚩陕西地方台",合阳
+#EXTINF:-1 tvg-id="合阳" tvg-name="合阳" tvg-logo="https://live.fanmingming.com/tv/合阳.png" group-title="🚩陕西地方台",渭南·合阳
 http://111.20.33.93/PLTV/88888893/224/3221227053/index.m3u8
-#EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://live.fanmingming.com/tv/宁强综合.png" group-title="🚩陕西地方台",宁强综合
+# 汉中
+#EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://live.fanmingming.com/tv/宁强综合.png" group-title="🚩陕西地方台",汉中·宁强综合
 http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
-#EXTINF:-1 tvg-id="佛坪综合" tvg-name="佛坪综合" tvg-logo="https://live.fanmingming.com/tv/佛坪综合.png" group-title="🚩陕西地方台",佛坪综合
+#EXTINF:-1 tvg-id="佛坪综合" tvg-name="佛坪综合" tvg-logo="https://live.fanmingming.com/tv/佛坪综合.png" group-title="🚩陕西地方台",汉中·佛坪综合
 http://111.20.33.93/PLTV/88888893/224/3221226454/index.m3u8
-#EXTINF:-1 tvg-id="镇巴" tvg-name="镇巴" tvg-logo="https://live.fanmingming.com/tv/镇巴.png" group-title="🚩陕西地方台",镇巴
+#EXTINF:-1 tvg-id="镇巴" tvg-name="镇巴" tvg-logo="https://live.fanmingming.com/tv/镇巴.png" group-title="🚩陕西地方台",汉中·镇巴
 http://111.20.33.93/PLTV/88888893/224/3221226457/index.m3u8
-#EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://live.fanmingming.com/tv/西乡融媒.png" group-title="🚩陕西地方台",西乡融媒
+#EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://live.fanmingming.com/tv/西乡融媒.png" group-title="🚩陕西地方台",汉中·西乡融媒
 http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
-#EXTINF:-1 tvg-id="城固" tvg-name="城固" tvg-logo="https://live.fanmingming.com/tv/城固.png" group-title="🚩陕西地方台",城固
+#EXTINF:-1 tvg-id="城固" tvg-name="城固" tvg-logo="https://live.fanmingming.com/tv/城固.png" group-title="🚩陕西地方台",汉中·城固
 http://111.20.33.93/PLTV/88888893/224/3221226920/index.m3u8
-#EXTINF:-1 tvg-id="洋县" tvg-name="洋县" tvg-logo="https://live.fanmingming.com/tv/洋县.png" group-title="🚩陕西地方台",洋县
+#EXTINF:-1 tvg-id="洋县" tvg-name="洋县" tvg-logo="https://live.fanmingming.com/tv/洋县.png" group-title="🚩陕西地方台",汉中·洋县
 http://111.20.33.93/PLTV/88888893/224/3221226938/index.m3u8
-#EXTINF:-1 tvg-id="留坝" tvg-name="留坝" tvg-logo="https://live.fanmingming.com/tv/留坝.png" group-title="🚩陕西地方台",留坝
+#EXTINF:-1 tvg-id="留坝" tvg-name="留坝" tvg-logo="https://live.fanmingming.com/tv/留坝.png" group-title="🚩陕西地方台",汉中·留坝
 http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
-#EXTINF:-1 tvg-id="南郑综合" tvg-name="南郑综合" tvg-logo="https://live.fanmingming.com/tv/南郑综合.png" group-title="🚩陕西地方台",南郑综合
+#EXTINF:-1 tvg-id="南郑综合" tvg-name="南郑综合" tvg-logo="https://live.fanmingming.com/tv/南郑综合.png" group-title="🚩陕西地方台",汉中·南郑综合
 http://111.20.33.93/PLTV/88888893/224/3221226955/index.m3u8
-#EXTINF:-1 tvg-id="勉县综合" tvg-name="勉县综合" tvg-logo="https://live.fanmingming.com/tv/勉县综合.png" group-title="🚩陕西地方台",勉县综合
+#EXTINF:-1 tvg-id="勉县综合" tvg-name="勉县综合" tvg-logo="https://live.fanmingming.com/tv/勉县综合.png" group-title="🚩陕西地方台",汉中·勉县综合
 http://111.20.33.93/PLTV/88888893/224/3221226952/index.m3u8
-#EXTINF:-1 tvg-id="略阳" tvg-name="略阳" tvg-logo="https://live.fanmingming.com/tv/略阳.png" group-title="🚩陕西地方台",略阳
+#EXTINF:-1 tvg-id="略阳" tvg-name="略阳" tvg-logo="https://live.fanmingming.com/tv/略阳.png" group-title="🚩陕西地方台",汉中·略阳
 http://111.20.33.93/PLTV/88888893/224/3221226322/index.m3u8
-#EXTINF:-1 tvg-id="延川融媒" tvg-name="延川融媒" tvg-logo="https://live.fanmingming.com/tv/延川融媒.png" group-title="🚩陕西地方台",延川融媒
+#延安
+#EXTINF:-1 tvg-id="延川融媒" tvg-name="延川融媒" tvg-logo="https://live.fanmingming.com/tv/延川融媒.png" group-title="🚩陕西地方台",延安·延川融媒
 http://111.20.33.93/PLTV/88888893/224/3221227064/index.m3u8
-#EXTINF:-1 tvg-id="黄龙融媒" tvg-name="黄龙融媒" tvg-logo="https://live.fanmingming.com/tv/黄龙融媒.png" group-title="🚩陕西地方台",黄龙融媒
+#EXTINF:-1 tvg-id="黄龙融媒" tvg-name="黄龙融媒" tvg-logo="https://live.fanmingming.com/tv/黄龙融媒.png" group-title="🚩陕西地方台",延安·黄龙融媒
 http://111.20.33.93/PLTV/88888893/224/3221227029/index.m3u8
-#EXTINF:-1 tvg-id="吴起" tvg-name="吴起" tvg-logo="https://live.fanmingming.com/tv/吴起.png" group-title="🚩陕西地方台",吴起
+#EXTINF:-1 tvg-id="吴起" tvg-name="吴起" tvg-logo="https://live.fanmingming.com/tv/吴起.png" group-title="🚩陕西地方台",延安·吴起
 http://111.20.33.93/PLTV/88888893/224/3221226967/index.m3u8
-#EXTINF:-1 tvg-id="志丹" tvg-name="志丹" tvg-logo="https://live.fanmingming.com/tv/志丹.png" group-title="🚩陕西地方台",志丹
+#EXTINF:-1 tvg-id="志丹" tvg-name="志丹" tvg-logo="https://live.fanmingming.com/tv/志丹.png" group-title="🚩陕西地方台",延安·志丹
 http://111.20.33.93/PLTV/88888893/224/3221226989/index.m3u8
-#EXTINF:-1 tvg-id="洛川融媒" tvg-name="洛川融媒" tvg-logo="https://live.fanmingming.com/tv/洛川融媒.png" group-title="🚩陕西地方台",洛川融媒
+#EXTINF:-1 tvg-id="洛川融媒" tvg-name="洛川融媒" tvg-logo="https://live.fanmingming.com/tv/洛川融媒.png" group-title="🚩陕西地方台",延安·洛川融媒
 http://111.20.33.93/PLTV/88888893/224/3221226996/index.m3u8
-#EXTINF:-1 tvg-id="富县" tvg-name="富县" tvg-logo="https://live.fanmingming.com/tv/富县.png" group-title="🚩陕西地方台",富县
+#EXTINF:-1 tvg-id="富县" tvg-name="富县" tvg-logo="https://live.fanmingming.com/tv/富县.png" group-title="🚩陕西地方台",延安·富县
 http://111.20.33.93/PLTV/88888893/224/3221227015/index.m3u8
-#EXTINF:-1 tvg-id="甘泉" tvg-name="甘泉" tvg-logo="https://live.fanmingming.com/tv/甘泉.png" group-title="🚩陕西地方台",甘泉
+#EXTINF:-1 tvg-id="甘泉" tvg-name="甘泉" tvg-logo="https://live.fanmingming.com/tv/甘泉.png" group-title="🚩陕西地方台",延安·甘泉
 http://111.20.33.93/PLTV/88888893/224/3221227056/index.m3u8
-#EXTINF:-1 tvg-id="延长" tvg-name="延长" tvg-logo="https://live.fanmingming.com/tv/延长.png" group-title="🚩陕西地方台",延长
+#EXTINF:-1 tvg-id="延长" tvg-name="延长" tvg-logo="https://live.fanmingming.com/tv/延长.png" group-title="🚩陕西地方台",延安·延长
 http://111.20.33.93/PLTV/88888893/224/3221227021/index.m3u8
-#EXTINF:-1 tvg-id="黄陵" tvg-name="黄陵" tvg-logo="https://live.fanmingming.com/tv/黄陵.png" group-title="🚩陕西地方台",黄陵
+#EXTINF:-1 tvg-id="黄陵" tvg-name="黄陵" tvg-logo="https://live.fanmingming.com/tv/黄陵.png" group-title="🚩陕西地方台",延安·黄陵
 http://111.20.33.93/PLTV/88888893/224/3221226992/index.m3u8
-#EXTINF:-1 tvg-id="子长" tvg-name="子长" tvg-logo="https://live.fanmingming.com/tv/子长.png" group-title="🚩陕西地方台",子长
+#EXTINF:-1 tvg-id="子长" tvg-name="子长" tvg-logo="https://live.fanmingming.com/tv/子长.png" group-title="🚩陕西地方台",延安·子长
 http://111.20.33.93/PLTV/88888893/224/3221227061/index.m3u8
-#EXTINF:-1 tvg-id="神木" tvg-name="神木" tvg-logo="https://live.fanmingming.com/tv/神木.png" group-title="🚩陕西地方台",神木
+#榆林
+#EXTINF:-1 tvg-id="神木" tvg-name="神木" tvg-logo="https://live.fanmingming.com/tv/神木.png" group-title="🚩陕西地方台",榆林·神木
 http://111.20.33.93/PLTV/88888893/224/3221226993/index.m3u8
-#EXTINF:-1 tvg-id="子洲" tvg-name="子洲" tvg-logo="https://live.fanmingming.com/tv/子洲.png" group-title="🚩陕西地方台",子洲
+#EXTINF:-1 tvg-id="子洲" tvg-name="子洲" tvg-logo="https://live.fanmingming.com/tv/子洲.png" group-title="🚩陕西地方台",榆林·子洲
 http://111.20.33.93/PLTV/88888893/224/3221227104/index.m3u8
-#EXTINF:-1 tvg-id="榆阳" tvg-name="榆阳" tvg-logo="https://live.fanmingming.com/tv/榆阳.png" group-title="🚩陕西地方台",榆阳
+#EXTINF:-1 tvg-id="榆阳" tvg-name="榆阳" tvg-logo="https://live.fanmingming.com/tv/榆阳.png" group-title="🚩陕西地方台",榆林·榆阳
 http://111.20.33.93/PLTV/88888893/224/3221227017/index.m3u8
-#EXTINF:-1 tvg-id="府谷" tvg-name="府谷" tvg-logo="https://live.fanmingming.com/tv/府谷.png" group-title="🚩陕西地方台",府谷
+#EXTINF:-1 tvg-id="府谷" tvg-name="府谷" tvg-logo="https://live.fanmingming.com/tv/府谷.png" group-title="🚩陕西地方台",榆林·府谷
 http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
-#EXTINF:-1 tvg-id="定边" tvg-name="定边" tvg-logo="https://live.fanmingming.com/tv/定边.png" group-title="🚩陕西地方台",定边
+#EXTINF:-1 tvg-id="定边" tvg-name="定边" tvg-logo="https://live.fanmingming.com/tv/定边.png" group-title="🚩陕西地方台",榆林·定边
 http://111.20.33.93/PLTV/88888893/224/3221226997/index.m3u8
-#EXTINF:-1 tvg-id="佳县" tvg-name="佳县" tvg-logo="https://live.fanmingming.com/tv/佳县.png" group-title="🚩陕西地方台",佳县
+#EXTINF:-1 tvg-id="佳县" tvg-name="佳县" tvg-logo="https://live.fanmingming.com/tv/佳县.png" group-title="🚩陕西地方台",榆林·佳县
 http://111.20.33.93/PLTV/88888893/224/3221227059/index.m3u8
-#EXTINF:-1 tvg-id="靖边" tvg-name="靖边" tvg-logo="https://live.fanmingming.com/tv/靖边.png" group-title="🚩陕西地方台",靖边
+#EXTINF:-1 tvg-id="靖边" tvg-name="靖边" tvg-logo="https://live.fanmingming.com/tv/靖边.png" group-title="🚩陕西地方台",榆林·靖边
 http://111.20.33.93/PLTV/88888893/224/3221226980/index.m3u8
-#EXTINF:-1 tvg-id="横山" tvg-name="横山" tvg-logo="https://live.fanmingming.com/tv/横山.png" group-title="🚩陕西地方台",横山
+#EXTINF:-1 tvg-id="横山" tvg-name="横山" tvg-logo="https://live.fanmingming.com/tv/横山.png" group-title="🚩陕西地方台",榆林·横山
 http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
-#EXTINF:-1 tvg-id="宁陕" tvg-name="宁陕" tvg-logo="https://live.fanmingming.com/tv/宁陕.png" group-title="🚩陕西地方台",宁陕
+#安康
+#EXTINF:-1 tvg-id="宁陕" tvg-name="宁陕" tvg-logo="https://live.fanmingming.com/tv/宁陕.png" group-title="🚩陕西地方台",安康·宁陕
 http://111.20.33.93/PLTV/88888893/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-id="石泉" tvg-name="石泉" tvg-logo="https://live.fanmingming.com/tv/石泉.png" group-title="🚩陕西地方台",石泉
+#EXTINF:-1 tvg-id="石泉" tvg-name="石泉" tvg-logo="https://live.fanmingming.com/tv/石泉.png" group-title="🚩陕西地方台",安康·石泉
 http://111.20.33.93/PLTV/88888893/224/3221226965/index.m3u8
-#EXTINF:-1 tvg-id="平利" tvg-name="平利" tvg-logo="https://live.fanmingming.com/tv/平利.png" group-title="🚩陕西地方台",平利
+#EXTINF:-1 tvg-id="平利" tvg-name="平利" tvg-logo="https://live.fanmingming.com/tv/平利.png" group-title="🚩陕西地方台",安康·平利
 http://111.20.33.93/PLTV/88888893/224/3221227016/index.m3u8
-#EXTINF:-1 tvg-id="汉阴" tvg-name="汉阴" tvg-logo="https://live.fanmingming.com/tv/汉阴.png" group-title="🚩陕西地方台",汉阴
+#EXTINF:-1 tvg-id="汉阴" tvg-name="汉阴" tvg-logo="https://live.fanmingming.com/tv/汉阴.png" group-title="🚩陕西地方台",安康·汉阴
 http://111.20.33.93/PLTV/88888893/224/3221226995/index.m3u8
-#EXTINF:-1 tvg-id="白河" tvg-name="白河" tvg-logo="https://live.fanmingming.com/tv/白河.png" group-title="🚩陕西地方台",白河
+#EXTINF:-1 tvg-id="白河" tvg-name="白河" tvg-logo="https://live.fanmingming.com/tv/白河.png" group-title="🚩陕西地方台",安康·白河
 http://111.20.33.93/PLTV/88888893/224/3221226973/index.m3u8
-#EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="🚩陕西地方台",紫阳综合
+#EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="🚩陕西地方台",安康·紫阳综合
 http://111.20.33.93/PLTV/88888893/224/3221227002/index.m3u8
-#EXTINF:-1 tvg-id="镇平综合" tvg-name="镇平综合" tvg-logo="https://live.fanmingming.com/tv/镇平综合.png" group-title="🚩陕西地方台",镇平综合
+#EXTINF:-1 tvg-id="镇平综合" tvg-name="镇平综合" tvg-logo="https://live.fanmingming.com/tv/镇平综合.png" group-title="🚩陕西地方台",安康·镇平综合
 http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
-#EXTINF:-1 tvg-id="岚皋" tvg-name="岚皋" tvg-logo="https://live.fanmingming.com/tv/岚皋.png" group-title="🚩陕西地方台",岚皋
+#EXTINF:-1 tvg-id="岚皋" tvg-name="岚皋" tvg-logo="https://live.fanmingming.com/tv/岚皋.png" group-title="🚩陕西地方台",安康·岚皋
 http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
-#EXTINF:-1 tvg-id="宜君" tvg-name="宜君" tvg-logo="https://live.fanmingming.com/tv/宜君.png" group-title="🚩陕西地方台",宜君
+#铜川
+#EXTINF:-1 tvg-id="宜君" tvg-name="宜君" tvg-logo="https://live.fanmingming.com/tv/宜君.png" group-title="🚩陕西地方台",铜川宜君
 http://111.20.33.93/PLTV/88888893/224/3221226974/index.m3u8
-#EXTINF:-1 tvg-id="耀州" tvg-name="耀州" tvg-logo="https://live.fanmingming.com/tv/耀州.png" group-title="🚩陕西地方台",耀州
+#EXTINF:-1 tvg-id="耀州" tvg-name="耀州" tvg-logo="https://live.fanmingming.com/tv/耀州.png" group-title="🚩陕西地方台",铜川耀州
 http://111.20.33.93/PLTV/88888893/224/3221226977/index.m3u8
-#EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商南
+#商洛
+#EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商洛`商南
 http://111.20.33.93/PLTV/88888893/224/3221226986/index.m3u8
-#EXTINF:-1 tvg-id="洛南" tvg-name="洛南" tvg-logo="https://live.fanmingming.com/tv/洛南.png" group-title="🚩陕西地方台",洛南
+#EXTINF:-1 tvg-id="洛南" tvg-name="洛南" tvg-logo="https://live.fanmingming.com/tv/洛南.png" group-title="🚩陕西地方台",商洛`洛南
 http://111.20.33.93/PLTV/88888893/224/3221226999/index.m3u8
-#EXTINF:-1 tvg-id="镇安" tvg-name="镇安" tvg-logo="https://live.fanmingming.com/tv/镇安.png" group-title="🚩陕西地方台",镇安
+#EXTINF:-1 tvg-id="镇安" tvg-name="镇安" tvg-logo="https://live.fanmingming.com/tv/镇安.png" group-title="🚩陕西地方台",商洛`镇安
 http://111.20.33.93/PLTV/88888893/224/3221227022/index.m3u8
 #EXTINF:-1 tvg-id="未知地方台-1" tvg-name="未知地方台-1" tvg-logo="https://live.fanmingming.com/tv/未知地方台-1.png" group-title="🚩陕西地方台",未知地方台-1
 http://111.20.33.93/PLTV/88888893/224/3221226982/index.m3u8
