@@ -186,7 +186,7 @@ http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
 http://111.20.33.93/PLTV/88888893/224/3221227112/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
@@ -340,7 +340,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 
 # 第一梯队：高收视率全国频道
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="📡卫视",上海新闻综合
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -697,9 +697,9 @@ http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
 #EXTINF:-1 tvg-id="岚皋" tvg-name="岚皋" tvg-logo="https://live.fanmingming.com/tv/岚皋.png" group-title="🚩陕西地方台",安康·岚皋
 http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
 #铜川
-#EXTINF:-1 tvg-id="宜君" tvg-name="宜君" tvg-logo="https://live.fanmingming.com/tv/宜君.png" group-title="🚩陕西地方台",铜川宜君
+#EXTINF:-1 tvg-id="宜君" tvg-name="宜君" tvg-logo="https://live.fanmingming.com/tv/宜君.png" group-title="🚩陕西地方台",铜川·宜君
 http://111.20.33.93/PLTV/88888893/224/3221226974/index.m3u8
-#EXTINF:-1 tvg-id="耀州" tvg-name="耀州" tvg-logo="https://live.fanmingming.com/tv/耀州.png" group-title="🚩陕西地方台",铜川耀州
+#EXTINF:-1 tvg-id="耀州" tvg-name="耀州" tvg-logo="https://live.fanmingming.com/tv/耀州.png" group-title="🚩陕西地方台",铜川·耀州
 http://111.20.33.93/PLTV/88888893/224/3221226977/index.m3u8
 #商洛
 #EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商洛`商南
