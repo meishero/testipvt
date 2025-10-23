@@ -380,16 +380,27 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8MACAU.png" group-title="🌊港·澳·台",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="🌊港·澳·台",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="🌊港·澳·台",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8MACAU.png" group-title="🌊港·澳·台",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
+https://149.102.97.122/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8MACAU.png" group-title="🌊港·澳·台",澳视卫星
+https://149.102.97.122/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://live.fanmingming.com/tv/澳门资讯.png" group-title="🌊港·澳·台",澳门资讯
+https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.com/tv/澳门综艺.png" group-title="🌊港·澳·台",澳门综艺
+https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://live.fanmingming.com/tv/澳门体育.png" group-title="🌊港·澳·台",澳门体育
+https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
 
 
 
