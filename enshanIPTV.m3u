@@ -699,6 +699,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226980/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
 #EXTINF:-1 tvg-id="绥德" tvg-name="绥德" tvg-logo="https://live.fanmingming.com/tv/绥德.png" group-title="🚩陕西地方台",榆林·绥德
 http://111.20.33.93/PLTV/88888893/224/3221227000/index.m3u8
+#EXTINF:-1 tvg-id="吴堡" tvg-name="吴堡" tvg-logo="https://live.fanmingming.com/tv/吴堡.png" group-title="🚩陕西地方台",榆林·吴堡
+http://111.20.33.93/PLTV/88888893/224/3221226983/index.m3u8
 #安康
 #EXTINF:-1 tvg-id="宁陕" tvg-name="宁陕" tvg-logo="https://live.fanmingming.com/tv/宁陕.png" group-title="🚩陕西地方台",安康·宁陕
 http://111.20.33.93/PLTV/88888893/224/3221226998/index.m3u8
@@ -722,14 +724,12 @@ http://111.20.33.93/PLTV/88888893/224/3221226974/index.m3u8
 #EXTINF:-1 tvg-id="耀州" tvg-name="耀州" tvg-logo="https://live.fanmingming.com/tv/耀州.png" group-title="🚩陕西地方台",铜川·耀州
 http://111.20.33.93/PLTV/88888893/224/3221226977/index.m3u8
 #商洛
-#EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商洛`商南
+#EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商洛·商南
 http://111.20.33.93/PLTV/88888893/224/3221226986/index.m3u8
-#EXTINF:-1 tvg-id="洛南" tvg-name="洛南" tvg-logo="https://live.fanmingming.com/tv/洛南.png" group-title="🚩陕西地方台",商洛`洛南
+#EXTINF:-1 tvg-id="洛南" tvg-name="洛南" tvg-logo="https://live.fanmingming.com/tv/洛南.png" group-title="🚩陕西地方台",商洛·洛南
 http://111.20.33.93/PLTV/88888893/224/3221226999/index.m3u8
-#EXTINF:-1 tvg-id="镇安" tvg-name="镇安" tvg-logo="https://live.fanmingming.com/tv/镇安.png" group-title="🚩陕西地方台",商洛`镇安
+#EXTINF:-1 tvg-id="镇安" tvg-name="镇安" tvg-logo="https://live.fanmingming.com/tv/镇安.png" group-title="🚩陕西地方台",商洛·镇安
 http://111.20.33.93/PLTV/88888893/224/3221227022/index.m3u8
-#EXTINF:-1 tvg-id="未知地方台-2" tvg-name="未知地方台-2" tvg-logo="https://live.fanmingming.com/tv/未知地方台-2.png" group-title="🚩陕西地方台",未知地方台-2
-http://111.20.33.93/PLTV/88888893/224/3221226983/index.m3u8
 #EXTINF:-1 tvg-id="未知地方台-3" tvg-name="未知地方台-3" tvg-logo="https://live.fanmingming.com/tv/未知地方台-3.png" group-title="🚩陕西地方台",未知地方台-3
 http://111.20.33.93/PLTV/88888893/224/3221227090/index.m3u8
 
