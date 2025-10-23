@@ -490,7 +490,7 @@ http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🎬电影·娱乐",CHC影迷电影
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
-#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="🎬电影·娱乐",NEWTV超级电影
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="🎬电影·娱乐",NEWTV超级电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🎬电影·娱乐",黑莓电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
@@ -506,7 +506,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769528108/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="Hot风尚音乐" tvg-name="Hot风尚音乐" tvg-logo="https://live.fanmingming.com/tv/Hot风尚音乐.png" group-title="🎬电影·娱乐",Hot风尚音乐
 http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="🎬电影·娱乐",NEWTV超级综艺
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="🎬电影·娱乐",NEWTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="🎬电影·娱乐",书画频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -532,7 +532,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🪁教育·少儿·动画",嘉佳卡通
 http://111.20.33.93/PLTV/88888893/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁教育·少儿·动画",优漫卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁教育·少儿·动画",优漫卡通
 http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁教育·少儿·动画",金鹰卡通
 http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
@@ -738,7 +738,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227022/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="🏛未分类",NEWTV精品萌宠
+#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="🏛未分类",NEWTV精品萌宠
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏛未分类",上海五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
