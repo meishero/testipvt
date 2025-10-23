@@ -388,8 +388,14 @@ http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226985/index.m3u8
 #EXTINF:-1 tvg-id="临潼" tvg-name="临潼" tvg-logo="https://live.fanmingming.com/tv/临潼.png" group-title="🚩陕西地方台",西安·临潼
 http://111.20.33.93/PLTV/88888893/224/3221227062/index.m3u8
+#EXTINF:-1 tvg-id="高陵" tvg-name="高陵" tvg-logo="https://live.fanmingming.com/tv/高陵.png" group-title="🚩陕西地方台",西安·高陵
+http://111.20.33.93/PLTV/88888893/224/3221227031/index.m3u8
 #EXTINF:-1 tvg-id="周至" tvg-name="周至" tvg-logo="https://live.fanmingming.com/tv/周至.png" group-title="🚩陕西地方台",西安·周至
 http://111.20.33.93/PLTV/88888893/224/3221226988/index.m3u8
+#EXTINF:-1 tvg-id="鄠邑" tvg-name="鄠邑" tvg-logo="https://live.fanmingming.com/tv/鄠邑.png" group-title="🚩陕西地方台",西安·鄠邑
+http://111.20.33.93/PLTV/88888893/224/3221227008/index.m3u8
+#EXTINF:-1 tvg-id="蓝田" tvg-name="蓝田" tvg-logo="https://live.fanmingming.com/tv/蓝田.png" group-title="🚩陕西地方台",西安·蓝田
+http://111.20.33.93/PLTV/88888893/224/3221227011/index.m3u8
 # 咸阳
 #EXTINF:-1 tvg-id="武功综合" tvg-name="武功综合" tvg-logo="https://live.fanmingming.com/tv/武功综合.png" group-title="🚩陕西地方台",咸阳·武功综合
 http://111.20.33.93/PLTV/88888893/224/3221227043/index.m3u8
@@ -429,6 +435,8 @@ http://111.20.33.93/PLTV/88888893/224/3221227083/index.m3u8
 #EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="🚩陕西地方台",宝鸡·千阳
 http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
 # 渭南
+#EXTINF:-1 tvg-id="大荔" tvg-name="大荔" tvg-logo="https://live.fanmingming.com/tv/大荔.png" group-title="🚩陕西地方台",渭南·大荔
+http://111.20.33.93/PLTV/88888893/224/3221227025/index.m3u8
 #EXTINF:-1 tvg-id="蒲城综合" tvg-name="蒲城综合" tvg-logo="https://live.fanmingming.com/tv/蒲城综合.png" group-title="🚩陕西地方台",渭南·蒲城综合
 http://111.20.33.93/PLTV/88888893/224/3221226976/index.m3u8
 #EXTINF:-1 tvg-id="华州综合" tvg-name="华州综合" tvg-logo="https://live.fanmingming.com/tv/华州综合.png" group-title="🚩陕西地方台",渭南·华州综合
@@ -441,6 +449,8 @@ http://111.20.33.93/PLTV/88888893/224/3221227028/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-id="合阳" tvg-name="合阳" tvg-logo="https://live.fanmingming.com/tv/合阳.png" group-title="🚩陕西地方台",渭南·合阳
 http://111.20.33.93/PLTV/88888893/224/3221227053/index.m3u8
+#EXTINF:-1 tvg-id="白水" tvg-name="白水" tvg-logo="https://live.fanmingming.com/tv/白水.png" group-title="🚩陕西地方台",渭南·白水
+http://111.20.33.93/PLTV/88888893/224/3221227051/index.m3u8
 # 汉中
 #EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://live.fanmingming.com/tv/宁强综合.png" group-title="🚩陕西地方台",汉中·宁强综合
 http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
@@ -500,6 +510,8 @@ http://111.20.33.93/PLTV/88888893/224/3221227059/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226980/index.m3u8
 #EXTINF:-1 tvg-id="横山" tvg-name="横山" tvg-logo="https://live.fanmingming.com/tv/横山.png" group-title="🚩陕西地方台",榆林·横山
 http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
+#EXTINF:-1 tvg-id="绥德" tvg-name="绥德" tvg-logo="https://live.fanmingming.com/tv/绥德.png" group-title="🚩陕西地方台",榆林·绥德
+http://111.20.33.93/PLTV/88888893/224/3221227000/index.m3u8
 #安康
 #EXTINF:-1 tvg-id="宁陕" tvg-name="宁陕" tvg-logo="https://live.fanmingming.com/tv/宁陕.png" group-title="🚩陕西地方台",安康·宁陕
 http://111.20.33.93/PLTV/88888893/224/3221226998/index.m3u8
