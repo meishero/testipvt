@@ -603,6 +603,8 @@ http://111.20.33.93/PLTV/88888893/224/3221227077/index.m3u8
 # 宝鸡
 #EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="🚩陕西地方台",宝鸡·扶风
 http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
+#EXTINF:-1 tvg-id="陇县" tvg-name="陇县" tvg-logo="https://live.fanmingming.com/tv/陇县.png" group-title="🚩陕西地方台",宝鸡·陇县
+http://111.20.33.93/PLTV/88888893/224/3221227092/index.m3u8
 #EXTINF:-1 tvg-id="陈仓" tvg-name="陈仓" tvg-logo="https://live.fanmingming.com/tv/陈仓.png" group-title="🚩陕西地方台",宝鸡·陈仓
 http://111.20.33.93/PLTV/88888893/224/3221227086/index.m3u8
 #EXTINF:-1 tvg-id="眉县新闻综合" tvg-name="眉县新闻综合" tvg-logo="https://live.fanmingming.com/tv/眉县新闻综合.png" group-title="🚩陕西地方台",宝鸡·眉县新闻综合
