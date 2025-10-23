@@ -177,7 +177,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001054/index.m3u8?
 
 
 
-# 第一梯队：全国覆盖最广、收视率最高的头部卫视
+#第一梯队：全国覆盖最广、收视率最高的头部卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡卫视",浙江卫视
@@ -190,7 +190,7 @@ http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227112/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
-# 第二梯队：全国性较强、收视稳定的卫视
+#第二梯队：全国性较强、收视稳定的卫视
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡卫视",广东卫视
 http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡卫视",深圳卫视
@@ -203,7 +203,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226203/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
-# 第三梯队：区域性强或有特色的卫视
+#第三梯队：区域性强或有特色的卫视
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
 http://111.20.33.93/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡卫视",辽宁卫视
@@ -238,7 +238,7 @@ http://111.20.33.93/PLTV/88888888/224/3221225794/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225748/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="📡卫视",甘肃卫视
 http://111.20.33.93/PLTV/88888888/224/3221225754/index.m3u8
-# 第四梯队：地方特色或少数民族频道
+#第四梯队：地方特色或少数民族频道
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="📡卫视",新疆卫视
 http://111.20.33.93/PLTV/88888893/224/3221227136/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
@@ -258,7 +258,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226228/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="📡卫视",三沙卫视
 http://111.20.33.93/PLTV/88888893/224/3221227055/index.m3u8
 
-# 第一梯队：全国覆盖最广、收视率最高的头部卫视
+#第一梯队：全国覆盖最广、收视率最高的头部卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://112.27.235.94:8000/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡卫视",浙江卫视
@@ -269,7 +269,7 @@ http://112.27.235.94:8000/hls/28/index.m3u8
 http://112.27.235.94:8000/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://112.27.235.94:8000/hls/27/index.m3u8
-# 第二梯队：全国性较强、收视稳定的卫视
+#第二梯队：全国性较强、收视稳定的卫视
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡卫视",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡卫视",深圳卫视
@@ -282,7 +282,7 @@ http://112.27.235.94:8000/hls/26/index.m3u8
 http://112.27.235.94:8000/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://112.27.235.94:8000/hls/36/index.m3u8
-# 第三梯队：区域性强或有特色的卫视
+#第三梯队：区域性强或有特色的卫视
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡卫视",四川卫视
 http://112.27.235.94:8000/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="📡卫视",河南卫视
@@ -305,11 +305,11 @@ http://112.27.235.94:8000/hls/45/index.m3u8
 http://112.27.235.94:8000/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡卫视",贵州卫视
 http://112.27.235.94:8000/hls/46/index.m3u8
-# 第四梯队：地方特色或少数民族频道
+#第四梯队：地方特色或少数民族频道
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
 http://112.27.235.94:8000/hls/49/index.m3u8
 
-# 第一梯队：全国覆盖最广、收视率最高的头部卫视
+#第一梯队：全国覆盖最广、收视率最高的头部卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡卫视",浙江卫视
@@ -320,7 +320,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
-# 第二梯队：全国性较强、收视稳定的卫视
+#第二梯队：全国性较强、收视稳定的卫视
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡卫视",广东卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡卫视",深圳卫视
@@ -331,7 +331,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
-# 第三梯队：区域性强或有特色的卫视
+#第三梯队：区域性强或有特色的卫视
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡卫视",湖北卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡卫视",辽宁卫视
@@ -339,14 +339,14 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡卫视",贵州卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 
-# 第一梯队：高收视率全国频道
+#第一梯队：高收视率全国频道
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="📡卫视",上海新闻综合
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="📡卫视",广东珠江
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-# 第二梯队：区域性强势频道
+#第二梯队：区域性强势频道
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="📡卫视",广西卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="📡卫视",新疆卫视
@@ -355,10 +355,10 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001081/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001091/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="📡卫视",甘肃卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
-# 第三梯队：特色频道
+#第三梯队：特色频道
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="📡卫视",厦门卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
-# 第四梯队：少数民族/地方特色频道
+#第四梯队：少数民族/地方特色频道
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="📡卫视",西藏卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001071/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="📡卫视",兵团卫视
@@ -562,20 +562,23 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000011/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3
 
 
-# 西安
+
+#西安
 #EXTINF:-1 tvg-id="长安" tvg-name="长安" tvg-logo="https://live.fanmingming.com/tv/长安.png" group-title="🚩陕西地方台",西安·长安
 http://111.20.33.93/PLTV/88888893/224/3221226985/index.m3u8
 #EXTINF:-1 tvg-id="临潼" tvg-name="临潼" tvg-logo="https://live.fanmingming.com/tv/临潼.png" group-title="🚩陕西地方台",西安·临潼
 http://111.20.33.93/PLTV/88888893/224/3221227062/index.m3u8
 #EXTINF:-1 tvg-id="高陵" tvg-name="高陵" tvg-logo="https://live.fanmingming.com/tv/高陵.png" group-title="🚩陕西地方台",西安·高陵
 http://111.20.33.93/PLTV/88888893/224/3221227031/index.m3u8
+#EXTINF:-1 tvg-id="阎良" tvg-name="阎良" tvg-logo="https://live.fanmingming.com/tv/阎良.png" group-title="🚩陕西地方台",西安·阎良
+http://111.20.33.93/PLTV/88888893/224/3221227034/index.m3u8
 #EXTINF:-1 tvg-id="周至" tvg-name="周至" tvg-logo="https://live.fanmingming.com/tv/周至.png" group-title="🚩陕西地方台",西安·周至
 http://111.20.33.93/PLTV/88888893/224/3221226988/index.m3u8
 #EXTINF:-1 tvg-id="鄠邑" tvg-name="鄠邑" tvg-logo="https://live.fanmingming.com/tv/鄠邑.png" group-title="🚩陕西地方台",西安·鄠邑
 http://111.20.33.93/PLTV/88888893/224/3221227008/index.m3u8
 #EXTINF:-1 tvg-id="蓝田" tvg-name="蓝田" tvg-logo="https://live.fanmingming.com/tv/蓝田.png" group-title="🚩陕西地方台",西安·蓝田
 http://111.20.33.93/PLTV/88888893/224/3221227011/index.m3u8
-# 咸阳
+#咸阳
 #EXTINF:-1 tvg-id="武功综合" tvg-name="武功综合" tvg-logo="https://live.fanmingming.com/tv/武功综合.png" group-title="🚩陕西地方台",咸阳·武功综合
 http://111.20.33.93/PLTV/88888893/224/3221227043/index.m3u8
 #EXTINF:-1 tvg-id="兴平融媒" tvg-name="兴平融媒" tvg-logo="https://live.fanmingming.com/tv/兴平融媒.png" group-title="🚩陕西地方台",咸阳·兴平融媒
@@ -600,7 +603,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227080/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="旬邑" tvg-name="旬邑" tvg-logo="https://live.fanmingming.com/tv/旬邑.png" group-title="🚩陕西地方台",咸阳·旬邑
 http://111.20.33.93/PLTV/88888893/224/3221227077/index.m3u8
-# 宝鸡
+#宝鸡
 #EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="🚩陕西地方台",宝鸡·扶风
 http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-id="陇县" tvg-name="陇县" tvg-logo="https://live.fanmingming.com/tv/陇县.png" group-title="🚩陕西地方台",宝鸡·陇县
@@ -617,7 +620,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227072/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227083/index.m3u8
 #EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="🚩陕西地方台",宝鸡·千阳
 http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
-# 渭南
+#渭南
 #EXTINF:-1 tvg-id="大荔" tvg-name="大荔" tvg-logo="https://live.fanmingming.com/tv/大荔.png" group-title="🚩陕西地方台",渭南·大荔
 http://111.20.33.93/PLTV/88888893/224/3221227025/index.m3u8
 #EXTINF:-1 tvg-id="潼关" tvg-name="潼关" tvg-logo="https://live.fanmingming.com/tv/潼关.png" group-title="🚩陕西地方台",渭南·潼关
@@ -638,7 +641,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227107/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227053/index.m3u8
 #EXTINF:-1 tvg-id="白水" tvg-name="白水" tvg-logo="https://live.fanmingming.com/tv/白水.png" group-title="🚩陕西地方台",渭南·白水
 http://111.20.33.93/PLTV/88888893/224/3221227051/index.m3u8
-# 汉中
+#汉中
 #EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://live.fanmingming.com/tv/宁强综合.png" group-title="🚩陕西地方台",汉中·宁强综合
 http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
 #EXTINF:-1 tvg-id="佛坪综合" tvg-name="佛坪综合" tvg-logo="https://live.fanmingming.com/tv/佛坪综合.png" group-title="🚩陕西地方台",汉中·佛坪综合
@@ -716,7 +719,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226995/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226973/index.m3u8
 #EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="🚩陕西地方台",安康·紫阳综合
 http://111.20.33.93/PLTV/88888893/224/3221227002/index.m3u8
-#EXTINF:-1 tvg-id="镇平综合" tvg-name="镇平综合" tvg-logo="https://live.fanmingming.com/tv/镇平综合.png" group-title="🚩陕西地方台",安康·镇平综合
+#EXTINF:-1 tvg-id="镇坪综合" tvg-name="镇坪综合" tvg-logo="https://live.fanmingming.com/tv/镇坪综合.png" group-title="🚩陕西地方台",安康·镇坪综合
 http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
 #EXTINF:-1 tvg-id="岚皋" tvg-name="岚皋" tvg-logo="https://live.fanmingming.com/tv/岚皋.png" group-title="🚩陕西地方台",安康·岚皋
 http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
