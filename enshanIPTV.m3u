@@ -467,7 +467,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001002/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001011/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西二套" tvg-logo="https://live.fanmingming.com/tv/陕西都市青春.png" group-title="🚩陕西",陕西都市青春
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
-#EXTINF:-1 tvg-id="陕西影视" tvg-name="西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="🚩陕西",陕西西部电影
+#EXTINF:-1 tvg-id="西部电影" tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="🚩陕西",陕西西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 #EXTINF:-1 tvg-id="陕西新闻资讯" tvg-name="陕西一套" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="🚩陕西",陕西新闻资讯
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
