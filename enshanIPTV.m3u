@@ -371,11 +371,11 @@ http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰中文
 http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.com/tv/澳视卫星.png" group-title="🌊港·澳·台",澳视卫星
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8MACAU.png" group-title="🌊港·澳·台",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="🌊港·澳·台",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
