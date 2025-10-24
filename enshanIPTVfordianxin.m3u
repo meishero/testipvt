@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="📺央视",CCTV-4K
 http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视",CCTV-1 综合
@@ -84,7 +84,6 @@ http://111.20.33.93/PLTV/88888893/224/3221227095/index.m3u8
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="📺央视",CGTN-西班牙语
 http://111.20.33.93/PLTV/88888893/224/3221227098/index.m3u8
 
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视",CCTV-1 综合
 http://112.27.235.94:8000/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="📺央视",CCTV-2 财经
@@ -120,7 +119,7 @@ http://112.27.235.94:8000/hls/16/index.m3u8
 
 
 
-# 第一梯队：全国覆盖最广、收视率最高的头部卫视
+#第一梯队：全国覆盖最广、收视率最高的头部卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡卫视",浙江卫视
@@ -129,11 +128,11 @@ http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="📡卫视",北京卫视4K
 http://111.20.33.93/PLTV/88888893/224/3221227112/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
-# 第二梯队：全国性较强、收视稳定的卫视
+#第二梯队：全国性较强、收视稳定的卫视
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡卫视",广东卫视
 http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡卫视",深圳卫视
@@ -146,7 +145,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226203/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
-# 第三梯队：区域性强或有特色的卫视
+#第三梯队：区域性强或有特色的卫视
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
 http://111.20.33.93/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡卫视",辽宁卫视
@@ -181,7 +180,7 @@ http://111.20.33.93/PLTV/88888888/224/3221225794/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225748/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="📡卫视",甘肃卫视
 http://111.20.33.93/PLTV/88888888/224/3221225754/index.m3u8
-# 第四梯队：地方特色或少数民族频道
+#第四梯队：地方特色或少数民族频道
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="📡卫视",新疆卫视
 http://111.20.33.93/PLTV/88888893/224/3221227136/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
@@ -201,7 +200,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226228/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="📡卫视",三沙卫视
 http://111.20.33.93/PLTV/88888893/224/3221227055/index.m3u8
 
-# 第一梯队：全国覆盖最广、收视率最高的头部卫视
+#第一梯队：全国覆盖最广、收视率最高的头部卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://112.27.235.94:8000/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡卫视",浙江卫视
@@ -212,7 +211,7 @@ http://112.27.235.94:8000/hls/28/index.m3u8
 http://112.27.235.94:8000/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡卫视",北京卫视
 http://112.27.235.94:8000/hls/27/index.m3u8
-# 第二梯队：全国性较强、收视稳定的卫视
+#第二梯队：全国性较强、收视稳定的卫视
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡卫视",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡卫视",深圳卫视
@@ -225,7 +224,7 @@ http://112.27.235.94:8000/hls/26/index.m3u8
 http://112.27.235.94:8000/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://112.27.235.94:8000/hls/36/index.m3u8
-# 第三梯队：区域性强或有特色的卫视
+#第三梯队：区域性强或有特色的卫视
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡卫视",四川卫视
 http://112.27.235.94:8000/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="📡卫视",河南卫视
@@ -248,7 +247,7 @@ http://112.27.235.94:8000/hls/45/index.m3u8
 http://112.27.235.94:8000/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡卫视",贵州卫视
 http://112.27.235.94:8000/hls/46/index.m3u8
-# 第四梯队：地方特色或少数民族频道
+#第四梯队：地方特色或少数民族频道
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
 http://112.27.235.94:8000/hls/49/index.m3u8
 
@@ -259,18 +258,56 @@ http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰中文
 http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://upload.112114.xyz/logo/香港卫视.png" group-title="🌊港·澳·台",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典台.png" group-title="🌊港·澳·台",千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://upload.112114.xyz/logo/Astro AOD.png" group-title="🌊港·澳·台",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://upload.112114.xyz/logo/美亚电影.png" group-title="🌊港·澳·台",美亚电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://upload.112114.xyz/logo/TVB星河.png" group-title="🌊港·澳·台",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://upload.112114.xyz/logo/TVB Plus.png" group-title="🌊港·澳·台",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://upload.112114.xyz/logo/TVB Plus.png" group-title="🌊港·澳·台",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.112114.xyz/logo/华丽翡翠台.png" group-title="🌊港·澳·台",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.com/tv/澳视卫星.png" group-title="🌊港·澳·台",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="https://upload.112114.xyz/logo/viutv.png" group-title="🌊港·澳·台",viutv
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",viutv
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="🌊港·澳·台",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="🌊港·澳·台",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="🌊港·澳·台",HOY资讯台
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8MACAU.png" group-title="🌊港·澳·台",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🌊港·澳·台",澳视澳门
+https://149.102.97.122/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8MACAU.png" group-title="🌊港·澳·台",澳视卫星
+https://149.102.97.122/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://live.fanmingming.com/tv/澳视资讯.png" group-title="🌊港·澳·台",澳视资讯
+https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://live.fanmingming.com/tv/澳视综艺.png" group-title="🌊港·澳·台",澳视综艺
+https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://live.fanmingming.com/tv/澳视体育.png" group-title="🌊港·澳·台",澳视体育
+https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
 
 
 
@@ -296,9 +333,9 @@ http://111.20.33.93/PLTV/88888893/224/3221227125/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226361/index.m3u8
 #EXTINF:-1 tvg-id="陕西农林卫视" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="🚩陕西",农林卫视
 http://111.20.33.93/PLTV/88888893/224/3221226229/index.m3u8
-#EXTINF:-1 tvg-id="陕西影视" tvg-name="西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="🚩陕西",陕西西部电影
+#EXTINF:-1 tvg-id="西部电影" tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="🚩陕西",陕西西部电影
 http://111.20.33.93/PLTV/88888893/224/3221226364/index.m3u8
-#EXTINF:-1 tvg-id="陕西影视" tvg-name="西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="🚩陕西",陕西西部电影
+#EXTINF:-1 tvg-id="西部电影" tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="🚩陕西",陕西西部电影
 http://111.20.33.93/PLTV/88888893/224/3221227091/index.m3u8
 #EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://live.fanmingming.com/tv/西安新闻综合.png" group-title="🚩陕西",西安新闻综合
 http://111.20.33.93/PLTV/88888893/224/3221226366/index.m3u8
@@ -376,7 +413,7 @@ http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🪁教育·少儿·动画",嘉佳卡通
 http://111.20.33.93/PLTV/88888893/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁教育·少儿·动画",优漫卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁教育·少儿·动画",优漫卡通
 http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁教育·少儿·动画",金鹰卡通
 http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
@@ -549,14 +586,16 @@ http://111.20.33.93/PLTV/88888893/224/3221226974/index.m3u8
 #EXTINF:-1 tvg-id="耀州" tvg-name="耀州" tvg-logo="https://live.fanmingming.com/tv/耀州.png" group-title="🚩陕西地方台",铜川·耀州
 http://111.20.33.93/PLTV/88888893/224/3221226977/index.m3u8
 #商洛
-#EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商洛`商南
+#EXTINF:-1 tvg-id="商南" tvg-name="商南" tvg-logo="https://live.fanmingming.com/tv/商南.png" group-title="🚩陕西地方台",商洛·商南
 http://111.20.33.93/PLTV/88888893/224/3221226986/index.m3u8
-#EXTINF:-1 tvg-id="洛南" tvg-name="洛南" tvg-logo="https://live.fanmingming.com/tv/洛南.png" group-title="🚩陕西地方台",商洛`洛南
+#EXTINF:-1 tvg-id="洛南" tvg-name="洛南" tvg-logo="https://live.fanmingming.com/tv/洛南.png" group-title="🚩陕西地方台",商洛·洛南
 http://111.20.33.93/PLTV/88888893/224/3221226999/index.m3u8
-#EXTINF:-1 tvg-id="镇安" tvg-name="镇安" tvg-logo="https://live.fanmingming.com/tv/镇安.png" group-title="🚩陕西地方台",商洛`镇安
+#EXTINF:-1 tvg-id="镇安" tvg-name="镇安" tvg-logo="https://live.fanmingming.com/tv/镇安.png" group-title="🚩陕西地方台",商洛·镇安
 http://111.20.33.93/PLTV/88888893/224/3221227022/index.m3u8
 
 
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://live.fanmingming.com/tv/咪视界4K.png" group-title="🏛未分类",咪视界4K
+http://r.jdshipin.com/ln4xk
 
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="🏛未分类",上海第一财经
 http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
