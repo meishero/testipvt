@@ -374,21 +374,21 @@ http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://upload.112114.xyz/logo/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典台.png" group-title="🌊港·澳·台",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://upload.112114.xyz/logo/Astro AOD.png" group-title="🌊港·澳·台",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://upload.112114.xyz/logo/美亚电影.png" group-title="🌊港·澳·台",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-id="TVB 经典台" tvg-name="TVB 经典台" tvg-logo="https://upload.112114.xyz/logo/TVB 经典台.png" group-title="🌊港·澳·台",TVB经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://upload.112114.xyz/logo/TVB星河.png" group-title="🌊港·澳·台",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://upload.112114.xyz/logo/TVB Plus.png" group-title="🌊港·澳·台",TVB Plus
+#EXTINF:-1 tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://upload.112114.xyz/logo/TVBJ2.png" group-title="🌊港·澳·台",TVBJ2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://upload.112114.xyz/logo/TVB Plus.png" group-title="🌊港·澳·台",TVB Plus
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://upload.112114.xyz/logo/TVBPlus.png" group-title="🌊港·澳·台",TVBPlus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://upload.112114.xyz/logo/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://upload.112114.xyz/logo/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.112114.xyz/logo/华丽翡翠台.png" group-title="🌊港·澳·台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
