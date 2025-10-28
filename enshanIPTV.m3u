@@ -364,6 +364,9 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001071/index.m3u8?
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="📡卫视",兵团卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001072/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="📡卫视",海峡卫视
+http://php.jdshipin.com/TVOD/iptv.php?id=hxws
+
 
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://upload.112114.xyz/logo/香港卫视.png" group-title="🌊港·澳·台",香港卫视
@@ -375,9 +378,17 @@ http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="🌊港·澳·台",凤凰卫视资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="🌊港·澳·台",凤凰卫视资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="🌊港·澳·台",凤凰卫视资讯
+http://php.jdshipin.com:8880/jydx.php?id=36
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰卫视中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰卫视中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰卫视中文
+http://php.jdshipin.com:8880/jydx.php?id=37
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://upload.112114.xyz/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF.png" group-title="🌊港·澳·台",凤凰卫视香港
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://upload.112114.xyz/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF.png" group-title="🌊港·澳·台",凤凰卫视香港
@@ -582,6 +593,11 @@ http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="🎬电影·娱乐",CHC影迷电影
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
+#EXTINF:-1 tvg-id="1905国内电影" tvg-name="1905国内电影" tvg-logo="https://upload.112114.xyz/logo/1905国内电影.png" group-title="🎬电影·娱乐",1905国内电影
+1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-id="1905国外电影" tvg-name="1905国外电影" tvg-logo="https://upload.112114.xyz/logo/1905国外电影.png" group-title="🎬电影·娱乐",1905国外电影
+1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://upload.112114.xyz/logo/美亚电影.png" group-title="🎬电影·娱乐",美亚电影
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
@@ -857,6 +873,47 @@ http://r.jdshipin.com/ln4xk
 
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="🏛未分类",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
+
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV家庭剧场.png" group-title="🏛未分类",NEWTV家庭剧场
+http://106.53.99.30/tv/gitv.php?id=0001
+#EXTINF:-1 tvg-id="NEWTV怀旧年代" tvg-name="NEWTV怀旧年代" tvg-logo="https://upload.112114.xyz/logo/NEWTV怀旧年代.png" group-title="🏛未分类",NEWTV怀旧年代
+http://106.53.99.30/tv/gitv.php?id=0002
+#EXTINF:-1 tvg-id="NEWTV都市生活" tvg-name="NEWTV都市生活" tvg-logo="https://upload.112114.xyz/logo/NNEWTV都市生活.png" group-title="🏛未分类",NEWTV都市生活
+http://106.53.99.30/tv/gitv.php?id=0003
+#EXTINF:-1 tvg-id="NEWTV传奇剧场" tvg-name="NEWTV传奇剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV传奇剧场.png" group-title="🏛未分类",NEWTV传奇剧场
+http://106.53.99.30/tv/gitv.php?id=0004
+#EXTINF:-1 tvg-id="NEWTV警匪悬疑" tvg-name="NEWTV警匪悬疑" tvg-logo="https://upload.112114.xyz/logo/NEWTV警匪悬疑.png" group-title="🏛未分类",NEWTV警匪悬疑
+http://106.53.99.30/tv/gitv.php?id=0005
+#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV古装剧场.png" group-title="🏛未分类",NEWTV古装剧场
+http://106.53.99.30/tv/gitv.php?id=0006
+#EXTINF:-1 tvg-id="NEWTV抗战剧场" tvg-name="NEWTV抗战剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV抗战剧场.png" group-title="🏛未分类",NEWTV抗战剧场
+http://106.53.99.30/tv/gitv.php?id=0007
+#EXTINF:-1 tvg-id="NEWTV谍战剧场" tvg-name="NEWTV谍战剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV谍战剧场.png" group-title="🏛未分类",NEWTV谍战剧场
+http://106.53.99.30/tv/gitv.php?id=0008
+#EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="🏛未分类",NEWTV欢乐剧场
+http://106.53.99.30/tv/gitv.php?id=0009
+#EXTINF:-1 tvg-id="NEWTV经典老剧" tvg-name="NEWTV经典老剧" tvg-logo="https://upload.112114.xyz/logo/NEWTV经典老剧.png" group-title="🏛未分类",NEWTV经典老剧
+http://106.53.99.30/tv/gitv.php?id=0010
+#EXTINF:-1 tvg-id="NEWTV乡村剧场" tvg-name="NEWTV乡村剧场" tvg-logo="https://upload.112114.xyz/logo/NEWTV乡村剧场.png" group-title="🏛未分类",NEWTV乡村剧场
+http://106.53.99.30/tv/gitv.php?id=0011
+#EXTINF:-1 tvg-id="NEWTV电影大片" tvg-name="NEWTV电影大片" tvg-logo="https://upload.112114.xyz/logo/NEWTV电影大片.png" group-title="🏛未分类",NEWTV电影大片
+http://106.53.99.30/tv/gitv.php?id=0012
+#EXTINF:-1 tvg-id="NEWTV爆笑综艺" tvg-name="NEWTV爆笑综艺" tvg-logo="https://upload.112114.xyz/logo/NEWTV爆笑综艺.png" group-title="🏛未分类",NEWTV爆笑综艺
+http://106.53.99.30/tv/gitv.php?id=0013
+#EXTINF:-1 tvg-id="NEWTV智勇闯关" tvg-name="NEWTV智勇闯关" tvg-logo="https://upload.112114.xyz/logo/NEWTV智勇闯关.png" group-title="🏛未分类",NEWTV智勇闯关
+http://106.53.99.30/tv/gitv.php?id=0014
+#EXTINF:-1 tvg-id="NEWTV相声小品" tvg-name="NEWTV相声小品" tvg-logo="https://upload.112114.xyz/logo/NEWTV相声小品.png" group-title="🏛未分类",NEWTV相声小品
+http://106.53.99.30/tv/gitv.php?id=0015
+#EXTINF:-1 tvg-id="NEWTV中国通史" tvg-name="NEWTV中国通史" tvg-logo="https://upload.112114.xyz/logo/NEWTV中国通史.png" group-title="🏛未分类",NEWTV中国通史
+http://106.53.99.30/tv/gitv.php?id=0016
+#EXTINF:-1 tvg-id="NEWTV世界历史" tvg-name="NEWTV世界历史" tvg-logo="https://upload.112114.xyz/logo/NEWTV世界历史.png" group-title="🏛未分类",NEWTV世界历史
+http://106.53.99.30/tv/gitv.php?id=0017
+#EXTINF:-1 tvg-id="NEWTV传奇故事" tvg-name="NEWTV传奇故事" tvg-logo="https://upload.112114.xyz/logo/NEWTV传奇故事.png" group-title="🏛未分类",NEWTV传奇故事
+http://106.53.99.30/tv/gitv.php?id=0018
+#EXTINF:-1 tvg-id="NEWTV经典传奇" tvg-name="NEWTV经典传奇" tvg-logo="https://upload.112114.xyz/logo/NEWTV经典传奇.png" group-title="🏛未分类",NEWTV经典传奇
+http://106.53.99.30/tv/gitv.php?id=0019
+#EXTINF:-1 tvg-id="NEWTV纪实档案" tvg-name="NEWTV纪实档案" tvg-logo="https://upload.112114.xyz/logo/NEWTV纪实档案.png" group-title="🏛未分类",NEWTV纪实档案
+http://106.53.99.30/tv/gitv.php?id=0020
 
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="🏛未分类",上海第一财经
 http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
