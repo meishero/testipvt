@@ -681,8 +681,11 @@ http://111.20.33.93/PLTV/88888893/224/3221226999/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227022/index.m3u8
 
 
+
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="🏛未分类",上海五星体育
 https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="🏛未分类",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
 
 #EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="🏛未分类",NEWTV精品萌宠
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
@@ -698,8 +701,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?ch
 #EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界" tvg-logo="https://upload.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C4K.png" group-title="🏛未分类",咪视界4K
 http://r.jdshipin.com/ln4xk
 
-#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="🏛未分类",爱奇艺
-http://php.jdshipin.com:8880/smt.php?id=Qiyi
+
 
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="🏛未分类",上海第一财经
 http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
