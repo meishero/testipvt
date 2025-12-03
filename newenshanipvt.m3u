@@ -85,8 +85,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225784/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225785/index.m3u8
 
 #来自chinatv
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
-https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
+##https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
@@ -148,8 +148,8 @@ http://111.20.33.93/PLTV/88888893/224/3221227098/index.m3u8
 
 #第一梯队：全国覆盖最广、收视率最高的头部卫视
 #来自冰茶TV
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视",湖南卫视4K
-https://migu.188766.xyz/?migutoken=2dfd0c7e89fd9be7bb7d145c226f94f5&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+###EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+##https://migu.188766.xyz/?migutoken=2dfd0c7e89fd9be7bb7d145c226f94f5&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视",湖南卫视4K
@@ -161,8 +161,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225787/index.m3u8
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视",浙江卫视4K
-https://migu.188766.xyz/?migutoken=ecc1dcb0f97faf1123aa6f6eab7c7f15&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+###EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视",浙江卫视4K
+##https://migu.188766.xyz/?migutoken=ecc1dcb0f97faf1123aa6f6eab7c7f15&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视",浙江卫视4K
@@ -174,8 +174,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225788/index.m3u8
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视",东方卫视4K
-https://migu.188766.xyz/?migutoken=8158182d589375cceadfe940db8dbb4f&id=dfws&type=sz
+###EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视",东方卫视4K
+##https://migu.188766.xyz/?migutoken=8158182d589375cceadfe940db8dbb4f&id=dfws&type=sz
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视",东方卫视4K
@@ -187,8 +187,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225789/index.m3u8
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
-https://migu.188766.xyz/?migutoken=a172cb7c53ab53cde2adef1339883f10&id=js4k&pp=1
+###EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+##https://migu.188766.xyz/?migutoken=a172cb7c53ab53cde2adef1339883f10&id=js4k&pp=1
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
@@ -206,8 +206,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225790/index.m3u8
 #第二梯队：全国性较强、收视稳定的卫视
 #来自冰茶TV
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+###EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
+##http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="aliplayer"  tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
@@ -219,8 +219,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225757/index.m3u8
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
-https://migu.188766.xyz/?migutoken=de0579d17c893f7c5018058d864b79b5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+###EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
+##https://migu.188766.xyz/?migutoken=de0579d17c893f7c5018058d864b79b5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
@@ -801,8 +801,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/高清大片.png" group-title="电影·娱乐",高清大片
-https://migu.188766.xyz/?migutoken=584e4f63428afacf0e9f24926d643ce4&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
+###EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/高清大片.png" group-title="电影·娱乐",高清大片
+##https://migu.188766.xyz/?migutoken=584e4f63428afacf0e9f24926d643ce4&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
 
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="电影·娱乐",新片放映厅
@@ -855,26 +855,26 @@ http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 http://cdn8.163189.xyz/163189/lhyp
 
 #来自bee-v1
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png" group-title="电影·娱乐",HBO 1
-http://192.168.33.93:5070/play?id=HBO
-#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO-2" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png" group-title="电影·娱乐",HBO 2
-http://192.168.33.93:5070/play?id=HBO-2
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png" group-title="电影·娱乐",DISCOVERY CHANNEL
-http://192.168.33.93:5070/play?id=Discovery-Channel
-#EXTINF:-1 tvg-id="DISCOVERY LIFE CHANNEL" tvg-name="DISCOVERY LIFE CHANNEL" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png" group-title="电影·娱乐",DISCOVERY LIFE CHANNEL
-http://192.168.33.93:5070/play?id=Discovery-Life
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png" group-title="电影·娱乐",CINEMAX
-http://192.168.33.93:5070/play?id=Cinemax-West
-#EXTINF:-1 tvg-id="GREAT! MOVIES" tvg-name="GREAT! MOVIES" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png" group-title="电影·娱乐",GREAT! MOVIES
-http://192.168.33.93:5070/play?id=UK-Great-Movies
+###EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png" group-title="电影·娱乐",HBO 1
+##http://192.168.33.93:5070/play?id=HBO
+###EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO-2" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png" group-title="电影·娱乐",HBO 2
+##http://192.168.33.93:5070/play?id=HBO-2
+###EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png" group-title="电影·娱乐",DISCOVERY CHANNEL
+##http://192.168.33.93:5070/play?id=Discovery-Channel
+###EXTINF:-1 tvg-id="DISCOVERY LIFE CHANNEL" tvg-name="DISCOVERY LIFE CHANNEL" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png" group-title="电影·娱乐",DISCOVERY LIFE CHANNEL
+##http://192.168.33.93:5070/play?id=Discovery-Life
+###EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png" group-title="电影·娱乐",CINEMAX
+##http://192.168.33.93:5070/play?id=Cinemax-West
+###EXTINF:-1 tvg-id="GREAT! MOVIES" tvg-name="GREAT! MOVIES" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png" group-title="电影·娱乐",GREAT! MOVIES
+##http://192.168.33.93:5070/play?id=UK-Great-Movies
 
 #来自chinatv
-#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV动作电影.png" group-title="电影·娱乐",NewTV动作电影
-https://live.tv.darwinchow.com/channel/newtvdongzuodianying?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV惊悚悬疑.png" group-title="电影·娱乐",NewTV惊悚悬疑
-https://live.tv.darwinchow.com/channel/newtvjingsongxuanyi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓电影.png" group-title="电影·娱乐",黑莓电影
-https://live.tv.darwinchow.com/channel/heimeidianying?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV动作电影.png" group-title="电影·娱乐",NewTV动作电影
+##https://live.tv.darwinchow.com/channel/newtvdongzuodianying?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV惊悚悬疑.png" group-title="电影·娱乐",NewTV惊悚悬疑
+##https://live.tv.darwinchow.com/channel/newtvjingsongxuanyi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓电影.png" group-title="电影·娱乐",黑莓电影
+##https://live.tv.darwinchow.com/channel/heimeidianying?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #来自JACKTV-4gtv台湾节点
 #EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位电影.png" group-title="电影·娱乐",影迷數位電影
@@ -971,28 +971,28 @@ https://msj.188766.xyz/play?id=3000000020000011529&token=902e5062902e5062902e506
 https://msj.188766.xyz/play?id=3000000020000011523&token=902e505c902e505c902e505c902e505c
 
 #来自chinatv
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png" group-title="体育·休闲",睛彩竞技
-https://live.tv.darwinchow.com/channel/jingcaijingji?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="hhttps://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png" group-title="体育·休闲",睛彩青少
-https://live.tv.darwinchow.com/channel/jingcaiqingshao?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮球.png" group-title="体育·休闲",睛彩篮球
-https://live.tv.darwinchow.com/channel/jingcailanqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/先锋乒羽.png" group-title="体育·休闲",先锋乒羽
-https://live.tv.darwinchow.com/channel/xianfengpingyu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="体育·休闲",NewTV精品体育
-https://live.tv.darwinchow.com/channel/newtvjingpintiyu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵电竞.png" group-title="体育·休闲",哒啵电竞
-https://live.tv.darwinchow.com/channel/newtvdabodianjing?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵赛事.png" group-title="体育·休闲",哒啵赛事
-https://live.tv.darwinchow.com/channel/newtvdabosaishi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/魅力足球.png" group-title="体育·休闲",魅力足球
-https://live.tv.darwinchow.com/channel/meilizuqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://static.tv.darwinchow.com/logo/天下足球.png" group-title="体育·休闲",天下足球
-https://live.tv.darwinchow.com/channel/tianxiazuqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/天元围棋.png" group-title="体育·休闲",天元围棋
-https://live.tv.darwinchow.com/channel/tianyuanweiqi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/国学.png" group-title="体育·休闲",国学
-https://live.tv.darwinchow.com/channel/guoxue?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png" group-title="体育·休闲",睛彩竞技
+##https://live.tv.darwinchow.com/channel/jingcaijingji?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="hhttps://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png" group-title="体育·休闲",睛彩青少
+##https://live.tv.darwinchow.com/channel/jingcaiqingshao?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮球.png" group-title="体育·休闲",睛彩篮球
+##https://live.tv.darwinchow.com/channel/jingcailanqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/先锋乒羽.png" group-title="体育·休闲",先锋乒羽
+##https://live.tv.darwinchow.com/channel/xianfengpingyu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="体育·休闲",NewTV精品体育
+##https://live.tv.darwinchow.com/channel/newtvjingpintiyu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵电竞.png" group-title="体育·休闲",哒啵电竞
+##https://live.tv.darwinchow.com/channel/newtvdabodianjing?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵赛事.png" group-title="体育·休闲",哒啵赛事
+##https://live.tv.darwinchow.com/channel/newtvdabosaishi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/魅力足球.png" group-title="体育·休闲",魅力足球
+##https://live.tv.darwinchow.com/channel/meilizuqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://static.tv.darwinchow.com/logo/天下足球.png" group-title="体育·休闲",天下足球
+##https://live.tv.darwinchow.com/channel/tianxiazuqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/天元围棋.png" group-title="体育·休闲",天元围棋
+##https://live.tv.darwinchow.com/channel/tianyuanweiqi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/国学.png" group-title="体育·休闲",国学
+##https://live.tv.darwinchow.com/channel/guoxue?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/书画.png" group-title="体育·休闲",书画频道
 http://111.20.33.93/PLTV/88888893/224/3221227129/index.m3u8
@@ -1032,8 +1032,8 @@ http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 http://101.35.240.114:88/live.php?id=重温经典
 
 #来自chinatv
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/重温经典.png" group-title="剧场·综艺",重温经典
-https://live.tv.darwinchow.com/channel/chongwenjingdian?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/重温经典.png" group-title="剧场·综艺",重温经典
+##https://live.tv.darwinchow.com/channel/chongwenjingdian?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="剧场·综艺",最强综艺趴
@@ -1044,36 +1044,36 @@ http://192.168.33.93:3007/629942228
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 
 #来自chinatv
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场4K
-https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png" group-title="剧场·综艺",NewTV爱情喜剧
-https://live.tv.darwinchow.com/channel/newtvaiqingxiju?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV潮妈辣婆.png" group-title="剧场·综艺",NewTV潮妈辣婆
-https://live.tv.darwinchow.com/channel/newtvchaomalapo?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV古装剧场.png" group-title="剧场·综艺",NewTV古装剧场
-https://live.tv.darwinchow.com/channel/newtvguzhuangjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV家庭剧场.png" group-title="剧场·综艺",NewTV家庭剧场
-https://live.tv.darwinchow.com/channel/newtvjiatingjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV金牌综艺.png" group-title="剧场·综艺",NewTV金牌综艺
-https://live.tv.darwinchow.com/channel/newtvjinpaizongyi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV精彩轮播" tvg-name="NEWTV精彩轮播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精彩轮播.png" group-title="剧场·综艺",NewTV精彩轮播
-https://live.tv.darwinchow.com/channel/newtvjingcailunbo?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品大剧.png" group-title="剧场·综艺",NewTV精品大剧
-https://live.tv.darwinchow.com/channel/newtvjingpindaju?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品纪录.png" group-title="剧场·综艺",NewTV精品纪录
-https://live.tv.darwinchow.com/channel/newtvjingpinjilu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军旅剧场.png" group-title="剧场·综艺",NewTV军旅剧场
-https://live.tv.darwinchow.com/channel/newtvjunlvjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军事评论.png" group-title="剧场·综艺",NewTV军事评论
-https://live.tv.darwinchow.com/channel/newtvjunshipinglun?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV热播精选.png" group-title="剧场·综艺",NewTV热播精选
-https://live.tv.darwinchow.com/channel/newtvrebojingxuan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV炫舞未来.png" group-title="剧场·综艺",NewTV炫舞未来
-https://live.tv.darwinchow.com/channel/newtvxuanwuweilai?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV怡伴健康.png" group-title="剧场·综艺",NewTV怡伴健康
-https://live.tv.darwinchow.com/channel/newtvyibanjiankang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV中国功夫.png" group-title="剧场·综艺",NewTV中国功夫
-https://live.tv.darwinchow.com/channel/newtvzhongguogongfu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场4K
+##https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png" group-title="剧场·综艺",NewTV爱情喜剧
+##https://live.tv.darwinchow.com/channel/newtvaiqingxiju?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV潮妈辣婆.png" group-title="剧场·综艺",NewTV潮妈辣婆
+##https://live.tv.darwinchow.com/channel/newtvchaomalapo?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV古装剧场.png" group-title="剧场·综艺",NewTV古装剧场
+##https://live.tv.darwinchow.com/channel/newtvguzhuangjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV家庭剧场.png" group-title="剧场·综艺",NewTV家庭剧场
+##https://live.tv.darwinchow.com/channel/newtvjiatingjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV金牌综艺.png" group-title="剧场·综艺",NewTV金牌综艺
+##https://live.tv.darwinchow.com/channel/newtvjinpaizongyi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV精彩轮播" tvg-name="NEWTV精彩轮播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精彩轮播.png" group-title="剧场·综艺",NewTV精彩轮播
+##https://live.tv.darwinchow.com/channel/newtvjingcailunbo?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品大剧.png" group-title="剧场·综艺",NewTV精品大剧
+##https://live.tv.darwinchow.com/channel/newtvjingpindaju?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品纪录.png" group-title="剧场·综艺",NewTV精品纪录
+##https://live.tv.darwinchow.com/channel/newtvjingpinjilu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军旅剧场.png" group-title="剧场·综艺",NewTV军旅剧场
+##https://live.tv.darwinchow.com/channel/newtvjunlvjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军事评论.png" group-title="剧场·综艺",NewTV军事评论
+##https://live.tv.darwinchow.com/channel/newtvjunshipinglun?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV热播精选.png" group-title="剧场·综艺",NewTV热播精选
+##https://live.tv.darwinchow.com/channel/newtvrebojingxuan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV炫舞未来.png" group-title="剧场·综艺",NewTV炫舞未来
+##https://live.tv.darwinchow.com/channel/newtvxuanwuweilai?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV怡伴健康.png" group-title="剧场·综艺",NewTV怡伴健康
+##https://live.tv.darwinchow.com/channel/newtvyibanjiankang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV中国功夫.png" group-title="剧场·综艺",NewTV中国功夫
+##https://live.tv.darwinchow.com/channel/newtvzhongguogongfu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 
 
@@ -1093,16 +1093,16 @@ http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
 http://192.168.33.93:3007/609154353
 
 #来自chinatv
-#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://static.tv.darwinchow.com/logo/优优宝贝.png" group-title="教育·少儿·动画",优优宝贝
-https://live.tv.darwinchow.com/channel/youyoubaobei?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓动画.png" group-title="教育·少儿·动画",黑莓动画
-https://live.tv.darwinchow.com/channel/heimeidonghua?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
-https://live.tv.darwinchow.com/channel/dongmanxiuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/纪实科教.png" group-title="教育·少儿·动画",北京纪实科教
-https://live.tv.darwinchow.com/channel/beijingjishikejiao?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo//新动漫.png" group-title="教育·少儿·动画",新动漫
-https://live.tv.darwinchow.com/channel/xindongman?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://static.tv.darwinchow.com/logo/优优宝贝.png" group-title="教育·少儿·动画",优优宝贝
+##https://live.tv.darwinchow.com/channel/youyoubaobei?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓动画.png" group-title="教育·少儿·动画",黑莓动画
+##https://live.tv.darwinchow.com/channel/heimeidonghua?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
+##https://live.tv.darwinchow.com/channel/dongmanxiuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/纪实科教.png" group-title="教育·少儿·动画",北京纪实科教
+##https://live.tv.darwinchow.com/channel/beijingjishikejiao?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo//新动漫.png" group-title="教育·少儿·动画",新动漫
+##https://live.tv.darwinchow.com/channel/xindongman?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰纪实.png" group-title="教育·少儿·动画",湖南金鹰纪实
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
@@ -1114,16 +1114,16 @@ http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",卡酷少儿
-https://migu.188766.xyz/?migutoken=01da104c7a23af776346582fbe99ba11&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",哈哈炫动
-https://migu.188766.xyz/?migutoken=6b46788312d3365e50353d6bea9e1a43&id=hhxd&type=sz
+###EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",卡酷少儿
+##https://migu.188766.xyz/?migutoken=01da104c7a23af776346582fbe99ba11&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+###EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",哈哈炫动
+##https://migu.188766.xyz/?migutoken=6b46788312d3365e50353d6bea9e1a43&id=hhxd&type=sz
 
 #来自chinatv
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",卡酷少儿
-https://live.tv.darwinchow.com/channel/kakushaoer?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",哈哈炫动
-https://live.tv.darwinchow.com/channel/hahaxuandong?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",卡酷少儿
+##https://live.tv.darwinchow.com/channel/kakushaoer?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",哈哈炫动
+##https://live.tv.darwinchow.com/channel/hahaxuandong?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="教育·少儿·动画",经典动画大集合
@@ -1401,14 +1401,14 @@ http://111.20.33.93/PLTV/88888893/224/3221226970/index.m3u8
 
 
 #来自冰茶TV
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
+###EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
+##https://event.pull.hebtv.com:443/live/live101.m3u8
 
 #来自chinatv
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
-https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhqqg.png" group-title="未分类",环球奇观
-https://live.tv.darwinchow.com/channel/huanqiuqiguan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
+##https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhqqg.png" group-title="未分类",环球奇观
+##https://live.tv.darwinchow.com/channel/huanqiuqiguan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" group-title="未分类",环球旅游
@@ -1419,28 +1419,28 @@ http://192.168.33.93:3007/959986621
 http://192.168.33.93:3007/959986618
 
 #来自chinatv
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://static.tv.darwinchow.com/logo/生态环境.png" group-title="未分类",生态环境
-https://live.tv.darwinchow.com/channel/eetv?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品萌宠.png" group-title="未分类",NewTV精品萌宠
-https://live.tv.darwinchow.com/channel/newtvjingpinmengchong?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/家庭理财.png" group-title="未分类",家庭理财
-https://live.tv.darwinchow.com/channel/jiatinglicai?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
-https://live.tv.darwinchow.com/channel/dongfangcaijing?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",游戏风云
-https://live.tv.darwinchow.com/channel/youxifengyun?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",乐游
-https://live.tv.darwinchow.com/channel/leyou?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/法治天地.png" group-title="未分类",法治天地
-https://live.tv.darwinchow.com/channel/fazhitiandi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",都市剧场
-https://live.tv.darwinchow.com/channel/dushijuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/金色学堂.png" group-title="未分类",金色学堂
-https://live.tv.darwinchow.com/channel/jinsexuetang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
-https://live.tv.darwinchow.com/channel/shenghuoshishang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
-https://live.tv.darwinchow.com/channel/shoucangtianxia?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://static.tv.darwinchow.com/logo/生态环境.png" group-title="未分类",生态环境
+##https://live.tv.darwinchow.com/channel/eetv?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品萌宠.png" group-title="未分类",NewTV精品萌宠
+##https://live.tv.darwinchow.com/channel/newtvjingpinmengchong?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/家庭理财.png" group-title="未分类",家庭理财
+##https://live.tv.darwinchow.com/channel/jiatinglicai?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
+##https://live.tv.darwinchow.com/channel/dongfangcaijing?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",游戏风云
+##https://live.tv.darwinchow.com/channel/youxifengyun?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",乐游
+##https://live.tv.darwinchow.com/channel/leyou?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/法治天地.png" group-title="未分类",法治天地
+##https://live.tv.darwinchow.com/channel/fazhitiandi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",都市剧场
+##https://live.tv.darwinchow.com/channel/dushijuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/金色学堂.png" group-title="未分类",金色学堂
+##https://live.tv.darwinchow.com/channel/jinsexuetang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
+##https://live.tv.darwinchow.com/channel/shenghuoshishang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+###EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
+##https://live.tv.darwinchow.com/channel/shoucangtianxia?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="未分类",爱奇艺
