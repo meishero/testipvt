@@ -151,9 +151,9 @@ http://111.20.33.93/PLTV/88888893/224/3221227098/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视",湖南卫视4K
 https://migu.188766.xyz/?migutoken=2dfd0c7e89fd9be7bb7d145c226f94f5&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 
-#来自chinatv
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视",湖南卫视4K
-https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://101.35.240.114:88/live.php?id=湖南卫视4K
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖南卫视.png" group-title="卫视",湖南卫视
 http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
@@ -164,9 +164,9 @@ http://111.20.33.93/PLTV/88888888/224/3221225787/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视",浙江卫视4K
 https://migu.188766.xyz/?migutoken=ecc1dcb0f97faf1123aa6f6eab7c7f15&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 
-#来自chinatv
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视",浙江卫视4K
-https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="卫视",浙江卫视4K
+http://101.35.240.114:88/live.php?id=浙江卫视4K
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/浙江卫视.png" group-title="卫视",浙江卫视
 http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
@@ -177,9 +177,9 @@ http://111.20.33.93/PLTV/88888888/224/3221225788/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视",东方卫视4K
 https://migu.188766.xyz/?migutoken=8158182d589375cceadfe940db8dbb4f&id=dfws&type=sz
 
-#来自chinatv
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视",东方卫视4K
-https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="卫视",东方卫视4K
+http://101.35.240.114:88/live.php?id=东方卫视4K
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/东方卫视.png" group-title="卫视",东方卫视
 http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
@@ -190,8 +190,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225789/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
 https://migu.188766.xyz/?migutoken=a172cb7c53ab53cde2adef1339883f10&id=js4k&pp=1
 
-#来自chinatv
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+#来自APTV专用
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
 https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png" group-title="卫视",江苏卫视
@@ -209,9 +209,9 @@ http://111.20.33.93/PLTV/88888888/224/3221225790/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 
-#来自chinatv
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
-https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="aliplayer"  tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
+http://101.35.240.114:88/live.php?id=广东卫视4K
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/广东卫视.png" group-title="卫视",广东卫视
 http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
@@ -222,18 +222,18 @@ http://111.20.33.93/PLTV/88888888/224/3221225757/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
 https://migu.188766.xyz/?migutoken=de0579d17c893f7c5018058d864b79b5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
-#来自chinatv
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
-https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
+http://101.35.240.114:88/live.php?id=深圳卫视
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png" group-title="卫视",深圳卫视
 http://111.20.33.93/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png" group-title="卫视",深圳卫视
 http://111.20.33.93/PLTV/88888888/224/3221225752/index.m3u8
 
-#来自chinatv
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视",山东卫视4K
-https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" http-user-agent="aliplayer" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视",山东卫视4K
+http://101.35.240.114:88/live.php?id=山东卫视4K
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东卫视.png" group-title="卫视",山东卫视
 http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
@@ -263,9 +263,9 @@ http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖北卫视.png" group-title="卫视",湖北卫视
 http://111.20.33.93/PLTV/88888888/224/3221225760/index.m3u8
 
-#来自chinatv
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视",四川卫视4K
-https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+#来自APTV专用
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视",四川卫视4K
+http://101.35.240.114:88/live.php?id=四川卫视4K
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/四川卫视.png" group-title="卫视",四川卫视
 http://111.20.33.93/PLTV/88888888/224/3221225768/index.m3u8
@@ -661,7 +661,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%8
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
 #EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="台灣",新唐人亞太台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
-#EXTINF:-1 tvg-id="阿里郎频道" tvg-name="阿里郎频道" vg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台灣",ARIRANG阿里郎頻道
+#EXTINF:-1 tvg-id="阿里郎频道" tvg-name="阿里郎频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台灣",ARIRANG阿里郎頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="GLOBAL TREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界.png" group-title="台灣",Global Trekker
 https://4gtv.946985.filegear-sg.me/playlist?channel=Global%20Trekker
@@ -687,7 +687,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/亚洲旅游台.png" group-title="台灣",亞洲旅遊
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-#EXTINF:-1 tvg-id="爱尔达生活旅游台" tvg-name="爱尔达生活旅游台" group-title="台灣",愛爾達生活旅遊台
+#EXTINF:-1 tvg-id="爱尔达生活旅游台" tvg-name="爱尔达生活旅游台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达生活旅游台.png" group-title="台灣",愛爾達生活旅遊台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
 #EXTINF:-1 tvg-id="FUN探索娱乐台" tvg-name="FUN探索娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娱乐.png" group-title="台灣",fun探索娛樂台
 https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
@@ -699,7 +699,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
 https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/达文西频道(中文).png" group-title="台灣",達文西頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="MAGELLANTV频道 (麦哲伦频道) "  tvg-name="MAGELLANTV频道 (麦哲伦频道) " group-title="台灣",MagellanTV頻道 (麥哲倫頻道)
+#EXTINF:-1 tvg-id="MAGELLANTV频道 (麦哲伦频道)"  tvg-name="MAGELLANTV频道 (麦哲伦频道)"  tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MagellanTV頻道.png" group-title="台灣",MagellanTV頻道 (麥哲倫頻道)
 https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
 #EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MTV台湾.png" group-title="台灣",MTV Live HD 音樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
@@ -1018,7 +1018,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?ch
 http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/五星体育.png" group-title="体育·休闲",上海五星体育
 https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/广东体育.png" group-title="体育·休闲",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/广东体育.png" group-title="体育·休闲",广东体育
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
 
