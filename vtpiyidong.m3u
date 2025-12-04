@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml#sp;sha1=https://gh-proxy.com/https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml.sha1"
-#EXTM3U x-tvg-url="http://192.168.33.93:3007/playback.xml#sp;sha1=http://192.168.33.93:3007/playback.xml.sha1"
-#EXTM3U x-tvg-url="https://epg.iill.top/epg#sp;sha1=https://epg.iill.top/epg.sha1"
-#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml#sp;sha1=https://epg.946985.filegear-sg.me/t.xml.sha1"
-#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml#sp;sha1=https://static.188766.xyz/e.xml.sha1" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#集众家所长的EPG,咪咕,bee-v1/smart-v1,JACKTV,冰茶TV
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" group-title="央视",CCTV-4K
 http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV1.png" group-title="央视",CCTV-1 综合
