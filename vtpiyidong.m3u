@@ -370,6 +370,8 @@ http://192.168.33.93:3007/625703337
 http://192.168.33.93:3007/625703337
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="电影·娱乐",上视东方影视
 http://192.168.33.93:3007/617290047
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="电影·娱乐",抗战经典影片
+http://192.168.33.93:3007/617432318
 
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
@@ -710,6 +712,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226970/index.m3u8
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" group-title="未分类",环球旅游
 http://192.168.33.93:3007/958475356
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="未分类",和美乡途轮播台
+http://192.168.33.93:3007/713591450
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVzgtq.png" group-title="未分类",中国天气
 http://192.168.33.93:3007/959986621
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中华特产.png" group-title="未分类",中华特产
@@ -746,3 +750,5 @@ http://111.20.33.93/PLTV/88888893/224/3221226362/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226032/index.m3u8
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/优购物.png" group-title="未分类",山西优购物
 http://111.20.33.93/PLTV/88888893/224/3221227115/index.m3u8
+
+高速下载
