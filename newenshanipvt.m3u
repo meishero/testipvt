@@ -345,68 +345,78 @@ http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
 #来自JACKTV-JULI
+#EXTINF:-1 tvg-id="CCTV1港澳" tvg-name="CCTV1港澳" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV1.png" group-title="港·澳·海外",CCTV1港澳
+https://smart.946985.filegear-sg.me/iptv.php?id=2i5shx&token=tgmeishero7
+#EXTINF:-1 tvg-id="CCTV13港澳" tvg-name="CCTV13港澳" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV13.png" group-title="港·澳·海外",CCTV13港澳
+https://smart.946985.filegear-sg.me/iptv.php?id=2mp5no&token=tgmeishero7
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
-http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=dbkou4&token=tgmeishero7
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
-http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=g5gcfm&token=tgmeishero7
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="港·澳·海外",凤凰香港
-http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=ye14cd&token=tgmeishero7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",翡翠台4K
-http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=paupgz&token=tgmeishero7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=y12i03&token=tgmeishero7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=5b0goc&token=tgmeishero7
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
+https://smart.946985.filegear-sg.me/iptv.php?id=r39s49&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Plus.png" group-title="港·澳·海外",TVBPLUS
-http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=eihf7g&token=tgmeishero7
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB新闻台.png" group-title="港·澳·海外",TVB无线新闻台
-http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=1l3uig&token=tgmeishero7
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB娱乐新闻台.png" group-title="港·澳·海外",TVB娱乐新闻台
+https://smart.946985.filegear-sg.me/iptv.php?id=qshyc3&token=tgmeishero7
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB娱乐新闻台.png" group-title="港·澳·海外",TVB娱乐新闻台
 http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
-http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8?token=tgmeishero7
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
+https://smart.946985.filegear-sg.me/iptv.php?id=fhfyyx&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVB华丽翡翠台" tvg-name="TVB华丽翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB华丽翡翠台
 http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%201翡翠1台.png" group-title="港·澳·海外",TVB1
-http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=oymf1y&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20J1翡翠综合台.png"" group-title="港·澳·海外",TVB J1翡翠综合台
-http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=62swif&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB星河台.png" group-title="港·澳·海外",TVB星河
-http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=dy1xp6&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB星河台.png" group-title="港·澳·海外",TVB星河
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+https://smart.946985.filegear-sg.me/iptv.php?id=tw1juz&token=tgmeishero7
 #EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB功夫台.png" group-title="港·澳·海外",TVB亚洲武侠
-http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=xlh0zh&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVB翡翠剧集台" tvg-name="TVB翡翠剧集台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Drama翡翠剧集台.png" group-title="港·澳·海外",TVB Drama翡翠剧集台
-http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=rnmt1r&token=tgmeishero7
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典.png" group-title="港·澳·海外",TVB千禧经典台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+https://smart.946985.filegear-sg.me/iptv.php?id=czcrnq&token=tgmeishero7
 #EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76财经.png" group-title="港·澳·海外",HOY76国际财经
-https://hknat.946985.filegear-sg.me/hoy.php?ch=ch76
+https://smart.946985.filegear-sg.me/iptv.php?id=rei51l&token=tgmeishero7
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77电视.png" group-title="港·澳·海外",HOY TV
-https://hknat.946985.filegear-sg.me/hoy.php?ch=ch77
+https://smart.946985.filegear-sg.me/iptv.php?id=fzu0wf&token=tgmeishero7
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯台
-https://hknat.946985.filegear-sg.me/hoy.php?ch=ch78
+https://smart.946985.filegear-sg.me/iptv.php?id=h7n22v&token=tgmeishero7
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
-http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=5vlgdw&token=tgmeishero7
 #EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=ywld3y&token=tgmeishero7
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW新闻台.png" group-title="港·澳·海外",NOW新闻台
-http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=0tlk77&token=tgmeishero7
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
-http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=32ht3i&token=tgmeishero7
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
-http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=cwussz&token=tgmeishero7
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳视澳门.png" group-title="港·澳·海外",澳视澳门
-http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=nbshem&token=tgmeishero7
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门Macau.png" group-title="港·澳·海外",澳门Macau
-http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=wsdl68&token=tgmeishero7
 #EXTINF:-1 tvg-id="澳视莲花" tvg-name="澳视莲花" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门莲花.png" group-title="港·澳·海外",澳门莲花
 http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门综艺.png" group-title="港·澳·海外",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门体育.png" group-title="港·澳·海外",澳门体育
-http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=jgggeg&token=tgmeishero7
 
 #来自恩山-澳广视TDM公版和澳门本地版地址  --全天候103.233.191.132 103.233.191.133 103.233.191.134  公用限制版地址149.102.97.122
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳视澳门.png" group-title="港·澳·海外",澳视澳门
@@ -422,21 +432,21 @@ https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
-http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=1sbz5l&token=tgmeishero7
 #EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
-http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=1qpire&token=tgmeishero7
 #EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
-http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=ca4whk&token=tgmeishero7
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="港·澳·海外",AstroAOD(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+https://smart.946985.filegear-sg.me/iptv.php?id=x5lh7f&token=tgmeishero7
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://upload.112114.xyz/logo/AstroAEC.png" group-title="港·澳·海外",AstroAEC(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+https://smart.946985.filegear-sg.me/iptv.php?id=mtakcn&token=tgmeishero7
 #EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://upload.112114.xyz/logo/Astro欢喜台.png" group-title="港·澳·海外",Astro欢喜(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+https://smart.946985.filegear-sg.me/iptv.php?id=ico5ws&token=tgmeishero7
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://upload.112114.xyz/logo/Astro全佳.png" group-title="港·澳·海外",Astro全佳(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+https://smart.946985.filegear-sg.me/iptv.php?id=ajiit9&token=tgmeishero7
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
-http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=nd9j1s&token=tgmeishero7
 
 #来自JACKTV-SMT-新加坡
 #EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
@@ -474,139 +484,164 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
 
+
 #来自JACKTV-4gtv台湾节点
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台灣",中天新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=m7gjne&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS新闻.png" group-title="台灣",TVBS新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%81%9E
+https://smart.946985.filegear-sg.me/iptv.php?id=utqlm9&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视新闻.png" group-title="台灣",民視新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=a0swf4&token=tgmeishero7
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻.png" group-title="台灣",東森新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=us009m&token=tgmeishero7
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/华视新闻.png" group-title="台灣",華視新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
+https://smart.946985.filegear-sg.me/iptv.php?id=2ouvz5&token=tgmeishero7
 #EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/镜新闻.png" group-title="台灣",鏡電視新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=jqcvsk&token=tgmeishero7
 #EXTINF:-1 tvg-id="东森财经台" tvg-name="东森财经台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森财经.png" group-title="台灣",東森財經
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=tmf0o4&token=tgmeishero7
 #EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视新闻.png" group-title="台灣",中視新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
+https://smart.946985.filegear-sg.me/iptv.php?id=4ha5w7&token=tgmeishero7
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/寰宇新闻.png" group-title="台灣",寰宇新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=3ynjx0&token=tgmeishero7
 #EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/寰宇新闻台湾.png" group-title="台灣",寰宇新聞台湾
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=8w0wvs&token=tgmeishero7
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻"  tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立新闻.png" group-title="台灣",三立新聞
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
+https://smart.946985.filegear-sg.me/iptv.php?id=m6actk&token=tgmeishero7
 #EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="台灣",Bloomberg TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
+https://smart.946985.filegear-sg.me/iptv.php?id=n0siio&token=tgmeishero7
 #EXTINF:-1 tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SBN全球财经.png" group-title="台灣",SBN全球財經台
-https://4gtv.946985.filegear-sg.me/playlist?channel=SBN%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=uzmu2i&token=tgmeishero7
 #EXTINF:-1 tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛国际新闻.png" group-title="台灣",半島國際新聞台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=72mp7m&token=tgmeishero7
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHK.png" group-title="台灣",NHK WORLD-JAPAN
-https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
+https://smart.946985.filegear-sg.me/iptv.php?id=cjpezi&token=tgmeishero7
 #EXTINF:-1 tvg-id="CNBC ASIA 财经台" tvg-name="CNBC ASIA 财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="台灣",CNBC Asia 財經台
-https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=y1g82w&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=jig9j0&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视台湾.png" group-title="台灣",民視台灣
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=01s739&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96
+https://smart.946985.filegear-sg.me/iptv.php?id=q3clec&token=tgmeishero7
 #EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立综合.png" group-title="台灣",三立綜合
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
-#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天综合.png" group-title="台灣",靖天综合
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
-#EXTINF:-1 tvg-id="KLT-靖天国际台" tvg-name="KLT-靖天国际台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天国际.png" group-title="台灣",靖天国际
-https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
-#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天资讯.png" group-title="台灣",靖天资讯
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天日本.png" group-title="台灣",靖天日本台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=d1rcrt&token=tgmeishero7
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/华视.png" group-title="台灣",華視
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
+https://smart.946985.filegear-sg.me/iptv.php?id=2shksw&token=tgmeishero7
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
+https://smart.946985.filegear-sg.me/iptv.php?id=14iqyx&token=tgmeishero7
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天综合.png" group-title="台灣",靖天综合
+https://smart.946985.filegear-sg.me/iptv.php?id=t7ak12&token=tgmeishero7
+#EXTINF:-1 tvg-id="KLT-靖天国际台" tvg-name="KLT-靖天国际台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天国际.png" group-title="台灣",靖天国际
+https://smart.946985.filegear-sg.me/iptv.php?id=ydz0u8&token=tgmeishero7
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天资讯.png" group-title="台灣",靖天资讯
+https://smart.946985.filegear-sg.me/iptv.php?id=52qjkg&token=tgmeishero7
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天日本.png" group-title="台灣",靖天日本台
+https://smart.946985.filegear-sg.me/iptv.php?id=o32lcc&token=tgmeishero7
 #EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视经典.png" group-title="台灣",中視經典台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=bu7ou2&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视综艺.png" group-title="台灣",民视综艺
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=ymok4q&token=tgmeishero7
 #EXTINF:-1 tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大综艺.png" group-title="台灣",八大綜藝
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=83lxm9&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS精采.png" group-title="台灣",TVBS精采
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=4r0dgb&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS.png" group-title="台灣",TVBS
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
+https://smart.946985.filegear-sg.me/iptv.php?id=s6iwb2&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS欢乐.png" group-title="台灣",TVBS歡樂
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=brkkpj&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBS综艺台" tvg-name="TVBS综艺台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS综艺.png" group-title="台灣",TVBS綜藝台
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=ydpc00&token=tgmeishero7
 #EXTINF:-1 tvg-id="TVBS台剧台" tvg-name="TVBS台剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS台剧.png" group-title="台灣",TVBS台劇台
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=94356k&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天欢乐.png" group-title="台灣",靖天欢乐
-https://4gtv.946985.filegear-sg.me/playlist?channel=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=c0e39m&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天育乐.png" group-title="台灣",靖天育乐
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=jqd7wc&token=tgmeishero7
 #EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/猪哥亮歌厅秀.png" group-title="台灣",豬哥亮歌廳秀
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80
+https://smart.946985.filegear-sg.me/iptv.php?id=gmarpr&token=tgmeishero7
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大精彩.png" group-title="台灣",八大精彩
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=zna3g8&token=tgmeishero7
 #EXTINF:-1 tvg-id="LIFETIME 娱乐频道" tvg-name="LIFETIME 娱乐频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Lifetime(中文).png" group-title="台灣",LIFETIME 娛樂頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=lavqls&token=tgmeishero7
 #EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视菁采.png" group-title="台灣",中视菁采
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=0axfro&token=tgmeishero7
 #EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="台灣",新唐人亞太台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=njyvh1&token=tgmeishero7
 #EXTINF:-1 tvg-id="阿里郎频道" tvg-name="阿里郎频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台灣",ARIRANG阿里郎頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=ljnm1m&token=tgmeishero7
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="GLOBAL TREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界.png" group-title="台灣",Global Trekker
-https://4gtv.946985.filegear-sg.me/playlist?channel=Global%20Trekker
+https://smart.946985.filegear-sg.me/iptv.php?id=ot7e5g&token=tgmeishero7
 #EXTINF:-1 tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/原住民族.png" group-title="台灣",原住民族電視台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=zq3e0q&token=tgmeishero7
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/客家电视.png" group-title="台灣",客家電視台
+https://smart.946985.filegear-sg.me/iptv.php?id=1np4jk&token=tgmeishero7
+#EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道1.png" group-title="台灣",國會頻道1
+https://smart.946985.filegear-sg.me/iptv.php?id=ge94lg&token=tgmeishero7
+#EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道2.png" group-title="台灣",國會頻道2
+https://smart.946985.filegear-sg.me/iptv.php?id=nhh0cc&token=tgmeishero7
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息.png" group-title="台灣",好消息
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF
+https://smart.946985.filegear-sg.me/iptv.php?id=omlryg&token=tgmeishero7
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息2.png" group-title="台灣",好消息2台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=w0wg3a&token=tgmeishero7
 #EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96
+https://smart.946985.filegear-sg.me/iptv.php?id=j04s0y&token=tgmeishero7
 #EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱2台.png" group-title="台灣",大愛二台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=4k4h4d&token=tgmeishero7
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/人间卫视.png" group-title="台灣",人間衛視
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96
+https://smart.946985.filegear-sg.me/iptv.php?id=munrd1&token=tgmeishero7
 #EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/时尚运动X.png" group-title="台灣",时尚运动X
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
+https://smart.946985.filegear-sg.me/iptv.php?id=3zcpna&token=tgmeishero7
 #EXTINF:-1 tvg-id="GINX运动" tvg-name="GINX运动" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/GINX运动.png" group-title="台灣",GINX运动
-https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
+https://smart.946985.filegear-sg.me/iptv.php?id=xp5oh7&token=tgmeishero7
+#EXTINF:-1 tvg-id="PET CLUB TV" tvg-name="PET CLUB TV" group-title="台灣",Pet Club TV
+https://smart.946985.filegear-sg.me/iptv.php?id=h2m2o3&token=tgmeishero7
+#EXTINF:-1 tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滚动力ROLLOR.png" group-title="台灣",滾動力rollor
+https://smart.946985.filegear-sg.me/iptv.php?id=28fyud&token=tgmeishero7
 #EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/智林体育.png" group-title="台灣",智林体育
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=zos1ou&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视旅游.png" group-title="台灣",民視旅遊
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=uojilg&token=tgmeishero7
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/亚洲旅游台.png" group-title="台灣",亞洲旅遊
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=asnfc1&token=tgmeishero7
 #EXTINF:-1 tvg-id="爱尔达生活旅游台" tvg-name="爱尔达生活旅游台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达生活旅游台.png" group-title="台灣",愛爾達生活旅遊台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=e2xz77&token=tgmeishero7
 #EXTINF:-1 tvg-id="FUN探索娱乐台" tvg-name="FUN探索娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娱乐.png" group-title="台灣",fun探索娛樂台
-https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=mf749w&token=tgmeishero7
+#EXTINF:-1 tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/幸福空间居家.png" group-title="台灣",幸福空間居家台
+https://smart.946985.filegear-sg.me/iptv.php?id=7pv4fu&token=tgmeishero7
 #EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达娱乐.png" group-title="台灣",愛爾達娛樂
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=vcutoc&token=tgmeishero7
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Love%20Nature(中文).png" group-title="台灣",Love Nature
-https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
+https://smart.946985.filegear-sg.me/iptv.php?id=b9wdd5&token=tgmeishero7
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/历史频道(中文).png" group-title="台灣",History 歷史頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=uorx5b&token=tgmeishero7
 #EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/达文西频道(中文).png" group-title="台灣",達文西頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=gx3pue&token=tgmeishero7
 #EXTINF:-1 tvg-id="MAGELLANTV频道 (麦哲伦频道)"  tvg-name="MAGELLANTV频道 (麦哲伦频道)"  tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MagellanTV頻道.png" group-title="台灣",MagellanTV頻道 (麥哲倫頻道)
-https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
+https://smart.946985.filegear-sg.me/iptv.php?id=43qve4&token=tgmeishero7
 #EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MTV台湾.png" group-title="台灣",MTV Live HD 音樂頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=xosvo3&token=tgmeishero7
 #EXTINF:-1 tvg-id="MEZZO LIVE" tvg-name="MEZZO LIVE" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Mezzo Live.png" group-title="台灣",MEZZO LIVE
-https://4gtv.946985.filegear-sg.me/playlist?channel=Mezzo%20Live%20HD
+https://smart.946985.filegear-sg.me/iptv.php?id=taq6c0&token=tgmeishero7
 #EXTINF:-1 tvg-id="CLASSICA 古典乐" tvg-name="CLASSICA 古典乐" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CLASSICA古典音乐台.png" group-title="台灣",CLASSICA古典音乐台
-https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
+https://smart.946985.filegear-sg.me/iptv.php?id=csuzl6&token=tgmeishero7
 #EXTINF:-1 tvg-id="电影原声台CMUSIC" tvg-name="电影原声台CMUSIC" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CMusic.png" group-title="台灣",電影原聲台CMusic
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%8F%B0CMusic
+https://smart.946985.filegear-sg.me/iptv.php?id=goilhl&token=tgmeishero7
 #EXTINF:-1 tvg-id="CI 罪案侦查频道" tvg-name="CI 罪案侦查频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CI罪案侦缉(中文).png" group-title="台灣",CI 罪案偵查頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=v1zyyz&token=tgmeishero7
+#EXTINF:-1 tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/视纳华仁纪实.png" group-title="台灣",視納華仁紀實頻道
+https://smart.946985.filegear-sg.me/iptv.php?id=hudyzs&token=tgmeishero7
+#EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷数位纪实.png" group-title="台灣",影迷數位紀實台
+https://smart.946985.filegear-sg.me/iptv.php?id=4vxam8&token=tgmeishero7
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/INULTRA.png" group-title="台灣",INULTRA
+https://smart.946985.filegear-sg.me/iptv.php?id=ab3a52&token=tgmeishero7
+#EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="TRACE URBAN" group-title="台灣",TRACE Urban
+https://smart.946985.filegear-sg.me/iptv.php?id=16i2go&token=tgmeishero7
+#EXTINF:-1 tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="台灣",TRACE Sport Stars
+https://smart.946985.filegear-sg.me/iptv.php?id=qqmrg3&token=tgmeishero7
+#EXTINF:-1 tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/车迷TV.png" group-title="台灣",車迷TV
+https://smart.946985.filegear-sg.me/iptv.php?id=2ad5n6&token=tgmeishero7
 
 
 
@@ -770,127 +805,125 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?ch
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷星影台.png" group-title="电影·娱乐",NOW爆谷星影台
-https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=kywp5d&token=tgmeishero7
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷台.png" group-title="电影·娱乐",NOW爆谷台
-https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=huyfgf&token=tgmeishero7
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://upload.112114.xyz/logo/1905电影网.png" group-title="电影·娱乐",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://upload.112114.xyz/logo/1905电影网.png" group-title="电影·娱乐",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影香港.png" group-title="电影·娱乐",美亚电影
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=djrwi6&token=tgmeishero7
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png" group-title="电影·娱乐",天映经典
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+https://smart.946985.filegear-sg.me/iptv.php?id=9b5yeu&token=tgmeishero7
 #EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="电影·娱乐",天映马来西亚
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+https://smart.946985.filegear-sg.me/iptv.php?id=w7yu9g&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
-http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=2gufl6&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华经典.png" group-title="电影·娱乐",龙华经典
-http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=dn47j6&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华偶像.png" group-title="电影·娱乐",龙华偶像
-http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=4dmhna&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华日韩.png" group-title="电影·娱乐",龙华日韩
-http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=3owa7l&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华洋片.png" group-title="电影·娱乐",龙华洋片
-http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=sac9x1&token=tgmeishero7
 
 #来自JACKTV-4gtv台湾节点
 #EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位电影.png" group-title="电影·娱乐",影迷數位電影
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=tcpvd9&token=tgmeishero7
 #EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/采昌影剧.png" group-title="电影·娱乐",采昌影剧
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=x3vmhd&token=tgmeishero7
 #EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视影剧.png" group-title="电影·娱乐",民视影剧
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=9m8g77&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天映画.png" group-title="电影·娱乐",靖天映畫
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
+https://smart.946985.filegear-sg.me/iptv.php?id=tv7x00&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天电影.png" group-title="电影·娱乐",靖天電影
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=s3qrlh&token=tgmeishero7
 #EXTINF:-1 tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/AMC电影台.png" group-title="电影·娱乐",AMC电影台
-https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=xx3i6h&token=tgmeishero7
 #EXTINF:-1 tvg-id="ROCK ACTION"  tvg-name="ROCK ACTION" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK Action.png" group-title="电影·娱乐",ROCK Action
-https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
+https://smart.946985.filegear-sg.me/iptv.php?id=ryou1i&token=tgmeishero7
 #EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK%20Entertainment(中文).png" group-title="台灣",ROCK Entertainment
-https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
+https://smart.946985.filegear-sg.me/iptv.php?id=m5v95t&token=tgmeishero7
 #EXTINF:-1 tvg-id="HITS频道"  tvg-name="HITS频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HITS.png" group-title="电影·娱乐",HITS頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=hxzxzd&token=tgmeishero7
 #EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/cinemaworld.png" group-title="电影·娱乐",CinemaWorld
-https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
+https://smart.946985.filegear-sg.me/iptv.php?id=f3nb9c&token=tgmeishero7
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/我的欧洲电影.png" group-title="电影·娱乐",My Cinema Europe HD 我的歐洲電影
-https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
+https://smart.946985.filegear-sg.me/iptv.php?id=ktf92t&token=tgmeishero7
 #EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="电影·娱乐",經典電影台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/视纳华仁纪实.png" group-title="电影·娱乐",視納華仁紀實頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=osztlp&token=tgmeishero7
 
 #来自JACKTV-SMT-电影
 #EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="电影·娱乐",AXN Taiwan
-https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=sw10qr&token=tgmeishero7
 #EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="电影·娱乐",HBO_HD
-https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=vuuonx&token=tgmeishero7
 #EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="电影·娱乐",HBO_HITS
-https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=riayyi&token=tgmeishero7
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
-https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=b35fh6&token=tgmeishero7
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="电影·娱乐",好萊塢電影台
-https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=7nluu2&token=tgmeishero7
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="电影·娱乐",东森电影
-https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
+https://smart.946985.filegear-sg.me/iptv.php?id=wbjgj2&token=tgmeishero7
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="电影·娱乐",东森洋片
-https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
+https://smart.946985.filegear-sg.me/iptv.php?id=nvtxct&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
-https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华洋片
-https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=obzosl&token=tgmeishero7
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华洋片.png" group-title="电影·娱乐",龙华洋片
+https://smart.946985.filegear-sg.me/iptv.php?id=fwn4z2&token=tgmeishero7
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙祥时代.png" group-title="电影·娱乐",龙祥时代
-https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=l75uxj&token=tgmeishero7
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影.png" group-title="电影·娱乐",美亚电影
-https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=4d7er0&token=tgmeishero7
 #EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="电影·娱乐",卫视电影台
-https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=uyxohh&token=tgmeishero7
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
-https://smart.946985.filegear-sg.me/smart.php?id=Celestial
+https://smart.946985.filegear-sg.me/iptv.php?id=ud0kuh&token=tgmeishero7
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
-https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+https://smart.946985.filegear-sg.me/iptv.php?id=tcdluj&token=tgmeishero7
 #EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="电影·娱乐",天映马来西亚
-https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
+https://smart.946985.filegear-sg.me/iptv.php?id=z5eeem&token=tgmeishero7
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="电影·娱乐",Movies Now HD
-https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
+https://smart.946985.filegear-sg.me/iptv.php?id=j1njcd&token=tgmeishero7
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="电影·娱乐",Star Movies HD
-https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
+https://smart.946985.filegear-sg.me/iptv.php?id=c2lxin&token=tgmeishero7
 #EXTINF:-1 tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HITS.png" group-title="电影·娱乐",HITS频道
-https://smart.946985.filegear-sg.me/smart.php?id=Hits
+https://smart.946985.filegear-sg.me/iptv.php?id=yy15fe&token=tgmeishero7
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="电影·娱乐",Warner TV
-https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
+https://smart.946985.filegear-sg.me/iptv.php?id=tgygdt&token=tgmeishero7
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="电影·娱乐",HBO HD
-https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+https://smart.946985.filegear-sg.me/iptv.php?id=ugwj9s&token=tgmeishero7
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="电影·娱乐",HBO Signature
-https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
+https://smart.946985.filegear-sg.me/iptv.php?id=nnzy5f&token=tgmeishero7
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="电影·娱乐",HBO Family
-https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
+https://smart.946985.filegear-sg.me/iptv.php?id=up64uy&token=tgmeishero7
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="电影·娱乐",HBO Hits
-https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
+https://smart.946985.filegear-sg.me/iptv.php?id=sf5k9k&token=tgmeishero7
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
-https://smart.946985.filegear-sg.me/smart.php?id=Cinema
+https://smart.946985.filegear-sg.me/iptv.php?id=p1k7m9&token=tgmeishero7
 #EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="电影·娱乐",SCM
-https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
+https://smart.946985.filegear-sg.me/iptv.php?id=2wx6jq&token=tgmeishero7
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="电影·娱乐",Thrill
-https://smart.946985.filegear-sg.me/smart.php?id=Thrill
+https://smart.946985.filegear-sg.me/iptv.php?id=qsk68o&token=tgmeishero7
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="电影·娱乐",Hits Movie
-https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
+https://smart.946985.filegear-sg.me/iptv.php?id=vielja&token=tgmeishero7
 #EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="电影·娱乐",One
-https://smart.946985.filegear-sg.me/smart.php?id=One
+https://smart.946985.filegear-sg.me/iptv.php?id=z4et82&token=tgmeishero7
 #EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="电影·娱乐",tvN Movie
-https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
+https://smart.946985.filegear-sg.me/iptv.php?id=u30lob&token=tgmeishero7
 #EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="电影·娱乐",Axn HD
-https://smart.946985.filegear-sg.me/smart.php?id=Axn
+https://smart.946985.filegear-sg.me/iptv.php?id=uml1z8&token=tgmeishero7
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="电影·娱乐",Paramount Network
-https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
+https://smart.946985.filegear-sg.me/iptv.php?id=z4gzje&token=tgmeishero7
 #EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="电影·娱乐",Astrol Kplus
-https://smart.946985.filegear-sg.me/smart.php?id=Kplus
+https://smart.946985.filegear-sg.me/iptv.php?id=yf2uwx&token=tgmeishero7
 #EXTINF:-1 tvg-id="ROCK ACTION"  tvg-name="ROCK ACTION" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK Action.png" group-title="电影·娱乐",ROCK Action
-https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
+https://smart.946985.filegear-sg.me/iptv.php?id=v8usw0&token=tgmeishero7
 #EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK%20Entertainment(中文).png" group-title="电影·娱乐",ROCK Entertainment
-https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
+https://smart.946985.filegear-sg.me/iptv.php?id=n487ey&token=tgmeishero7
 
 
 
@@ -965,7 +998,7 @@ http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/重温经典.png" group-title="剧场·综艺",重温经典
-http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=16jfkq&token=tgmeishero7
 
 #来自APTV专用
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/重温经典.png" group-title="剧场·综艺",重温经典
@@ -1071,61 +1104,59 @@ http://192.168.33.93:3007/629942219
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华卡通.png" group-title="教育·少儿·动画",龙华卡通
-http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=0oxr8w&token=tgmeishero7
 
 #来自JACKTV-4gtv台湾节点
 #EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LIVEABC互动英语频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/LIVEABC互动英语.png" group-title="教育·少儿·动画",LiveABC互動英語頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=LiveABC%E4%BA%92%E5%8B%95%E8%8B%B1%E8%AA%9E%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=fv87v0&token=tgmeishero7
 #EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ELTV生活英语.png" group-title="教育·少儿·动画",ELTV生活英語台
-https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=pa20wf&token=tgmeishero7
 #EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
-https://4gtv.946985.filegear-sg.me/playlist?channel=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=x44utd&token=tgmeishero7
 #EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
-https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=l2ot4m&token=tgmeishero7
 #EXTINF:-1 tvg-id="尼克动画" tvg-name="尼克动画" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
+https://smart.946985.filegear-sg.me/iptv.php?id=7f814r&token=tgmeishero7
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
-https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
+https://smart.946985.filegear-sg.me/iptv.php?id=hzyffp&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=cwalq2&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖洋卡通.png" group-title="教育·少儿·动画",靖洋卡通
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
+https://smart.946985.filegear-sg.me/iptv.php?id=f93dlv&token=tgmeishero7
 #EXTINF:-1 tvg-id="经典卡通台" tvg-name="经典卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典卡通.png" group-title="教育·少儿·动画",經典卡通台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=04gc1g&token=tgmeishero7
 #EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选动漫.png" group-title="教育·少儿·动画",精選動漫台
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
+https://smart.946985.filegear-sg.me/iptv.php?id=nt3vil&token=tgmeishero7
 
 #来自JACKTV-SMT-儿童
+#EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="" group-title="教育·少儿·动画",Baby TV Eng
+https://smart.946985.filegear-sg.me/iptv.php?id=df7kpv&token=tgmeishero7
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
-https://smart.946985.filegear-sg.me/smart.php?id=Babytv
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
-https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=e1whh0&token=tgmeishero7
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="教育·少儿·动画",CBeebies
-https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
+https://smart.946985.filegear-sg.me/iptv.php?id=xs4uaa&token=tgmeishero7
 #EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png" group-title="教育·少儿·动画",东森幼幼
-https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=yz8m4j&token=tgmeishero7
 #EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
-https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=xle4dv&token=tgmeishero7
 #EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="教育·少儿·动画",Kids TV
-https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
+https://smart.946985.filegear-sg.me/iptv.php?id=bjryhz&token=tgmeishero7
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png" group-title="教育·少儿·动画",Animax
-https://smart.946985.filegear-sg.me/smart.php?id=Animax
+https://smart.946985.filegear-sg.me/iptv.php?id=zioqf4&token=tgmeishero7
 #EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="教育·少儿·动画",MiaoMi
-https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
+https://smart.946985.filegear-sg.me/iptv.php?id=ffo9r0&token=tgmeishero7
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
-https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
+https://smart.946985.filegear-sg.me/iptv.php?id=5ibega&token=tgmeishero7
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="教育·少儿·动画",Cartoon Network
-https://smart.946985.filegear-sg.me/smart.php?id=Cn
+https://smart.946985.filegear-sg.me/iptv.php?id=nmzps8&token=tgmeishero7
 #EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
-https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
+https://smart.946985.filegear-sg.me/iptv.php?id=lyffdn&token=tgmeishero7
 tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
-https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
+https://smart.946985.filegear-sg.me/iptv.php?id=au3npj&token=tgmeishero7
 
 #来自JACKTV-SMT-电影
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
-https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png" group-title="教育·少儿·动画",Animax
-https://smart.946985.filegear-sg.me/smart.php?id=Animax
+https://smart.946985.filegear-sg.me/iptv.php?id=7znntq&token=tgmeishero7
 
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV早期教育.png" group-title="教育·少儿·动画",CETV-早期教育
@@ -1390,7 +1421,7 @@ http://192.168.33.93:3007/959986618
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="未分类",爱奇艺
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+https://smart.946985.filegear-sg.me/iptv.php?id=gxed32&token=tgmeishero7
 
 #来自???
 #EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界" tvg-logo="https://upload.112114.xyz/logo/咪视界4K.png" group-title="未分类",咪视界4K
@@ -1413,9 +1444,9 @@ http://111.20.33.93/PLTV/88888893/224/3221226350/index.m3u8
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/.png" group-title="未分类",广东珠江
-http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=9vot15&token=tgmeishero7
 #EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen4.png" group-title="未分类",深圳财经生活
-http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+https://smart.946985.filegear-sg.me/iptv.php?id=m2mwf0&token=tgmeishero7
 
 #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/好享购物.png" group-title="未分类",江苏好享购物
 http://111.20.33.93/PLTV/88888893/224/3221226018/index.m3u8
