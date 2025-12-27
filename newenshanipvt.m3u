@@ -442,33 +442,33 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
 http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 
-#来自JACKTV-SMT-新加坡
-#EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Channel5HD
-#EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Channel8HD
-#EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=ChannelU
-#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.112114.xyz/logo/SURIA.png" group-title="港·澳·海外",Suria(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Suria
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.112114.xyz/logo/VASANTHAM.png" group-title="港·澳·海外",Vasantham(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Vasantham
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=cna
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=cna_twn
-#EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch5
-#EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch8
-#EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_chU
-#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.112114.xyz/logo/SURIA.png" group-title="港·澳·海外",Suria(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Suria
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.112114.xyz/logo/VASANTHAM.png" group-title="港·澳·海外",Vasantham(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Vasantham
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
-https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
+###来自JACKTV-SMT-新加坡
+###EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Channel5HD
+###EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Channel8HD
+###EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=ChannelU
+###EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.112114.xyz/logo/SURIA.png" group-title="港·澳·海外",Suria(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Suria
+###EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.112114.xyz/logo/VASANTHAM.png" group-title="港·澳·海外",Vasantham(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Vasantham
+###EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=cna
+###EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=cna_twn
+###EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch5
+###EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch8
+###EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_chU
+###EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.112114.xyz/logo/SURIA.png" group-title="港·澳·海外",Suria(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Suria
+###EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.112114.xyz/logo/VASANTHAM.png" group-title="港·澳·海外",Vasantham(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Vasantham
+###EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
+##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
 
 #来自???
 #EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://upload.112114.xyz/logo/Korea TV.png" group-title="港·澳·海外",Korea TV(韩国)
@@ -842,75 +842,75 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20
 #EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="电影·娱乐",經典電影台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0
 
-#来自JACKTV-SMT-电影
-#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="电影·娱乐",AXN Taiwan
-https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
-#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="电影·娱乐",HBO_HD
-https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="电影·娱乐",HBO_HITS
-https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
-https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="电影·娱乐",好萊塢電影台
-https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="电影·娱乐",东森电影
-https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="电影·娱乐",东森洋片
-https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
-https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华洋片
-https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙祥时代.png" group-title="电影·娱乐",龙祥时代
-https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影.png" group-title="电影·娱乐",美亚电影
-https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="电影·娱乐",卫视电影台
-https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
-https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
-https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
-#EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="电影·娱乐",天映马来西亚
-https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="电影·娱乐",Movies Now HD
-https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
-#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="电影·娱乐",Star Movies HD
-https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
-#EXTINF:-1 tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HITS.png" group-title="电影·娱乐",HITS频道
-https://smart.946985.filegear-sg.me/smart.php?id=Hits
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="电影·娱乐",Warner TV
-https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="电影·娱乐",HBO HD
-https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="电影·娱乐",HBO Signature
-https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="电影·娱乐",HBO Family
-https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="电影·娱乐",HBO Hits
-https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
-https://smart.946985.filegear-sg.me/smart.php?id=Cinema
-#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="电影·娱乐",SCM
-https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="电影·娱乐",Thrill
-https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="电影·娱乐",Hits Movie
-https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="电影·娱乐",One
-https://smart.946985.filegear-sg.me/smart.php?id=One
-#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="电影·娱乐",tvN Movie
-https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="电影·娱乐",Axn HD
-https://smart.946985.filegear-sg.me/smart.php?id=Axn
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="电影·娱乐",Paramount Network
-https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
-#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="电影·娱乐",Astrol Kplus
-https://smart.946985.filegear-sg.me/smart.php?id=Kplus
-#EXTINF:-1 tvg-id="ROCK ACTION"  tvg-name="ROCK ACTION" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK Action.png" group-title="电影·娱乐",ROCK Action
-https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK%20Entertainment(中文).png" group-title="电影·娱乐",ROCK Entertainment
-https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
+###来自JACKTV-SMT-电影
+###EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="电影·娱乐",AXN Taiwan
+##https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
+###EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="电影·娱乐",HBO_HD
+##https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
+###EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="电影·娱乐",HBO_HITS
+##https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
+###EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
+##https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
+###EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="电影·娱乐",好萊塢電影台
+##https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
+###EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="电影·娱乐",东森电影
+##https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
+###EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="电影·娱乐",东森洋片
+##https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
+###EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
+##https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
+###EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华洋片
+##https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
+###EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙祥时代.png" group-title="电影·娱乐",龙祥时代
+##https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
+###EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影.png" group-title="电影·娱乐",美亚电影
+##https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
+###EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="电影·娱乐",卫视电影台
+##https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
+###EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
+##https://smart.946985.filegear-sg.me/smart.php?id=Celestial
+###EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
+##https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+###EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="电影·娱乐",天映马来西亚
+##https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
+###EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="电影·娱乐",Movies Now HD
+##https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
+###EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="电影·娱乐",Star Movies HD
+##https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
+###EXTINF:-1 tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HITS.png" group-title="电影·娱乐",HITS频道
+##https://smart.946985.filegear-sg.me/smart.php?id=Hits
+###EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="电影·娱乐",Warner TV
+##https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
+###EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="电影·娱乐",HBO HD
+##https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+###EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="电影·娱乐",HBO Signature
+##https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
+###EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="电影·娱乐",HBO Family
+##https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
+###EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="电影·娱乐",HBO Hits
+##https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
+###EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
+##https://smart.946985.filegear-sg.me/smart.php?id=Cinema
+###EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="电影·娱乐",SCM
+##https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
+###EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="电影·娱乐",Thrill
+##https://smart.946985.filegear-sg.me/smart.php?id=Thrill
+###EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="电影·娱乐",Hits Movie
+##https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
+###EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="电影·娱乐",One
+##https://smart.946985.filegear-sg.me/smart.php?id=One
+###EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="电影·娱乐",tvN Movie
+##https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
+###EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="电影·娱乐",Axn HD
+##https://smart.946985.filegear-sg.me/smart.php?id=Axn
+###EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="电影·娱乐",Paramount Network
+##https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
+###EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="电影·娱乐",Astrol Kplus
+##https://smart.946985.filegear-sg.me/smart.php?id=Kplus
+###EXTINF:-1 tvg-id="ROCK ACTION"  tvg-name="ROCK ACTION" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK Action.png" group-title="电影·娱乐",ROCK Action
+##https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
+###EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK%20Entertainment(中文).png" group-title="电影·娱乐",ROCK Entertainment
+##https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
 
 
 
@@ -987,95 +987,95 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
 #EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/智林体育.png" group-title="体育·休闲",智林体育
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
 
-#来自JACKTV-SMT-体育
-#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="体育·休闲",Astro Premier League 1
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
-#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="体育·休闲",Astro EPL 1 backup
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp1x
-#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="体育·休闲",Astro Premier League 2
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
-#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="体育·休闲",Astro Grandstand
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="体育·休闲",Astro Football
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
-#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="体育·休闲",Astro Sports Plus
-https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
-#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="体育·休闲",Astro Badminton 1
-https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
-#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="体育·休闲",Astro Badminton 2
-https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
-#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="体育·休闲",Astro W-Sports
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-#EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="体育·休闲",Supersports 1
-https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-#EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="体育·休闲",Supersports 2
-https://smart.946985.filegear-sg.me/smart.php?id=Assp2
-#EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="体育·休闲",Supersports 3
-https://smart.946985.filegear-sg.me/smart.php?id=Assp3
-#EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="体育·休闲",Supersports 4
-https://smart.946985.filegear-sg.me/smart.php?id=Assp4
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="体育·休闲",WWE
-https://smart.946985.filegear-sg.me/smart.php?id=Wwe
-#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="体育·休闲",Fight Sports
-https://smart.946985.filegear-sg.me/smart.php?id=Fs
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="体育·休闲",NBA TV
-https://smart.946985.filegear-sg.me/smart.php?id=Nba
-#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="体育·休闲",Astro Cricket
-https://smart.946985.filegear-sg.me/smart.php?id=Acricket
-#EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="体育·休闲",Astro Golf
-https://smart.946985.filegear-sg.me/smart.php?id=Agolf
-#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="体育·休闲",Tnt Sports 1
-https://smart.946985.filegear-sg.me/smart.php?id=6fac0aaead
-#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="体育·休闲",TNT Sports 2
-https://smart.946985.filegear-sg.me/smart.php?id=d9a76a79cc
-#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="体育·休闲",TNT Sports 3
-https://smart.946985.filegear-sg.me/smart.php?id=5fea4d73db
-#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="体育·休闲",TNT Sports 4
-https://smart.946985.filegear-sg.me/smart.php?id=tntsport4
-#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="体育·休闲",Sony Ten 1
-https://smart.946985.filegear-sg.me/smart.php?id=ten1_raj
-#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="体育·休闲",Sony Ten 2
-https://smart.946985.filegear-sg.me/smart.php?id=ten2_raj
-#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="体育·休闲",Sony Ten 3
-https://smart.946985.filegear-sg.me/smart.php?id=ten3_raj
-#EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="体育·休闲",SPOTV 1 HD
-https://smart.946985.filegear-sg.me/smart.php?id=go_spotv
-#EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="体育·休闲",SPO TV 2
-https://smart.946985.filegear-sg.me/smart.php?id=go_spotv2
-#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="体育·休闲",Skysports F1
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
-#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="体育·休闲",Skysports Cricket
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
-#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="体育·休闲",Skysports EPL
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
-#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="体育·休闲",Skysports Main Event
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
-#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="体育·休闲",Skysports News
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
-#EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="体育·休闲",Skysports Mix
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongmix
-#EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="" group-title="体育·休闲",爱尔达体育2台
-https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
-#EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="" group-title="体育·休闲",爱尔达体育3台
-https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
-#EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="体育·休闲",Rugby Pass TV
-https://smart.946985.filegear-sg.me/smart.php?id=Rugbypasstv
-#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="体育·休闲",RTM Sports HD
-https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="体育·休闲",Arena
-https://smart.946985.filegear-sg.me/smart.php?id=Arena
-#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="体育·休闲",Arena 2
-https://smart.946985.filegear-sg.me/smart.php?id=Arena2
-#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="体育·休闲",BolaArena 1
-https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
-#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="体育·休闲",BolaArena 2
-https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
-#EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="体育·休闲",Astro Beinsports 1
-https://smart.946985.filegear-sg.me/smart.php?id=Astrobein1
-#EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="体育·休闲",Astro Beinsports 2
-https://smart.946985.filegear-sg.me/smart.php?id=Astrobein2
-#EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="体育·休闲",Astro Beinsports 3
-https://smart.946985.filegear-sg.me/smart.php?id=Astrobein3
+###来自JACKTV-SMT-体育
+###EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="体育·休闲",Astro Premier League 1
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
+###EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="体育·休闲",Astro EPL 1 backup
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp1x
+###EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="体育·休闲",Astro Premier League 2
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
+###EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="体育·休闲",Astro Grandstand
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
+###EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="体育·休闲",Astro Football
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
+###EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="体育·休闲",Astro Sports Plus
+##https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
+###EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="体育·休闲",Astro Badminton 1
+##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
+###EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="体育·休闲",Astro Badminton 2
+##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
+###EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="体育·休闲",Astro W-Sports
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
+###EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="体育·休闲",Supersports 1
+##https://smart.946985.filegear-sg.me/smart.php?id=Assp1
+###EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="体育·休闲",Supersports 2
+##https://smart.946985.filegear-sg.me/smart.php?id=Assp2
+###EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="体育·休闲",Supersports 3
+##https://smart.946985.filegear-sg.me/smart.php?id=Assp3
+###EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="体育·休闲",Supersports 4
+##https://smart.946985.filegear-sg.me/smart.php?id=Assp4
+###EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="体育·休闲",WWE
+##https://smart.946985.filegear-sg.me/smart.php?id=Wwe
+###EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="体育·休闲",Fight Sports
+##https://smart.946985.filegear-sg.me/smart.php?id=Fs
+###EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="体育·休闲",NBA TV
+##https://smart.946985.filegear-sg.me/smart.php?id=Nba
+###EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="体育·休闲",Astro Cricket
+##https://smart.946985.filegear-sg.me/smart.php?id=Acricket
+###EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="体育·休闲",Astro Golf
+##https://smart.946985.filegear-sg.me/smart.php?id=Agolf
+###EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="体育·休闲",Tnt Sports 1
+##https://smart.946985.filegear-sg.me/smart.php?id=6fac0aaead
+###EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="体育·休闲",TNT Sports 2
+##https://smart.946985.filegear-sg.me/smart.php?id=d9a76a79cc
+###EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="体育·休闲",TNT Sports 3
+##https://smart.946985.filegear-sg.me/smart.php?id=5fea4d73db
+###EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="体育·休闲",TNT Sports 4
+##https://smart.946985.filegear-sg.me/smart.php?id=tntsport4
+###EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="体育·休闲",Sony Ten 1
+##https://smart.946985.filegear-sg.me/smart.php?id=ten1_raj
+###EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="体育·休闲",Sony Ten 2
+##https://smart.946985.filegear-sg.me/smart.php?id=ten2_raj
+###EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="体育·休闲",Sony Ten 3
+##https://smart.946985.filegear-sg.me/smart.php?id=ten3_raj
+###EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="体育·休闲",SPOTV 1 HD
+##https://smart.946985.filegear-sg.me/smart.php?id=go_spotv
+###EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="体育·休闲",SPO TV 2
+##https://smart.946985.filegear-sg.me/smart.php?id=go_spotv2
+###EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="体育·休闲",Skysports F1
+##https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
+###EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="体育·休闲",Skysports Cricket
+##https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
+###EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="体育·休闲",Skysports EPL
+##https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
+###EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="体育·休闲",Skysports Main Event
+##https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
+###EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="体育·休闲",Skysports News
+##https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
+###EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="体育·休闲",Skysports Mix
+##https://smart.946985.filegear-sg.me/smart.php?id=tiankongmix
+###EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="" group-title="体育·休闲",爱尔达体育2台
+##https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
+###EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="" group-title="体育·休闲",爱尔达体育3台
+##https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
+###EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="体育·休闲",Rugby Pass TV
+##https://smart.946985.filegear-sg.me/smart.php?id=Rugbypasstv
+###EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="体育·休闲",RTM Sports HD
+##https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
+###EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="体育·休闲",Arena
+##https://smart.946985.filegear-sg.me/smart.php?id=Arena
+###EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="体育·休闲",Arena 2
+##https://smart.946985.filegear-sg.me/smart.php?id=Arena2
+###EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="体育·休闲",BolaArena 1
+##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
+###EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="体育·休闲",BolaArena 2
+##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
+###EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="体育·休闲",Astro Beinsports 1
+##https://smart.946985.filegear-sg.me/smart.php?id=Astrobein1
+###EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="体育·休闲",Astro Beinsports 2
+##https://smart.946985.filegear-sg.me/smart.php?id=Astrobein2
+###EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="体育·休闲",Astro Beinsports 3
+##https://smart.946985.filegear-sg.me/smart.php?id=Astrobein3
 
 
 #来自JACKTV-JULI
@@ -1210,35 +1210,35 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E5%8D%A1%
 #EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选动漫.png" group-title="教育·少儿·动画",精選動漫台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
 
-#来自JACKTV-SMT-儿童
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
-https://smart.946985.filegear-sg.me/smart.php?id=Babytv
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
-https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="教育·少儿·动画",CBeebies
-https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
-#EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png" group-title="教育·少儿·动画",东森幼幼
-https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
-#EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
-https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
-#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="教育·少儿·动画",Kids TV
-https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png" group-title="教育·少儿·动画",Animax
-https://smart.946985.filegear-sg.me/smart.php?id=Animax
-#EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="教育·少儿·动画",MiaoMi
-https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
-https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="教育·少儿·动画",Cartoon Network
-https://smart.946985.filegear-sg.me/smart.php?id=Cn
-#EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
-https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
-tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
-https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
+###来自JACKTV-SMT-儿童
+###EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
+##https://smart.946985.filegear-sg.me/smart.php?id=Babytv
+###EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
+##https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
+###EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="教育·少儿·动画",CBeebies
+##https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
+###EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png" group-title="教育·少儿·动画",东森幼幼
+##https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
+###EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
+##https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
+###EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="教育·少儿·动画",Kids TV
+##https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
+###EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png" group-title="教育·少儿·动画",Animax
+##https://smart.946985.filegear-sg.me/smart.php?id=Animax
+###EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="教育·少儿·动画",MiaoMi
+##https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
+###EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
+##https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
+###EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="教育·少儿·动画",Cartoon Network
+##https://smart.946985.filegear-sg.me/smart.php?id=Cn
+###EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
+##https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
+##tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
+##https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 
-#来自JACKTV-SMT-电影
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
-https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
+###来自JACKTV-SMT-电影
+###EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
+##https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
 
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV早期教育.png" group-title="教育·少儿·动画",CETV-早期教育
