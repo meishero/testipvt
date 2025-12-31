@@ -715,8 +715,6 @@ http://192.168.33.93:3007/619495952
 http://192.168.33.93:3007/625703337
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="电影·娱乐",经典香港电影
 http://192.168.33.93:3007/625703337
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="电影·娱乐",上视东方影视
-http://192.168.33.93:3007/617290047
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="电影·娱乐",抗战经典影片
 http://192.168.33.93:3007/617432318
 
@@ -1171,6 +1169,8 @@ http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="教育·少儿·动画",经典动画大集合
 http://192.168.33.93:3007/629942219
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo//新动漫.png" group-title="教育·少儿·动画",新动漫
+http://192.168.33.93:3007/961930269
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华卡通.png" group-title="教育·少儿·动画",龙华卡通
