@@ -358,7 +358,7 @@ http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",翡翠台4K
 http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
 http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
@@ -406,8 +406,6 @@ http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠剧集台" tvg-name="TVB翡翠剧集台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Drama翡翠剧集台.png" group-title="港·澳·海外",TVB Drama翡翠剧集台
 http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典.png" group-title="港·澳·海外",TVB千禧经典台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典.png" group-title="港·澳·海外",TVB千禧经典台
 http://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76财经.png" group-title="港·澳·海外",HOY76国际财经
 https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
@@ -425,8 +423,6 @@ http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
 http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
 http://smt.1678520.xyz/smt3.2.3.php?id=viusix_twn
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW新闻台.png" group-title="港·澳·海外",NOW新闻台
@@ -454,19 +450,11 @@ http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
 http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="港·澳·海外",AstroAOD(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="港·澳·海外",AstroAOD(马来西亚)
 http://smt.1678520.xyz/smt3.2.3.php?id=Aodhd
-#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://upload.112114.xyz/logo/AstroAEC.png" group-title="港·澳·海外",AstroAEC(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://upload.112114.xyz/logo/AstroAEC.png" group-title="港·澳·海外",AstroAEC(马来西亚)
 http://smt.1678520.xyz/smt3.2.3.php?id=AEC
 #EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://upload.112114.xyz/logo/Astro欢喜台.png" group-title="港·澳·海外",Astro欢喜(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://upload.112114.xyz/logo/Astro欢喜台.png" group-title="港·澳·海外",Astro欢喜(马来西亚)
 http://smt.1678520.xyz/smt3.2.3.php?id=Huahee
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://upload.112114.xyz/logo/Astro全佳.png" group-title="港·澳·海外",Astro全佳(马来西亚)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://upload.112114.xyz/logo/Astro全佳.png" group-title="港·澳·海外",Astro全佳(马来西亚)
 http://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
