@@ -406,7 +406,7 @@ http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典.png" group-title="港·澳·海外",TVB千禧经典台
 http://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="HOY73" tvg-name="HOY73" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY73剧集.png" 
+#EXTINF:-1 tvg-id="HOY73" tvg-name="HOY73" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY73剧集.png" group-title="港·澳·海外",HOY73剧集
 http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77电视.png" group-title="港·澳·海外",HOY TV
 http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
