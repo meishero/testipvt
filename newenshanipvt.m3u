@@ -1,8 +1,7 @@
-#EXTM3U x-tvg-url="https://gh-proxy.com/https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml#sp;sha1=https://gh-proxy.com/https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml.sha1"
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.gz#sp;sha1=https://gh-proxy.com/https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.gz.sha1"
 #EXTM3U x-tvg-url="http://192.168.33.93:3007/playback.xml#sp;sha1=http://192.168.33.93:3007/playback.xml.sha1"
-#EXTM3U x-tvg-url="https://epg.iill.top/epg#sp;sha1=https://epg.iill.top/epg.sha1"
-#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml#sp;sha1=https://epg.946985.filegear-sg.me/t.xml.sha1"
-#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml#sp;sha1=https://static.188766.xyz/e.xml.sha1" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz#sp;sha1=https://epg.946985.filegear-sg.me/t.xml.gz.sha1"
+#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml.gz#sp;sha1=https://static.188766.xyz/e.xml.gz.sha1" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #集众家所长的EPG,咪咕,bee-v1/smart-v1,JACKTV,冰茶TV
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" group-title="央视",CCTV-4K
 http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
@@ -407,18 +406,16 @@ http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://upload.112114.xyz/logo/千禧经典.png" group-title="港·澳·海外",TVB千禧经典台
 http://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76财经.png" group-title="港·澳·海外",HOY76国际财经
-https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
+#EXTINF:-1 tvg-id="HOY73" tvg-name="HOY73" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY73剧集.png" 
+http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77电视.png" group-title="港·澳·海外",HOY TV
 http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77电视.png" group-title="港·澳·海外",HOY TV
 http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯台
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯
 https://tvbjack.946985.filegear-sg.me/ch78/jcakch78.m3u8
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯台
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯
 http://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY剧集台.png" 
-http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
 http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
