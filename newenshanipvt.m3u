@@ -679,8 +679,6 @@ http://111.20.33.93/PLTV/88888893/224/3221227091/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226366/index.m3u8
 #EXTINF:-1 tvg-id="西安都市" tvg-name="西安都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/西安都市.png" group-title="陕西",西安都市
 http://111.20.33.93/PLTV/88888893/224/3221226367/index.m3u8
-#EXTINF:-1 tvg-id="西安商务资迅" tvg-name="西安商务资迅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/西安商务资讯.png" group-title="陕西",西安商务资讯
-http://111.20.33.93/PLTV/88888893/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-id="西安影视" tvg-name="西安影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/西安戏剧.png" group-title="陕西",西安戏剧影视
 http://111.20.33.93/PLTV/88888893/224/3221226369/index.m3u8
 #EXTINF:-1 tvg-id="西安丝路" tvg-name="西安丝路" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/西安丝路.png" group-title="陕西",西安丝路
@@ -689,30 +687,18 @@ http://111.20.33.93/PLTV/88888893/224/3221226370/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226371/index.m3u8
 #EXTINF:-1 tvg-id="咸阳综合" tvg-name="咸阳综合" tvg-logo="https://upload.112114.xyz/logo/咸阳综合.png" group-title="陕西",咸阳综合
 http://111.20.33.93/PLTV/88888893/224/3221226372/index.m3u8
-#EXTINF:-1 tvg-id="咸阳公共" tvg-name="咸阳公共" tvg-logo="https://upload.112114.xyz/logo/咸阳公共.png" group-title="陕西",咸阳公共
-http://111.20.33.93/PLTV/88888893/224/3221227060/index.m3u8
 #EXTINF:-1 tvg-id="宝鸡综合" tvg-name="宝鸡综合" tvg-logo="https://upload.112114.xyz/logo/宝鸡综合频道.png" group-title="陕西",宝鸡综合
 http://111.20.33.93/PLTV/88888893/224/3221226383/index.m3u8
-#EXTINF:-1 tvg-id="宝鸡公共" tvg-name="宝鸡公共" tvg-logo="https://upload.112114.xyz/logo/宝鸡公共频道.png" group-title="陕西",宝鸡公共
-http://111.20.33.93/PLTV/88888893/224/3221226384/index.m3u8
 #EXTINF:-1 tvg-id="渭南新闻综合" tvg-name="渭南新闻综合" tvg-logo="https://upload.112114.xyz/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
 http://111.20.33.93/PLTV/88888893/224/3221226376/index.m3u8
-#EXTINF:-1 tvg-id="渭南公共" tvg-name="渭南公共" tvg-logo="https://upload.112114.xyz/logo/渭南公共.png" group-title="陕西",渭南公共
-http://111.20.33.93/PLTV/88888893/224/3221227001/index.m3u8
 #EXTINF:-1 tvg-id="商洛综合" tvg-name="商洛综合" tvg-logo="https://upload.112114.xyz/logo/商洛综合.png" group-title="陕西",商洛综合
 http://111.20.33.93/PLTV/88888893/224/3221226378/index.m3u8
-#EXTINF:-1 tvg-id="商洛公共" tvg-name="商洛公共" tvg-logo="https://upload.112114.xyz/logo/商洛公共.png" group-title="陕西",商洛公共
-http://111.20.33.93/PLTV/88888893/224/3221227006/index.m3u8
 #EXTINF:-1 tvg-id="安康综合" tvg-name="安康综合" tvg-logo="https://upload.112114.xyz/logo/安康综合.png" group-title="陕西",安康综合
 http://111.20.33.93/PLTV/88888893/224/3221226385/index.m3u8
 #EXTINF:-1 tvg-id="榆林综合" tvg-name="榆林综合" tvg-logo="https://upload.112114.xyz/logo/榆林综合.png" group-title="陕西",榆林综合
 http://111.20.33.93/PLTV/88888893/224/3221226377/index.m3u8
 #EXTINF:-1 tvg-id="汉中综合" tvg-name="汉中综合" tvg-logo="https://upload.112114.xyz/logo/汉中综合.png" group-title="陕西",汉中综合
 http://111.20.33.93/PLTV/88888893/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-id="汉中公共" tvg-name="汉中公共" tvg-logo="https://upload.112114.xyz/logo/汉中公共.png" group-title="陕西",汉中公共
-http://111.20.33.93/PLTV/88888893/224/3221225990/index.m3u8
-#EXTINF:-1 tvg-id="汉中教育" tvg-name="汉中教育" tvg-logo="https://upload.112114.xyz/logo/汉中教育.png" group-title="陕西",汉中教育
-http://111.20.33.93/PLTV/88888893/224/3221225991/index.m3u8
 #EXTINF:-1 tvg-id="延安综合" tvg-name="延安综合" tvg-logo="https://upload.112114.xyz/logo/延安综合.png" group-title="陕西",延安综合
 http://111.20.33.93/PLTV/88888893/224/3221226374/index.m3u8
 #EXTINF:-1 tvg-id="延安公共" tvg-name="延安公共" tvg-logo="https://upload.112114.xyz/logo/延安公共.png" group-title="陕西",延安公共
@@ -936,8 +922,6 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E9%9B%BB%
 http://192.168.33.93:3007/646596895
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="体育·休闲",体坛名栏汇
 http://192.168.33.93:3007/629943305
-#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/136/202509241340_1758692392561_H32_1080.webp" group-title="体育·休闲",24小时城市联赛轮播台
-http://192.168.33.93:3007/915512915
 
 #来自冰茶TV
 ###EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png" group-title="体育·休闲",睛彩竞技
@@ -1542,8 +1526,10 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?ch
 http://111.20.33.93/PLTV/88888951/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/第一财经.png" group-title="未分类",上海第一财经
 http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
+
+#来自咪咕订阅
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/财富天下.png" group-title="未分类",江苏财富天下
-http://111.20.33.93/PLTV/88888893/224/3221226350/index.m3u8
+http://192.168.33.93:3007/956923159
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/.png" group-title="未分类",广东珠江
@@ -1557,8 +1543,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226018/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226459/index.m3u8
 #EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/快乐购.png" group-title="未分类",湖南快乐购
 http://111.20.33.93/PLTV/88888893/224/3221226353/index.m3u8
-#EXTINF:-1 tvg-id="乐家购物" tvg-name="乐家购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/陕西购物.png" group-title="未分类",陕西乐家购物
-http://111.20.33.93/PLTV/88888893/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/央广购物.png" group-title="未分类",CCTV-央广购物
 http://111.20.33.93/PLTV/88888893/224/3221226032/index.m3u8
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/优购物.png" group-title="未分类",山西优购物
