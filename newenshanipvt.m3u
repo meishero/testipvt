@@ -339,11 +339,6 @@ http://192.168.33.93:3007/608917627
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/香港卫视.png" group-title="港·澳·海外",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
-http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
-http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
-
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="CCTV1港澳" tvg-name="CCTV1港澳" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV1.png" group-title="港·澳·海外",CCTV1港澳
 http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
@@ -439,8 +434,6 @@ http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
 #EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门体育.png" group-title="港·澳·海外",澳门体育
 http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-
-#来自JACKTV-JULI
 #EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
 http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
@@ -459,6 +452,11 @@ http://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
 http://smt.1678520.xyz/smt3.2.3.php?id=TV8
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
+http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
+http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
 ###来自JACKTV-SMT-新加坡
 ###EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
