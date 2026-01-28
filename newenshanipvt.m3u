@@ -1525,8 +1525,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?ch
 http://111.20.33.93/PLTV/88888951/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/第一财经.png" group-title="未分类",上海第一财经
 http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
-
-#来自咪咕订阅
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/财富天下.png" group-title="未分类",江苏财富天下
 http://111.20.33.93/PLTV/88888893/224/3221227169/index.m3u8
 
