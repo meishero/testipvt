@@ -305,6 +305,11 @@ http://111.20.33.93/PLTV/88888888/224/3221225764/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225770/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/河北卫视.png" group-title="卫视",河北卫视
 http://111.20.33.93/PLTV/88888888/224/3221225750/index.m3u8
+
+#来自xiaoyumengmeng
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/河北4K.png" group-title="卫视",河北4K
+http://43.251.226.89:8080/play/992.m3u8
+
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山西卫视.png" group-title="卫视",山西卫视
 http://111.20.33.93/PLTV/88888888/224/3221225763/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/吉林卫视.png" group-title="卫视",吉林卫视
