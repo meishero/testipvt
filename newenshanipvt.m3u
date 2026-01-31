@@ -1203,8 +1203,12 @@ http://101.35.240.114:88/live.php?id=重温经典
 http://192.168.33.93:3007/629942228
 
 #来自陕西移动银河
-#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="电影·娱乐",NewTV超级综艺
+#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
 
 #来自chinatv
 ###EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场4K
@@ -1273,12 +1277,20 @@ http://192.168.33.93:3007/609154353
 
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰纪实.png" group-title="教育·少儿·动画",湖南金鹰纪实
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/嘉佳卡通.png" group-title="教育·少儿·动画",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/嘉佳卡通.png" group-title="教育·少儿·动画",广东嘉佳卡通
 http://111.20.33.93/PLTV/88888893/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/优漫卡通.png" group-title="教育·少儿·动画",优漫卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/优漫卡通.png" group-title="教育·少儿·动画",江苏优漫卡通
 http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰卡通.png" group-title="教育·少儿·动画",金鹰卡通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰卡通.png" group-title="教育·少儿·动画",湖南金鹰卡通
 http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
+
+#来自陕西移动银河
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 
 #来自冰茶TV
 ###EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",卡酷少儿
@@ -1624,6 +1636,31 @@ http://192.168.33.93:3007/959986618
 ##https://live.tv.darwinchow.com/channel/shenghuoshishang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 ###EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
 ##https://live.tv.darwinchow.com/channel/shoucangtianxia?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/法治天地.png" group-title="未分类",法治天地
+http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/法治天地.png" group-title="未分类",法治天地
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",游戏风云
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000027005/index.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",游戏风云
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000011&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",游戏风云
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="未分类",爱奇艺
