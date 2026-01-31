@@ -464,6 +464,7 @@ http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
 http://smt.1678520.xyz/smt3.2.3.php?id=TV8
 
+
 #来自爪云sitv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
 http://vvzihsyplmow.ap-northeast-1.clawcloudrun.com/play/n4966a4fb?token=123
@@ -485,6 +486,12 @@ http://vvzihsyplmow.ap-northeast-1.clawcloudrun.com/play/6429ae4c?token=123
 http://vvzihsyplmow.ap-northeast-1.clawcloudrun.com/play/78204936?token=123
 #EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
 http://vvzihsyplmow.ap-northeast-1.clawcloudrun.com/play/necd2834?token=123
+
+#来自???
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV32/stream5/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
 http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
@@ -1037,6 +1044,10 @@ http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" group-title="体育·休闲",湖南快乐垂钓
 http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 
+#来自???
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
+http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/四海钓鱼.png" group-title="体育·休闲",四海钓鱼
 http://192.168.33.93:3007/637444975
@@ -1545,11 +1556,21 @@ http://111.20.33.93/PLTV/88888893/224/3221226970/index.m3u8
 ###EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
 ##https://event.pull.hebtv.com:443/live/live101.m3u8
 
+#来自陕西移动银河
+EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000011651&amp;livemode=1&amp;stbId=3
+
 #来自chinatv
 ###EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
 ##https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 ###EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhqqg.png" group-title="未分类",环球奇观
 ##https://live.tv.darwinchow.com/channel/huanqiuqiguan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
+
+#来自???
+#EXTINF:-1 tvg-id="文化宝库" tvg-name="文化宝库" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/文化宝库.png" group-title="未分类",文化宝库
+http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/直播中国.png" group-title="未分类",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" group-title="未分类",环球旅游
