@@ -181,10 +181,20 @@ http://111.20.33.93/PLTV/88888888/224/3221225788/index.m3u8
 ###EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="aliplayer" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
 ##http://101.35.240.114:88/live.php?id=江苏卫视4K
 
+#来自xiaoyumengmeng
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="aliplayer" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+http://43.251.226.89:8080/play/857.m3u8
+
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png" group-title="卫视",江苏卫视
 http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png" group-title="卫视",江苏卫视
 http://111.20.33.93/PLTV/88888888/224/3221225746/index.m3u8
+
+#来自xiaoyumengmeng
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/苏州4K.png" group-title="卫视",苏州4K
+http://43.251.226.89:8080/play/991.m3u8
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/苏州4K.png" group-title="卫视",苏州4K
+http://43.251.226.89:8080/play/1076.m3u8
 
 #来自zbds
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/苏州4K.png" group-title="卫视",苏州4K
@@ -232,6 +242,10 @@ http://111.20.33.93/PLTV/88888888/224/3221225757/index.m3u8
 #来自APTV专用
 ###EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
 ##http://101.35.240.114:88/live.php?id=深圳卫视
+
+#来自xiaoyumengmeng
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
+http://43.251.226.89:8080/play/984.m3u8
 
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
