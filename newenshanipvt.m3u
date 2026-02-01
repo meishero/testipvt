@@ -188,7 +188,7 @@ http://111.20.33.93/PLTV/88888888/224/3221225788/index.m3u8
 ##http://101.35.240.114:88/live.php?id=江苏卫视4K
 
 #来自xiaoyumengmeng
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="aliplayer" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/江苏卫视4K.png" group-title="卫视",江苏卫视4K
 http://43.251.226.89:8080/play/658.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png" group-title="卫视",江苏卫视
@@ -1085,15 +1085,15 @@ http://43.251.226.89:8080/play/28.m3u8
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
 http://43.251.226.89:8080/play/30.m3u8
 
-#来自???
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
-http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-
 #来自咪咕订阅
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/四海钓鱼.png" group-title="体育·休闲",四海钓鱼
 http://192.168.33.93:3007/637444975
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
 http://192.168.33.93:3007/958475359
+
+#来自???
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
+http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://upload.112114.xyz/logo/书画频道.png" group-title="体育·休闲",书画频道
