@@ -1,3 +1,0 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="TVB剧场" tvg-name="111" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="testepg",TVBend
-http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
