@@ -657,6 +657,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?ch
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="BesTV LIVE" tvg-name="BesTV LIVE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/BesTVlive.png" group-title="未分类",BesTV LIVE
+
 http://111.20.33.93/PLTV/88888951/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/第一财经.png" group-title="未分类",上海第一财经
 http://111.20.33.93/PLTV/88888951/224/3221226966/index.m3u8
