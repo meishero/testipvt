@@ -685,7 +685,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",乐游
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",SiTV乐游
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",SiTV游戏风云
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com

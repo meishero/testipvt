@@ -24,13 +24,6 @@ http://111.20.33.93/PLTV/88888893/224/3221227067/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://111.20.33.93/PLTV/88888888/224/3221225781/index.m3u8
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际欧洲
-http://192.168.33.93:3007/608807419
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际美洲
-http://192.168.33.93:3007/608807416
-
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV5.png" group-title="央视",CCTV-5 体育
 http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV5.png" group-title="央视",CCTV-5 体育
@@ -83,11 +76,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226193/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225784/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://111.20.33.93/PLTV/88888888/224/3221225785/index.m3u8
-
-#来自chinatv
-###EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
-##https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV17.png" group-title="央视",CCTV-17 农业农村
@@ -120,11 +108,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226969/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221227146/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="央视",CCTV-电视指南
 http://111.20.33.93/PLTV/88888893/224/3221226987/index.m3u8
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDfxzl.png" group-title="央视",中央新影-发现之旅
-http://192.168.33.93:3007/624878970
-
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDlgs.png" group-title="央视",中央新影-老故事
 http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNDlgs.png" group-title="央视",中央新影-老故事
@@ -188,28 +171,14 @@ http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225790/index.m3u8
 
 #第二梯队：全国性较强、收视稳定的卫视
-#来自APTV专用
-###EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="aliplayer"  tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/广东卫视4K.png" group-title="卫视",广东卫视4K
-##http://101.35.240.114:88/live.php?id=广东卫视4K
-
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/广东卫视.png" group-title="卫视",广东卫视
 http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/广东卫视.png" group-title="卫视",广东卫视
 http://111.20.33.93/PLTV/88888888/224/3221225757/index.m3u8
-
-#来自APTV专用
-###EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/深圳卫视4K.png" group-title="卫视",深圳卫视4K
-##http://101.35.240.114:88/live.php?id=深圳卫视
-
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png" group-title="卫视",深圳卫视
 http://111.20.33.93/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png" group-title="卫视",深圳卫视
 http://111.20.33.93/PLTV/88888888/224/3221225752/index.m3u8
-
-#来自APTV专用
-###EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" http-user-agent="aliplayer" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/山东卫视4K.png" group-title="卫视",山东卫视4K
-##http://101.35.240.114:88/live.php?id=山东卫视4K
-
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东卫视.png" group-title="卫视",山东卫视
 http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东卫视.png" group-title="卫视",山东卫视
@@ -238,11 +207,6 @@ http://111.20.33.93/PLTV/88888888/224/3221225772/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖北卫视.png" group-title="卫视",湖北卫视
 http://111.20.33.93/PLTV/88888888/224/3221225760/index.m3u8
-
-#来自APTV专用
-###EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/四川卫视4K.png" group-title="卫视",四川卫视4K
-##http://101.35.240.114:88/live.php?id=四川卫视4K
-
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/四川卫视.png" group-title="卫视",四川卫视
 http://111.20.33.93/PLTV/88888893/224/3221227190/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/四川卫视.png" group-title="卫视",四川卫视
@@ -317,12 +281,6 @@ http://111.20.33.93/PLTV/88888893/224/3221227055/index.m3u8
 #来自银河移动
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/海峡卫视.png" group-title="卫视",海峡卫视
-http://192.168.33.93:3007/849119120
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://192.168.33.93:3007/608917627
 
 
 
@@ -445,27 +403,6 @@ http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 http://smt.1678520.xyz/smt3.2.3.php?id=TV8
 
 
-###来自nas-sitv
-###EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
-##http://192.168.33.93:22125/play/n4966a4fb?token=meishero
-###EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
-##http://192.168.33.93:22125/play/n496e6eec?token=meishero
-###EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="港·澳·海外",凤凰香港
-##http://192.168.33.93:22125/play/n49654430?token=meishero
-###EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-##http://192.168.33.93:22125/play/n7549189d?token=meishero
-###EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-##http://192.168.33.93:22125/play/n7549189d?token=meishero
-###EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
-##http://192.168.33.93:22125/play/n75ab7db0?token=meishero
-###EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB新闻台.png" group-title="港·澳·海外",TVB无线新闻台
-##http://192.168.33.93:22125/play/n3fad9608?token=meishero
-###EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Plus.png" group-title="港·澳·海外",TVBPLUS
-##http://192.168.33.93:22125/play/6429ae4c?token=meishero
-###EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
-##http://192.168.33.93:22125/play/78204936?token=meishero
-###EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
-##http://192.168.33.93:22125/play/necd2834?token=meishero
 
 #来自???
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
@@ -478,216 +415,11 @@ http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
 http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
-###来自JACKTV-SMT-新加坡
-###EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Channel5HD
-###EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Channel8HD
-###EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=ChannelU
-###EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.112114.xyz/logo/SURIA.png" group-title="港·澳·海外",Suria(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Suria
-###EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.112114.xyz/logo/VASANTHAM.png" group-title="港·澳·海外",Vasantham(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Vasantham
-###EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=cna
-###EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=cna_twn
-###EXTINF:-1 tvg-id="channel5" tvg-name="channel5" tvg-logo="https://upload.112114.xyz/logo/channel5hd.png" group-title="港·澳·海外",channel 5(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch5
-###EXTINF:-1 tvg-id="channel8" tvg-name="channel8" tvg-logo="https://upload.112114.xyz/logo/channel8.png" group-title="港·澳·海外",channel 8(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch8
-###EXTINF:-1 tvg-id="channelu" tvg-name="channelu" tvg-logo="https://upload.112114.xyz/logo/channelu.png" group-title="港·澳·海外",channel u(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_chU
-###EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.112114.xyz/logo/SURIA.png" group-title="港·澳·海外",Suria(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Suria
-###EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.112114.xyz/logo/VASANTHAM.png" group-title="港·澳·海外",Vasantham(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Vasantham
-###EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.112114.xyz/logo/cna.png" group-title="港·澳·海外",CNA(新加坡)
-##https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
-
 #来自???
 #EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://upload.112114.xyz/logo/Korea TV.png" group-title="港·澳·海外",Korea TV(韩国)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Gugak TV" tvg-name="Gugak TV" tvg-logo="https://upload.112114.xyz/logo/Gugak TV.png" group-title="港·澳·海外",Gugak TV(韩国)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-
-
-###来自nas-sitv
-###EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台灣",中天新聞
-##http://192.168.33.93:22125/play/41d8a09d?token=meishero
-###EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台灣",中天新聞
-##http://192.168.33.93:22125/play/n3ee59a96?token=meishero
-###EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/寰宇新闻台湾.png" group-title="台灣",寰宇新聞台湾
-##http://192.168.33.93:22125/play/n43c34be8?token=meishero
-###EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/寰宇新闻台湾.png" group-title="台灣",寰宇新聞台湾
-##http://192.168.33.93:22125/play/n7be4ad71?token=meishero
-###EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻.png" group-title="台灣",東森新聞
-##http://192.168.33.93:22125/play/n88aa83?token=meishero
-###EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻.png" group-title="台灣",東森新聞
-##http://192.168.33.93:22125/play/2c4f5ac9?token=meishero
-###EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS新闻.png" group-title="台灣",TVBS新聞
-##http://192.168.33.93:22125/play/n69ccce92?token=meishero
-###EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS新闻.png" group-title="台灣",TVBS新聞
-##http://192.168.33.93:22125/play/7713a03d?token=meishero
-###EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="台灣",新唐人亞太台
-##http://192.168.33.93:22125/play/3c4b5186?token=meishero
-###EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS.png" group-title="台灣",TVBS
-##http://192.168.33.93:22125/play/154f9d73?token=meishero
-###EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS.png" group-title="台灣",TVBS
-##http://192.168.33.93:22125/play/n5bc98b1?token=meishero
-###EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="台灣",Bloomberg TV
-##http://192.168.33.93:22125/play/n1794885d?token=meishero
-
-###来自JACKTV-4gtv台湾节点
-###EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台灣",中天新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS新闻.png" group-title="台灣",TVBS新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%81%9E
-###EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视新闻.png" group-title="台灣",民視新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻.png" group-title="台灣",東森新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/华视新闻.png" group-title="台灣",華視新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
-###EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/镜新闻.png" group-title="台灣",鏡電視新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="东森财经台" tvg-name="东森财经台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森财经.png" group-title="台灣",東森財經
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视新闻.png" group-title="台灣",中視新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
-###EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/寰宇新闻.png" group-title="台灣",寰宇新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/寰宇新闻台湾.png" group-title="台灣",寰宇新聞台湾
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
-###EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻"  tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立新闻.png" group-title="台灣",三立新聞
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
-###EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="台灣",Bloomberg TV
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
-###EXTINF:-1 tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/SBN全球财经.png" group-title="台灣",SBN全球財經台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=SBN%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E5%8F%B0
-###EXTINF:-1 tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛国际新闻.png" group-title="台灣",半島國際新聞台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHK.png" group-title="台灣",NHK WORLD-JAPAN
-##https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
-###EXTINF:-1 tvg-id="CNBC ASIA 财经台" tvg-name="CNBC ASIA 财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="台灣",CNBC Asia 財經台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
-###EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0
-###EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视台湾.png" group-title="台灣",民視台灣
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
-###EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96
-###EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立综合.png" group-title="台灣",三立綜合
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
-###EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/华视.png" group-title="台灣",華視
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
-###EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
-###EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天综合.png" group-title="台灣",靖天综合
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
-###EXTINF:-1 tvg-id="KLT-靖天国际台" tvg-name="KLT-靖天国际台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天国际.png" group-title="台灣",靖天国际
-##https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
-###EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天资讯.png" group-title="台灣",靖天资讯
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
-###EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天日本.png" group-title="台灣",靖天日本台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-###EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视经典.png" group-title="台灣",中視經典台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0
-###EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视综艺.png" group-title="台灣",民视综艺
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D%E5%8F%B0
-###EXTINF:-1 tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大综艺.png" group-title="台灣",八大綜藝
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
-###EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS精采.png" group-title="台灣",TVBS精采
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
-###EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS.png" group-title="台灣",TVBS
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
-###EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS欢乐.png" group-title="台灣",TVBS歡樂
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
-###EXTINF:-1 tvg-id="TVBS综艺台" tvg-name="TVBS综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS综艺.png" group-title="台灣",TVBS綜藝台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0
-###EXTINF:-1 tvg-id="TVBS台剧台" tvg-name="TVBS台剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS台剧.png" group-title="台灣",TVBS台劇台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
-###EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天欢乐.png" group-title="台灣",靖天欢乐
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
-###EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天育乐.png" group-title="台灣",靖天育乐
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
-###EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/猪哥亮歌厅秀.png" group-title="台灣",豬哥亮歌廳秀
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80
-###EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大精彩.png" group-title="台灣",八大精彩
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
-###EXTINF:-1 tvg-id="LIFETIME 娱乐频道" tvg-name="LIFETIME 娱乐频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Lifetime(中文).png" group-title="台灣",LIFETIME 娛樂頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视菁采.png" group-title="台灣",中视菁采
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
-###EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="台灣",新唐人亞太台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
-###EXTINF:-1 tvg-id="阿里郎频道" tvg-name="阿里郎频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台灣",ARIRANG阿里郎頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="Global Trekker" tvg-name="GLOBAL TREKKER" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Global%20Trekker(%E4%B8%AD%E6%96%87).png" group-title="台灣",Global Trekker
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Global%20Trekker
-###EXTINF:-1 tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/原住民卫视.png" group-title="台灣",原住民族電視台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
-###EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/客家卫视.png" group-title="台灣",客家電視台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0
-###EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/国会频道1.png" group-title="台灣",國會頻道1
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%931
-###EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/国会频道2.png" group-title="台灣",國會頻道2
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%932
-###EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/好消息1台.png" group-title="台灣",好消息
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF
-###EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/好消息2台.png" group-title="台灣",好消息2台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
-###EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96
-###EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱2台.png" group-title="台灣",大愛二台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
-###EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/人间卫视.png" group-title="台灣",人間衛視
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96
-###EXTINF:-1 tvg-id="PET CLUB TV" tvg-name="PET CLUB TV" group-title="台灣",Pet Club TV
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Pet%20Club%20TV
-###EXTINF:-1 tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/滚动力rollor.png" group-title="台灣",滾動力rollor
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor
-###EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视旅游.png" group-title="台灣",民視旅遊
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
-###EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/亚洲旅游台.png" group-title="台灣",亞洲旅遊
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-###EXTINF:-1 tvg-id="爱尔达生活旅游台" tvg-name="爱尔达生活旅游台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达生活旅游台.png" group-title="台灣",愛爾達生活旅遊台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
-###EXTINF:-1 tvg-id="FUN探索娱乐台" tvg-name="FUN探索娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娱乐.png" group-title="台灣",fun探索娛樂台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
-###EXTINF:-1 tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/幸福空间居家.png" group-title="台灣",幸福空間居家台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0
-###EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达娱乐.png" group-title="台灣",愛爾達娛樂
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
-###EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="LOVE NATURE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Love%20Nature(中文).png" group-title="台灣",Love Nature
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
-###EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/历史频道(中文).png" group-title="台灣",History 歷史頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/达文西频道(中文).png" group-title="台灣",達文西頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="MAGELLANTV频道 (麦哲伦频道)"  tvg-name="MAGELLANTV频道 (麦哲伦频道)"  tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MagellanTV頻道.png" group-title="台灣",MagellanTV頻道 (麥哲倫頻道)
-##https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
-###EXTINF:-1 tvg-id="MEZZO LIVE" tvg-name="MEZZO LIVE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Mezzo Live.png" group-title="台灣",MEZZO LIVE
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Mezzo%20Live%20HD
-###EXTINF:-1 tvg-id="CLASSICA 古典乐" tvg-name="CLASSICA 古典乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CLASSICA古典音乐台.png" group-title="台灣",CLASSICA古典音乐台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
-###EXTINF:-1 tvg-id="电影原声台CMUSIC" tvg-name="电影原声台CMUSIC" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CMusic.png" group-title="台灣",電影原聲台CMusic
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%8F%B0CMusic
-###EXTINF:-1 tvg-id="CI 罪案侦查频道" tvg-name="CI 罪案侦查频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CI罪案侦缉(中文).png" group-title="台灣",CI 罪案偵查頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/视纳华仁纪实.png" group-title="台灣",視納華仁紀實頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位纪实.png" group-title="台灣",影迷數位紀實台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0
-###EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/INULTRA.png" group-title="台灣",INULTRA
-##https://4gtv.946985.filegear-sg.me/playlist?channel=INULTRA
-###EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="TRACE URBAN" group-title="台灣",TRACE Urban
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
-###EXTINF:-1 tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="台灣",TRACE Sport Stars
-##https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
-###EXTINF:-1 tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/车迷TV.png" group-title="台灣",車迷TV
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
 
 
 
@@ -761,24 +493,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC影迷电影.png" group-title="电影·娱乐",CHC影迷电影
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 
-#来自nas-migu
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="电影·娱乐",新片放映厅
-http://192.168.33.93:3007/619495952
-#EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="电影·娱乐",南方影视
-http://192.168.33.93:3007/625703337
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="电影·娱乐",经典香港电影
-http://192.168.33.93:3007/625703337
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="电影·娱乐",抗战经典影片
-http://192.168.33.93:3007/617432318
-
-#来自chinatv
-###EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV动作电影.png" group-title="电影·娱乐",NewTV动作电影
-##https://live.tv.darwinchow.com/channel/newtvdongzuodianying?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV惊悚悬疑.png" group-title="电影·娱乐",NewTV惊悚悬疑
-##https://live.tv.darwinchow.com/channel/newtvjingsongxuanyi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓电影.png" group-title="电影·娱乐",黑莓电影
-##https://live.tv.darwinchow.com/channel/heimeidianying?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
@@ -830,14 +544,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000006/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 
 #来自JACKTV-JULI
-###EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷星影台.png" group-title="电影·娱乐",NOW爆谷星影台
-##https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
-###EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷台.png" group-title="电影·娱乐",NOW爆谷台
-##https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-###EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://upload.112114.xyz/logo/1905电影网.png" group-title="电影·娱乐",1905电影网
-##http://php.jdshipin.com:8880/1905.php?id=1905dy
-###EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://upload.112114.xyz/logo/1905电影网.png" group-title="电影·娱乐",1905电影网
-##http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影香港.png" group-title="电影·娱乐",美亚电影
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png" group-title="电影·娱乐",天映经典
@@ -859,157 +565,7 @@ http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华洋片.png" group-title="电影·娱乐",龙华洋片
 http://cdn8.veryfast.filegear-sg.me/163189/lhyp
 
-###来自nas-sitv
-###EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
-##http://192.168.33.93:22125/play/66c77727?token=meishero
-###EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华经典.png" group-title="电影·娱乐",龙华经典
-##http://192.168.33.93:22125/play/66c892d4?token=meishero
-###EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华偶像.png" group-title="电影·娱乐",龙华偶像
-##http://192.168.33.93:22125/play/66c2f564?token=meishero
-###EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华洋片.png" group-title="电影·娱乐",龙华洋片
-##http://192.168.33.93:22125/play/66c68ce7?token=meishero
-###EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="电影·娱乐",好萊塢電影台
-##http://192.168.33.93:22125/play/n2db95de5?token=meishero
-###EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影香港.png" group-title="电影·娱乐",美亚电影
-##http://192.168.33.93:22125/play/5824ef5e?token=meishero
-###EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/纬来电影.png" group-title="电影·娱乐",纬来电影
-##http://192.168.33.93:22125/play/581b458b?token=meishero
 
-###来自JACKTV-4gtv台湾节点
-###EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位电影.png" group-title="电影·娱乐",影迷數位電影
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
-###EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/采昌影剧.png" group-title="电影·娱乐",采昌影剧
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0
-###EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视影剧.png" group-title="电影·娱乐",民视影剧
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0
-###EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天映画.png" group-title="电影·娱乐",靖天映畫
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
-###EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天电影.png" group-title="电影·娱乐",靖天電影
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0
-###EXTINF:-1 tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/AMC电影台.png" group-title="电影·娱乐",AMC电影台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
-###EXTINF:-1 tvg-id="ROCK ACTION"  tvg-name="ROCK ACTION" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK Action.png" group-title="电影·娱乐",ROCK Action
-##https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
-###EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK%20Entertainment(中文).png" group-title="台灣",ROCK Entertainment
-##https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
-###EXTINF:-1 tvg-id="HITS频道"  tvg-name="HITS频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HITS.png" group-title="电影·娱乐",HITS頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/cinemaworld.png" group-title="电影·娱乐",CinemaWorld
-##https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
-###EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/我的欧洲电影.png" group-title="电影·娱乐",My Cinema Europe HD 我的歐洲電影
-##https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
-###EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="电影·娱乐",經典電影台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0
-
-###来自JACKTV-SMT-电影
-###EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="电影·娱乐",AXN Taiwan
-##https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
-###EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="电影·娱乐",HBO_HD
-##https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-###EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="电影·娱乐",HBO_HITS
-##https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
-###EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
-##https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-###EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="电影·娱乐",好萊塢電影台
-##https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
-###EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="电影·娱乐",东森电影
-##https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
-###EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="电影·娱乐",东森洋片
-##https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
-###EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
-##https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-###EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华洋片
-##https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
-###EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙祥时代.png" group-title="电影·娱乐",龙祥时代
-##https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-###EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影.png" group-title="电影·娱乐",美亚电影
-##https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
-###EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="电影·娱乐",卫视电影台
-##https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
-###EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
-##https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-###EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="电影·娱乐",天映频道
-##https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
-###EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="电影·娱乐",天映马来西亚
-##https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-###EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="电影·娱乐",Movies Now HD
-##https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
-###EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="电影·娱乐",Star Movies HD
-##https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
-###EXTINF:-1 tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HITS.png" group-title="电影·娱乐",HITS频道
-##https://smart.946985.filegear-sg.me/smart.php?id=Hits
-###EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="电影·娱乐",Warner TV
-##https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-###EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="电影·娱乐",HBO HD
-##https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-###EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="电影·娱乐",HBO Signature
-##https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-###EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="电影·娱乐",HBO Family
-##https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
-###EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="电影·娱乐",HBO Hits
-##https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
-###EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="电影·娱乐",CINEMAX
-##https://smart.946985.filegear-sg.me/smart.php?id=Cinema
-###EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="电影·娱乐",SCM
-##https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
-###EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="电影·娱乐",Thrill
-##https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-###EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="电影·娱乐",Hits Movie
-##https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-###EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="电影·娱乐",One
-##https://smart.946985.filegear-sg.me/smart.php?id=One
-###EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="电影·娱乐",tvN Movie
-##https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-###EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="电影·娱乐",Axn HD
-##https://smart.946985.filegear-sg.me/smart.php?id=Axn
-###EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="电影·娱乐",Paramount Network
-##https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
-###EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="电影·娱乐",Astrol Kplus
-##https://smart.946985.filegear-sg.me/smart.php?id=Kplus
-###EXTINF:-1 tvg-id="ROCK ACTION"  tvg-name="ROCK ACTION" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK Action.png" group-title="电影·娱乐",ROCK Action
-##https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-###EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ROCK%20Entertainment(中文).png" group-title="电影·娱乐",ROCK Entertainment
-##https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="体育·休闲",赛事最经典
-http://192.168.33.93:3007/646596895
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="体育·休闲",体坛名栏汇
-http://192.168.33.93:3007/629943305
-
-#来自冰茶TV
-###EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png" group-title="体育·休闲",睛彩竞技
-##https://msj.188766.xyz/play?id=3000000020000011528&token=902e5061902e5061902e5061902e5061
-###EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="hhttps://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png" group-title="体育·休闲",睛彩青少
-##https://msj.188766.xyz/play?id=3000000020000011525&token=902e505e902e505e902e505e902e505e
-###EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮球.png" group-title="体育·休闲",睛彩篮球
-##https://msj.188766.xyz/play?id=3000000020000011529&token=902e5062902e5062902e5062902e5062
-###EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩广场舞.png" group-title="体育·休闲",睛彩广场舞
-##https://msj.188766.xyz/play?id=3000000020000011523&token=902e505c902e505c902e505c902e505c
-
-#来自chinatv
-###EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png" group-title="体育·休闲",睛彩竞技
-##https://live.tv.darwinchow.com/channel/jingcaijingji?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="hhttps://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png" group-title="体育·休闲",睛彩青少
-##https://live.tv.darwinchow.com/channel/jingcaiqingshao?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮球.png" group-title="体育·休闲",睛彩篮球
-##https://live.tv.darwinchow.com/channel/jingcailanqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/先锋乒羽.png" group-title="体育·休闲",先锋乒羽
-##https://live.tv.darwinchow.com/channel/xianfengpingyu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="体育·休闲",NewTV精品体育
-##https://live.tv.darwinchow.com/channel/newtvjingpintiyu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵电竞.png" group-title="体育·休闲",哒啵电竞
-##https://live.tv.darwinchow.com/channel/newtvdabodianjing?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵赛事.png" group-title="体育·休闲",哒啵赛事
-##https://live.tv.darwinchow.com/channel/newtvdabosaishi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/魅力足球.png" group-title="体育·休闲",魅力足球
-##https://live.tv.darwinchow.com/channel/meilizuqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://static.tv.darwinchow.com/logo/天下足球.png" group-title="体育·休闲",天下足球
-##https://live.tv.darwinchow.com/channel/tianxiazuqiu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/天元围棋.png" group-title="体育·休闲",天元围棋
-##https://live.tv.darwinchow.com/channel/tianyuanweiqi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/国学.png" group-title="体育·休闲",国学
-##https://live.tv.darwinchow.com/channel/guoxue?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/书画.png" group-title="体育·休闲",书画频道
 http://111.20.33.93/PLTV/88888893/224/3221227129/index.m3u8
@@ -1018,14 +574,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" group-title="体育·休闲",湖南快乐垂钓
 http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 
-#来自nas-migu
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/四海钓鱼.png" group-title="体育·休闲",四海钓鱼
-http://192.168.33.93:3007/637444975
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
-http://192.168.33.93:3007/958475359
-
 #来自???
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",武术世界
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",河南武术世界
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 
 #来自陕西移动银河
@@ -1041,106 +591,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?ch
 http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/广东体育.png" group-title="体育·休闲",广东体育
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-###EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/时尚运动X.png" group-title="体育·休闲",时尚运动X
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
-###EXTINF:-1 tvg-id="GINX运动" tvg-name="GINX运动" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/GINX运动.png" group-title="体育·休闲",GINX运动
-##https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
-###EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/智林体育.png" group-title="体育·休闲",智林体育
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
-
-###来自nas-sitv
-###EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/纬来体育.png" group-title="体育·休闲",纬来体育
-##http://192.168.33.93:22125/play/5816d06e?token=meishero
-
-###来自JACKTV-SMT-体育
-###EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="体育·休闲",Astro Premier League 1
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
-###EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="体育·休闲",Astro EPL 1 backup
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp1x
-###EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="体育·休闲",Astro Premier League 2
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
-###EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="体育·休闲",Astro Grandstand
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-###EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="体育·休闲",Astro Football
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
-###EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="体育·休闲",Astro Sports Plus
-##https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
-###EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="体育·休闲",Astro Badminton 1
-##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
-###EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="体育·休闲",Astro Badminton 2
-##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
-###EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="体育·休闲",Astro W-Sports
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-###EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="体育·休闲",Supersports 1
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-###EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="体育·休闲",Supersports 2
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp2
-###EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="体育·休闲",Supersports 3
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp3
-###EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="体育·休闲",Supersports 4
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp4
-###EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="体育·休闲",WWE
-##https://smart.946985.filegear-sg.me/smart.php?id=Wwe
-###EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="体育·休闲",Fight Sports
-##https://smart.946985.filegear-sg.me/smart.php?id=Fs
-###EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="体育·休闲",NBA TV
-##https://smart.946985.filegear-sg.me/smart.php?id=Nba
-###EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="体育·休闲",Astro Cricket
-##https://smart.946985.filegear-sg.me/smart.php?id=Acricket
-###EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="体育·休闲",Astro Golf
-##https://smart.946985.filegear-sg.me/smart.php?id=Agolf
-###EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="体育·休闲",Tnt Sports 1
-##https://smart.946985.filegear-sg.me/smart.php?id=6fac0aaead
-###EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="体育·休闲",TNT Sports 2
-##https://smart.946985.filegear-sg.me/smart.php?id=d9a76a79cc
-###EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="体育·休闲",TNT Sports 3
-##https://smart.946985.filegear-sg.me/smart.php?id=5fea4d73db
-###EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="体育·休闲",TNT Sports 4
-##https://smart.946985.filegear-sg.me/smart.php?id=tntsport4
-###EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="体育·休闲",Sony Ten 1
-##https://smart.946985.filegear-sg.me/smart.php?id=ten1_raj
-###EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="体育·休闲",Sony Ten 2
-##https://smart.946985.filegear-sg.me/smart.php?id=ten2_raj
-###EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="体育·休闲",Sony Ten 3
-##https://smart.946985.filegear-sg.me/smart.php?id=ten3_raj
-###EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="体育·休闲",SPOTV 1 HD
-##https://smart.946985.filegear-sg.me/smart.php?id=go_spotv
-###EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="体育·休闲",SPO TV 2
-##https://smart.946985.filegear-sg.me/smart.php?id=go_spotv2
-###EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="体育·休闲",Skysports F1
-##https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
-###EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="体育·休闲",Skysports Cricket
-##https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
-###EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="体育·休闲",Skysports EPL
-##https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
-###EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="体育·休闲",Skysports Main Event
-##https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
-###EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="体育·休闲",Skysports News
-##https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
-###EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="体育·休闲",Skysports Mix
-##https://smart.946985.filegear-sg.me/smart.php?id=tiankongmix
-###EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="" group-title="体育·休闲",爱尔达体育2台
-##https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
-###EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="" group-title="体育·休闲",爱尔达体育3台
-##https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
-###EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="体育·休闲",Rugby Pass TV
-##https://smart.946985.filegear-sg.me/smart.php?id=Rugbypasstv
-###EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="体育·休闲",RTM Sports HD
-##https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
-###EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="体育·休闲",Arena
-##https://smart.946985.filegear-sg.me/smart.php?id=Arena
-###EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="体育·休闲",Arena 2
-##https://smart.946985.filegear-sg.me/smart.php?id=Arena2
-###EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="体育·休闲",BolaArena 1
-##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
-###EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="体育·休闲",BolaArena 2
-##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
-###EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="体育·休闲",Astro Beinsports 1
-##https://smart.946985.filegear-sg.me/smart.php?id=Astrobein1
-###EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="体育·休闲",Astro Beinsports 2
-##https://smart.946985.filegear-sg.me/smart.php?id=Astrobein2
-###EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="体育·休闲",Astro Beinsports 3
-##https://smart.946985.filegear-sg.me/smart.php?id=Astrobein3
 
 
 
@@ -1152,14 +602,6 @@ http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/重温经典.png" group-title="剧场·综艺",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
 
-#来自chinatv
-###EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/重温经典.png" group-title="剧场·综艺",重温经典
-##https://live.tv.darwinchow.com/channel/chongwenjingdian?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="剧场·综艺",最强综艺趴
-http://192.168.33.93:3007/629942228
-
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
@@ -1169,38 +611,6 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
-
-#来自chinatv
-###EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场4K
-##https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png" group-title="剧场·综艺",NewTV爱情喜剧
-##https://live.tv.darwinchow.com/channel/newtvaiqingxiju?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV潮妈辣婆.png" group-title="剧场·综艺",NewTV潮妈辣婆
-##https://live.tv.darwinchow.com/channel/newtvchaomalapo?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV古装剧场.png" group-title="剧场·综艺",NewTV古装剧场
-##https://live.tv.darwinchow.com/channel/newtvguzhuangjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV家庭剧场.png" group-title="剧场·综艺",NewTV家庭剧场
-##https://live.tv.darwinchow.com/channel/newtvjiatingjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV金牌综艺.png" group-title="剧场·综艺",NewTV金牌综艺
-##https://live.tv.darwinchow.com/channel/newtvjinpaizongyi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV精彩轮播" tvg-name="NEWTV精彩轮播" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精彩轮播.png" group-title="剧场·综艺",NewTV精彩轮播
-##https://live.tv.darwinchow.com/channel/newtvjingcailunbo?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品大剧.png" group-title="剧场·综艺",NewTV精品大剧
-##https://live.tv.darwinchow.com/channel/newtvjingpindaju?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品纪录.png" group-title="剧场·综艺",NewTV精品纪录
-##https://live.tv.darwinchow.com/channel/newtvjingpinjilu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军旅剧场.png" group-title="剧场·综艺",NewTV军旅剧场
-##https://live.tv.darwinchow.com/channel/newtvjunlvjuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军事评论.png" group-title="剧场·综艺",NewTV军事评论
-##https://live.tv.darwinchow.com/channel/newtvjunshipinglun?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV热播精选.png" group-title="剧场·综艺",NewTV热播精选
-##https://live.tv.darwinchow.com/channel/newtvrebojingxuan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV炫舞未来.png" group-title="剧场·综艺",NewTV炫舞未来
-##https://live.tv.darwinchow.com/channel/newtvxuanwuweilai?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV怡伴健康.png" group-title="剧场·综艺",NewTV怡伴健康
-##https://live.tv.darwinchow.com/channel/newtvyibanjiankang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV中国功夫.png" group-title="剧场·综艺",NewTV中国功夫
-##https://live.tv.darwinchow.com/channel/newtvzhongguogongfu?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 
 
@@ -1214,23 +624,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV早期教育.png" group-title="教育·少儿·动画",CETV-早期教育
 http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东教育.png" group-title="教育·少儿·动画",山东教育卫视
-http://192.168.33.93:3007/609154353
-
-#来自chinatv
-###EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://static.tv.darwinchow.com/logo/优优宝贝.png" group-title="教育·少儿·动画",优优宝贝
-##https://live.tv.darwinchow.com/channel/youyoubaobei?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓动画.png" group-title="教育·少儿·动画",黑莓动画
-##https://live.tv.darwinchow.com/channel/heimeidonghua?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
-##https://live.tv.darwinchow.com/channel/dongmanxiuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/纪实科教.png" group-title="教育·少儿·动画",北京纪实科教
-##https://live.tv.darwinchow.com/channel/beijingjishikejiao?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo//新动漫.png" group-title="教育·少儿·动画",新动漫
-##https://live.tv.darwinchow.com/channel/xindongman?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰纪实.png" group-title="教育·少儿·动画",湖南金鹰纪实
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/嘉佳卡通.png" group-title="教育·少儿·动画",广东嘉佳卡通
@@ -1254,77 +647,9 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/index.m3u
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 
-#来自chinatv
-###EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",卡酷少儿
-##https://live.tv.darwinchow.com/channel/kakushaoer?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",哈哈炫动
-##https://live.tv.darwinchow.com/channel/hahaxuandong?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="教育·少儿·动画",经典动画大集合
-http://192.168.33.93:3007/629942219
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo//新动漫.png" group-title="教育·少儿·动画",新动漫
-http://192.168.33.93:3007/961930269
-
 #来自JACKTV-JULI
 #EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华卡通.png" group-title="教育·少儿·动画",龙华卡通
 http://cdn8.veryfast.filegear-sg.me/163189/lhkt
-
-###来自JACKTV-4gtv台湾节点
-###EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LIVEABC互动英语频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/LIVEABC互动英语.png" group-title="教育·少儿·动画",LiveABC互動英語頻道
-##https://4gtv.946985.filegear-sg.me/playlist?channel=LiveABC%E4%BA%92%E5%8B%95%E8%8B%B1%E8%AA%9E%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ELTV生活英语.png" group-title="教育·少儿·动画",ELTV生活英語台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
-###EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0
-###EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
-##https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="尼克动画" tvg-name="尼克动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
-###EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
-##https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
-###EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
-###EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖洋卡通.png" group-title="教育·少儿·动画",靖洋卡通
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
-###EXTINF:-1 tvg-id="经典卡通台" tvg-name="经典卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典卡通.png" group-title="教育·少儿·动画",經典卡通台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0
-###EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选动漫.png" group-title="教育·少儿·动画",精選動漫台
-##https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
-
-###来自JACKTV-SMT-儿童
-###EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
-##https://smart.946985.filegear-sg.me/smart.php?id=Babytv
-###EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="教育·少儿·动画",Baby TV
-##https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
-###EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="教育·少儿·动画",CBeebies
-##https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
-###EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png" group-title="教育·少儿·动画",东森幼幼
-##https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
-###EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
-##https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
-###EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="教育·少儿·动画",Kids TV
-##https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
-###EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png" group-title="教育·少儿·动画",Animax
-##https://smart.946985.filegear-sg.me/smart.php?id=Animax
-###EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="教育·少儿·动画",MiaoMi
-##https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
-###EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
-##https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
-###EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="教育·少儿·动画",Cartoon Network
-##https://smart.946985.filegear-sg.me/smart.php?id=Cn
-###EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
-##https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
-##tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
-##https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
-
-###来自nas-sitv
-###EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png" group-title="教育·少儿·动画",东森幼幼
-##http://192.168.33.93:22125/play/naa6d18?token=meishero
-
-###来自JACKTV-SMT-电影
-###EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
-##https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
 
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV早期教育.png" group-title="教育·少儿·动画",CETV-早期教育
@@ -1547,51 +872,11 @@ http://111.20.33.93/PLTV/88888893/224/3221226970/index.m3u8
 EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000011651&amp;livemode=1&amp;stbId=3
 
-#来自chinatv
-###EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
-##https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhqqg.png" group-title="未分类",环球奇观
-##https://live.tv.darwinchow.com/channel/huanqiuqiguan?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-
 #来自???
-#EXTINF:-1 tvg-id="文化宝库" tvg-name="文化宝库" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/文化宝库.png" group-title="未分类",文化宝库
+#EXTINF:-1 tvg-id="文化宝库" tvg-name="文化宝库" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/文化宝库.png" group-title="未分类",河南文化宝库
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/直播中国.png" group-title="未分类",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
-#来自nas-migu
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" group-title="未分类",环球旅游
-http://192.168.33.93:3007/958475356
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="未分类",和美乡途轮播台
-http://192.168.33.93:3007/713591450
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVzgtq.png" group-title="未分类",中国天气
-http://192.168.33.93:3007/959986621
-#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中华特产.png" group-title="未分类",中华特产
-http://192.168.33.93:3007/959986618
-
-#来自chinatv
-###EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://static.tv.darwinchow.com/logo/生态环境.png" group-title="未分类",生态环境
-##https://live.tv.darwinchow.com/channel/eetv?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品萌宠.png" group-title="未分类",NewTV精品萌宠
-##https://live.tv.darwinchow.com/channel/newtvjingpinmengchong?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/家庭理财.png" group-title="未分类",家庭理财
-##https://live.tv.darwinchow.com/channel/jiatinglicai?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
-##https://live.tv.darwinchow.com/channel/dongfangcaijing?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",游戏风云
-##https://live.tv.darwinchow.com/channel/youxifengyun?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",乐游
-##https://live.tv.darwinchow.com/channel/leyou?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/法治天地.png" group-title="未分类",法治天地
-##https://live.tv.darwinchow.com/channel/fazhitiandi?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",都市剧场
-##https://live.tv.darwinchow.com/channel/dushijuchang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/金色学堂.png" group-title="未分类",金色学堂
-##https://live.tv.darwinchow.com/channel/jinsexuetang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
-##https://live.tv.darwinchow.com/channel/shenghuoshishang?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
-###EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
-##https://live.tv.darwinchow.com/channel/shoucangtianxia?livekey=01WTn3wNnrO3a9q0CuRGw4c5K5DYPvv8aclkW&userkey=a45960f6aa83affb
 
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
@@ -1635,7 +920,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",乐游
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",SiTV乐游
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",SiTV游戏风云
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
