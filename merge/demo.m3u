@@ -175,12 +175,12 @@
 #EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="MYTVSUPER直播足球4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="港·澳·海外",myTV SUPER直播足球4台
 #EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="MYTVSUPER直播足球5台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="港·澳·海外",myTV SUPER直播足球5台
 #EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="MYTVSUPER直播足球6台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="港·澳·海外",myTV SUPER直播足球6台
-#EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="港·澳·海外",NOW 70s
-#EXTINF:-1,tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="港·澳·海外",NOW 80s
-#EXTINF:-1,tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="港·澳·海外",NOW ROCK
-#EXTINF:-1,tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="港·澳·海外",NOW 90s00s
-#EXTINF:-1,tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="港·澳·海外",Concerto
-#EXTINF:-1,tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="港·澳·海外",NewsWorld
+#EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="港·澳·海外",NOW 70s
+#EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="港·澳·海外",NOW 80s
+#EXTINF:-1 tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="港·澳·海外",NOW ROCK
+#EXTINF:-1 tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="港·澳·海外",NOW 90s00s
+#EXTINF:-1 tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="港·澳·海外",Concerto
+#EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="港·澳·海外",NewsWorld
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳视澳门.png" group-title="港·澳·海外",澳视澳门
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门Macau.png" group-title="港·澳·海外",澳门Macau
 #EXTINF:-1 tvg-id="澳视莲花" tvg-name="澳视莲花" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/澳门莲花.png" group-title="港·澳·海外",澳门莲花
@@ -315,7 +315,7 @@
 #EXTINF:-1 tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/华数风尚音乐.png" group-title="电影·娱乐",华数风尚音乐
 #EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷星影台.png" group-title="电影·娱乐",NOW爆谷星影
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷台.png" group-title="电影·娱乐",NOW爆谷
-EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://upload.112114.xyz/logo/1905电影网.png" group-title="电影·娱乐",1905电影网
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://upload.112114.xyz/logo/1905电影网.png" group-title="电影·娱乐",1905电影网
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png" group-title="电影·娱乐",天映经典
 #EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="电影·娱乐",天映马来西亚
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华电影.png" group-title="电影·娱乐",龙华电影
