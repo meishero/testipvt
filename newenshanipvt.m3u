@@ -314,6 +314,10 @@ http://111.20.33.93/PLTV/88888893/224/3221226228/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/三沙卫视.png" group-title="卫视",三沙卫视
 http://111.20.33.93/PLTV/88888893/224/3221227055/index.m3u8
 
+#来自银河移动
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #来自nas-migu
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/海峡卫视.png" group-title="卫视",海峡卫视
 http://192.168.33.93:3007/849119120
@@ -1027,6 +1031,8 @@ http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://upload.112114.xyz/logo/书画频道.png" group-title="体育·休闲",书画频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://upload.112114.xyz/logo/弈坛春秋.png" group-title="体育·休闲",弈坛春秋
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai5.png" group-title="体育·休闲",上海五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 
@@ -1157,9 +1163,11 @@ http://192.168.33.93:3007/629942228
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
 
 #来自chinatv
@@ -1233,6 +1241,12 @@ http://111.20.33.93/PLTV/88888888/224/3221225795/index.m3u8
 http://111.20.33.93/PLTV/88888888/224/3221225744/index.m3u8
 
 #来自陕西移动银河
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",上海哈哈炫动
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",北京卡酷少儿
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001066/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/纪实人文.png" group-title="教育·少儿·动画",上海纪实人文
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
@@ -1621,6 +1635,20 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",乐游
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",SiTV游戏风云
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/游戏风云.png" group-title="未分类",SiTV游戏风云
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/都市剧场.png" group-title="未分类",SiTV都市剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/家庭理财.png" group-title="未分类",SiTV家庭理财
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/家庭理财.png" group-title="未分类",SiTV家庭理财
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/置业频道.png" group-title="未分类",SiTV置业频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="BesTV LIVE" tvg-name="BesTV LIVE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/BesTVlive.png" group-title="未分类",BesTV LIVE
 http://111.20.33.93/PLTV/88888951/224/3221227113/index.m3u8
