@@ -293,6 +293,18 @@ JSON;
 // 将 JSON 转为 PHP 数组
 $aliasData = json_decode($aliasJson, true);
 
+// ========================================================
+// --- 分辨率探测函数 ---
+function getRealResolution($url) {
+    $ffprobePath = __DIR__ . '/ffprobe'; 
+    if (!file_exists($ffprobePath)) return 0;
+    // -timeout 2000000 为 2秒超时。注意：ffprobe探测会建立真实连接，不能设太长
+    // -show_entries stream=height 只取高度数据（如 1080）
+    $cmd = "{$ffprobePath} -v error -select_streams v:0 -show_entries stream=height -of csv=s=x:p=0 -t 5 -timeout 2000000 \"$url\" 2>&1";
+    $res = shell_exec($cmd);
+    return (int)trim($res);
+}
+
 set_time_limit(0);
 ini_set('memory_limit', '512M');
 
@@ -710,9 +722,21 @@ do {
         $time = curl_getinfo($ch, CURLINFO_TOTAL_TIME);
 
         if ($code >= 200 && $code < 400 && $time > 0) {
-            logMsg("测速成功: [{$c['tpl_name']}][源:#{$c['src_idx']}] | 耗时: {$time}s", "TEST", 1);
-            $c['speed'] = $time;
-            $results[] = $c;
+			// --- 【核心修改：注入物理分辨率】 ---
+            // logMsg("正在物理探测分辨率: [{$c['tpl_name']}][源:#{$c['src_idx']}]", "INFO", 1);
+            $realRes = getRealResolution($c['url']);
+			if ($realRes > 0) 
+			{
+				$c['real_res'] = $realRes; 
+				$c['speed'] = $time;
+				logMsg("测速和分辨率探测成功: [{$c['tpl_name']}][源:#{$c['src_idx']}] | 分辨率: {$realRes}P | 耗时: {$time}s", "TEST", 1);
+
+				$results[] = $c;
+			}
+			else
+			{
+				logMsg("探测失败: [{$c['tpl_name']}][源:#{$c['src_idx']}] 分辨率为0或无法解析，已过滤", "ERROR", 1);
+			}		
         } else {
             $reason = ($time >= $testTimeout) ? "超时" : "状态码: $code";
 			$testUrl = $c['url'] ?? "未知URL";
@@ -762,11 +786,23 @@ foreach ($tplLines as $tLine)
     $name = $tpl['name'];
 
     if (!isset($grouped[$name])) continue; // 如果该频道没有测速通过的线路，跳过
-
-    $list = $grouped[$name];
-    usort($list, function($a, $b) { return $a['speed'] <=> $b['speed']; });
+   
+	$list = $grouped[$name];
+    // --- 【核心修改：双重排序逻辑】 ---
+    usort($list, function($a, $b) {
+        $resA = $a['real_res'] ?? 0;
+        $resB = $b['real_res'] ?? 0;
+        
+        // 1. 如果分辨率不同，高的排前面
+        if ($resA !== $resB) {
+            return $resB <=> $resA; 
+        }
+        // 2. 如果分辨率相同，测速快的排前面
+        return $a['speed'] <=> $b['speed'];
+    });
+    // ----------------------------------
     $topLinks = array_slice($list, 0, $maxLinksPerChannel);
-    
+	
     foreach ($topLinks as $m) 
     {
         // 1. 合并标签
