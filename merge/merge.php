@@ -52,6 +52,11 @@ $defaultUA = 'okHttp/Mod-1.2.0.0';
 $maxLinksPerChannel = 3;  
 // [最大保留数] 每个频道最终保留的最快线路个数（测速不通的自动删除）
 
+// --- 全局探测配置 (提速核心) ---
+define('FF_TIMEOUT', 5000000);      // 5秒超时
+define('FF_PROBE_SIZE', 500000);    // 降低到 500KB (默认是 5M)
+define('FF_ANALYZE_DUR', 1000000);  // 降低到 1秒 (默认是 5秒)
+
 // ========================================================
 
 // --- [内置别名库] 原 alias.json 内容直接放这里 ---
@@ -301,17 +306,18 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0') {
     // 如果需要特定路径，请写绝对路径如 '/usr/bin/ffprobe'
     $ffprobePath = 'ffprobe'; 
 
-    // 2. 构造命令
-    // 使用你测试成功的参数：-follow 1 (跟随重定向), -v error (只看错误)
-    // -select_streams v:0 (只选视频流)
-	$cmd = "{$ffprobePath} -rw_timeout 5000000 -timeout 5000000 -user_agent " . escapeshellarg($ua) . 
-           " -follow 1 -v error " .
-           " -skip_frame nokey " . // [新增] 跳过非关键帧，加快读取速度
-           " -analyzeduration 1000000 -probesize 1000000 " . // [减小] 降低探测负荷
+	// 组装极速探测命令
+    $cmd = "{$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
+           " -follow 1 -v error -hide_banner " .
+           " -probesize " . FF_PROBE_SIZE . 
+           " -analyzeduration " . FF_ANALYZE_DUR . 
            " -select_streams v:0 -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 " .
            " " . escapeshellarg($url) . " 2>&1";
     
+    $startTime = microtime(true);
     $res = shell_exec($cmd);
+    $duration = round(microtime(true) - $startTime, 2);
+
     $rawOutput = trim($res);
 
     // 3. 解析输出
