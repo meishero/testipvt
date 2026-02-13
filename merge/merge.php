@@ -300,7 +300,14 @@ $aliasData = json_decode($aliasJson, true);
 
 // ========================================================
 // --- 分辨率探测函数 ---
-function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0') {
+function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
+	// 1. 【精准拦截】直接判断是否存在 KODI 属性或 MPD 特征
+    // 如果包含 #KODIPROP 或 manifest_type=mpd，说明是加密或特殊协议流
+    if (stripos($allLines, '#KODIPROP') !== false || stripos($url, '.mpd') !== false) {
+        logMsg("检测到 KODI 专用属性/DASH 流，跳过物理探测直接保活", "INFO", 2);
+        return 1080; // 返回 1082P 标记为特殊流
+    }
+	
     // 1. 设置宿主机 ffprobe 路径
     // 如果你在终端输入 ffprobe 就能运行，这里直接写 'ffprobe'
     // 如果需要特定路径，请写绝对路径如 '/usr/bin/ffprobe'
@@ -632,6 +639,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
                 'tags'    => $info['tags'], 
                 'name'    => $info['name'], 
                 'props'   => $props,
+				'raw_block'=> implode("\n", $props), // 新增：把所有 #KODIPROP 行拼在一起
                 'is_res'  => isHighRes($info['name'] . ($info['tags']['tvg-name']??'') . ($info['tags']['tvg-id']??''))
             ];
             
@@ -866,7 +874,8 @@ foreach ($tplLines as $tLine)
         logMsg("对最优线路执行物理探测: [{$name}] -> {$item['url']}", "INFO", 1);
         
         // 执行 ffprobe 获取真实高度
-        $realRes = getRealResolution($item['url'], $item['ua']);
+		$allLinesContext = $item['raw_block'] ?? '';
+        $realRes = getRealResolution($item['url'], $item['ua'], $allLinesContext);
         
         if ($realRes > 0) {
             $item['real_res'] = $realRes;
