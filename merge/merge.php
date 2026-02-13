@@ -54,8 +54,8 @@ $maxLinksPerChannel = 3;
 
 // --- 全局探测配置 (提速核心) ---
 define('FF_TIMEOUT', 5000000);      // 5秒超时
-define('FF_PROBE_SIZE', 100000);    // 降低到 500KB (默认是 5M)
-define('FF_ANALYZE_DUR', 500000);  // 降低到 1秒 (默认是 5秒)
+define('FF_PROBE_SIZE', 200000);    // 降低到 500KB (默认是 5M)
+define('FF_ANALYZE_DUR', 1000000);  // 降低到 1秒 (默认是 5秒)
 
 // ========================================================
 
@@ -326,7 +326,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
     $ffprobePath = 'ffprobe'; 
 
 	// 组装极速探测命令
-    $cmd = "timeout 5s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
+    $cmd = "timeout 10s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
            " -follow 1 -v error -hide_banner " .
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
