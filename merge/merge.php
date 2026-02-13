@@ -46,7 +46,7 @@ $testTimeout = 3.8;
 $testRetries = 2;      
 // [重试次数] 测速失败后的尝试次数，2 表示共请求 3 次
 
-$defaultUA = 'okHttp/Mod-1.5.0.0'; 
+$defaultUA = 'okHttp/Mod-1.2.0.0'; 
 // [默认UA] 当订阅源或标签未指定 User-Agent 时使用的全局默认标识
 
 $maxLinksPerChannel = 3;  
@@ -517,9 +517,10 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
 	curl_setopt_array($ch, [
 		CURLOPT_RETURNTRANSFER => 1,
 		// 使用毫秒级超时，3.8 * 1000 = 3800 毫秒
-		CURLOPT_TIMEOUT_MS => $testTimeout * 1000, 
+		CURLOPT_TIMEOUT => 30,
 		CURLOPT_FOLLOWLOCATION => 1,
 		CURLOPT_SSL_VERIFYPEER => 0,
+		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
 		CURLOPT_USERAGENT => $sourceDefaultUA
 	]);
 	
