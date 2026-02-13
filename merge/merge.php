@@ -2,7 +2,7 @@
 /**
  * M3U 聚合工具 - 语句级换行排版 & 全量审计版
  */
-
+$scriptStartTime = microtime(true); // 记录脚本开始执行的时间
 chdir(__DIR__); // [关键] 确保 Crontab 调用时能找到同目录文件
 umask(000); // [新增] 确保脚本创建的文件对所有用户都有读写权限
 // ================= [ 用户自定义配置区 ] =================
@@ -31,7 +31,7 @@ $sourceUrls = [
 	//streamlink.org 需续期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
 	//iptv研究所	  需续期
-	//'https://goiptv.passwdword.xyz/get.php?username=tg_ra49h11m&password=aoy6p7kxi342&type=m3u_plus',   
+	'https://goiptv.passwdword.xyz/get.php?username=tg_ra49h11m&password=aoy6p7kxi342&type=m3u_plus',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
 ];
@@ -304,9 +304,11 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0') {
     // 2. 构造命令
     // 使用你测试成功的参数：-follow 1 (跟随重定向), -v error (只看错误)
     // -select_streams v:0 (只选视频流)
-    $cmd = "{$ffprobePath} -timeout 5000000 -user_agent " . escapeshellarg($ua) . 
-           " -follow 1 -v error -select_streams v:0 " .
-           " -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 " .
+	$cmd = "{$ffprobePath} -rw_timeout 5000000 -timeout 5000000 -user_agent " . escapeshellarg($ua) . 
+           " -follow 1 -v error " .
+           " -skip_frame nokey " . // [新增] 跳过非关键帧，加快读取速度
+           " -analyzeduration 1000000 -probesize 1000000 " . // [减小] 降低探测负荷
+           " -select_streams v:0 -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 " .
            " " . escapeshellarg($url) . " 2>&1";
     
     $res = shell_exec($cmd);
@@ -945,4 +947,13 @@ foreach ($logFiles as $file) {
     }
 }
 
-logMsg("任务结束！成功聚合并精简线路。", "SUCCESS");
+$scriptEndTime = microtime(true);
+$totalDuration = $scriptEndTime - $scriptStartTime;
+
+// 格式化耗时：如果超过60秒就显示“分秒”，否则显示“秒”
+$timeString = ($totalDuration >= 60) 
+    ? floor($totalDuration / 60) . " 分 " . round($totalDuration % 60, 2) . " 秒" 
+    : round($totalDuration, 2) . " 秒";
+
+// 直接调用你现有的 logMsg 函数
+logMsg("任务结束！成功聚合并精简线路。总耗时: {$timeString}", "SUCCESS");
