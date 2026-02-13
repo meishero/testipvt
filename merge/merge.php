@@ -27,7 +27,7 @@ $sourceUrls = [
 	//jackTV
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
 	//mursor
-	//'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=597a41048979fa2f0f9447be88f433f7f32914024567253f55dda782e889117d2de162d8f79b398dbe5cef1daf96dc76758675b06fbdeec3b19a1a4c1fee152a9411ab34621124&auth_token=720628804be3d44523e0b170aab73e30',
+	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=597a41048979fa2f0f9447be88f433f7f32914024567253f55dda782e889117d2de162d8f79b398dbe5cef1daf96dc76758675b06fbdeec3b19a1a4c1fee152a9411ab34621124&auth_token=720628804be3d44523e0b170aab73e30',
 	//streamlink.org 需续期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
 	//iptv研究所	  需续期
@@ -316,7 +316,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
     // 如果包含 #KODIPROP 或 manifest_type=mpd，说明是加密或特殊协议流
 	foreach ($slowFeatures as $feature) {
         if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
-            return 1080; // 遇到这类“难搞”的源，直接保活，不测了
+            return 720; // 遇到这类“难搞”的源，直接保活，不测了
         }
     }
 	
@@ -326,12 +326,13 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
     $ffprobePath = 'ffprobe'; 
 
 	// 组装极速探测命令
-    $cmd = "{$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
+    $cmd = "timeout 5s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
            " -follow 1 -v error -hide_banner " .
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
            " -select_streams v:0 -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 " .
            " " . escapeshellarg($url) . " 2>&1";
+
     
     $startTime = microtime(true);
     $res = shell_exec($cmd);
