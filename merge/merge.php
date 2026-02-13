@@ -628,6 +628,29 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         if (stripos($line, '#EXTINF') === 0) 
         {
             $info = parseExtInf($line);
+			// --- [ 核心修改：拦截广播频道 ] ---
+			$forbiddenWords = ['广播', '廣播', 'audio', 'radio'];
+			$isRadio = false;
+
+			// 检查所有可能出现“广播”字样的字段
+			$checkStr = $info['name'] . 
+						($info['tags']['tvg-name'] ?? '') . 
+						($info['tags']['tvg-id'] ?? '') . 
+						($info['tags']['group-title'] ?? '');
+
+			foreach ($forbiddenWords as $word) {
+				if (stripos($checkStr, $word) !== false) {
+					$isRadio = true;
+					break;
+				}
+			}
+
+			if ($isRadio) {
+				// 如果是广播，直接跳过，不存入 $channelPool
+				continue; 
+			}
+			// --- [ 拦截结束 ] ---
+			
             // --- 核心修正：抓取中间可能存在的 #KODIPROP 属性行 ---
             $props = [];
             $nextIdx = $i + 1;
