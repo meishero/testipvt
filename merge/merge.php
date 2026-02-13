@@ -54,8 +54,8 @@ $maxLinksPerChannel = 3;
 
 // --- 全局探测配置 (提速核心) ---
 define('FF_TIMEOUT', 5000000);      // 5秒超时
-define('FF_PROBE_SIZE', 500000);    // 降低到 500KB (默认是 5M)
-define('FF_ANALYZE_DUR', 1000000);  // 降低到 1秒 (默认是 5秒)
+define('FF_PROBE_SIZE', 100000);    // 降低到 500KB (默认是 5M)
+define('FF_ANALYZE_DUR', 500000);  // 降低到 1秒 (默认是 5秒)
 
 // ========================================================
 
@@ -301,11 +301,23 @@ $aliasData = json_decode($aliasJson, true);
 // ========================================================
 // --- 分辨率探测函数 ---
 function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
+	// 1. 扩充拦截名单
+    $slowFeatures = [
+        '#KODIPROP', 
+        '.mpd', 
+        'license_key', 
+        'ofiii',        // 针对你卡住的这个 ofiii 源
+        '4gtv',         // 台湾常用的 4gtv 源，ffprobe 很难测
+        'encrypted'     // 包含加密字样的
+    ];
+	
+	
 	// 1. 【精准拦截】直接判断是否存在 KODI 属性或 MPD 特征
     // 如果包含 #KODIPROP 或 manifest_type=mpd，说明是加密或特殊协议流
-    if (stripos($allLines, '#KODIPROP') !== false || stripos($url, '.mpd') !== false) {
-        logMsg("检测到 KODI 专用属性/DASH 流，跳过物理探测直接保活", "INFO", 2);
-        return 1080; // 返回 1082P 标记为特殊流
+	foreach ($slowFeatures as $feature) {
+        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
+            return 1080; // 遇到这类“难搞”的源，直接保活，不测了
+        }
     }
 	
     // 1. 设置宿主机 ffprobe 路径
