@@ -22,7 +22,7 @@ $sourceUrls = [
 	'https://bc.188766.xyz/?url=https://live.188766.xyz&lunbo=false&mima=bingcha1130',
 	//https://live.zbds.top/  直播电视 
 	'https://live.zbds.top/tv/iptv4.m3u',
-	'https://live.zbds.top/tv/iptv6.m3u',
+//	'https://live.zbds.top/tv/iptv6.m3u',
 	//海外源
 	//jackTV
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
@@ -57,6 +57,7 @@ define('FF_TIMEOUT', 5000000);      // 5秒超时
 define('FF_PROBE_SIZE', 200000);    // 降低到 500KB (默认是 5M)
 define('FF_ANALYZE_DUR', 1000000);  // 降低到 1秒 (默认是 5秒)
 
+$mpdFeaturesFilter = true;  
 // ========================================================
 
 // --- [内置别名库] 原 alias.json 内容直接放这里 ---
@@ -302,23 +303,36 @@ $aliasData = json_decode($aliasJson, true);
 // --- 分辨率探测函数 ---
 function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
 	// 1. 扩充拦截名单
-    $slowFeatures = [
+//    $slowFeatures = [
+//        'ofiii',        // 针对你卡住的这个 ofiii 源
+//        '4gtv',         // 台湾常用的 4gtv 源，ffprobe 很难测
+//    ];
+	
+	$mpdFeatures = [
         '#KODIPROP', 
         '.mpd', 
-        'license_key', 
-        'ofiii',        // 针对你卡住的这个 ofiii 源
-        '4gtv',         // 台湾常用的 4gtv 源，ffprobe 很难测
-        'encrypted'     // 包含加密字样的
+//        'license_key', 
+//        'encrypted'     // 包含加密字样的
     ];
-	
 	
 	// 1. 【精准拦截】直接判断是否存在 KODI 属性或 MPD 特征
     // 如果包含 #KODIPROP 或 manifest_type=mpd，说明是加密或特殊协议流
-	foreach ($slowFeatures as $feature) {
-        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
-            return 720; // 遇到这类“难搞”的源，直接保活，不测了
-        }
-    }
+	if($mpdFeaturesFilter == true)
+	{
+		foreach ($mpdFeatures as $feature) {
+	        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
+	            return 0;   //过滤mpd dash
+	        }
+ 	   }
+	}
+	else
+	{
+		foreach ($mpdFeatures as $feature) {
+	        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
+	            return 546; // 遇到这类“难搞”的源，直接保活，不测了
+	        }
+ 	   }
+	}
 	
     // 1. 设置宿主机 ffprobe 路径
     // 如果你在终端输入 ffprobe 就能运行，这里直接写 'ffprobe'
