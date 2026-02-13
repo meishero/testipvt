@@ -295,14 +295,61 @@ $aliasData = json_decode($aliasJson, true);
 
 // ========================================================
 // --- 分辨率探测函数 ---
-function getRealResolution($url) {
-    $ffprobePath = __DIR__ . '/ffprobe'; 
-    if (!file_exists($ffprobePath)) return 0;
-    // -timeout 2000000 为 2秒超时。注意：ffprobe探测会建立真实连接，不能设太长
-    // -show_entries stream=height 只取高度数据（如 1080）
-    $cmd = "{$ffprobePath} -v error -select_streams v:0 -show_entries stream=height -of csv=s=x:p=0 -t 5 -timeout 2000000 \"$url\" 2>&1";
-    $res = shell_exec($cmd);
-    return (int)trim($res);
+function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0') {
+    // // // 1. 尝试修复容器 DNS
+    // // $resolvConf = '/etc/resolv.conf';
+    // // if (is_writable($resolvConf)) {
+        // // $dnsStr = "nameserver 114.114.114.114\nnameserver 8.8.8.8\n";
+        // // @file_put_contents($resolvConf, $dnsStr);
+    // // }
+
+    // $ffprobePath = __DIR__ . '/ffprobe'; 
+    // if (!file_exists($ffprobePath)) return 0;
+
+    // // 2. 构造命令：去掉 head -n 1，确保拿到完整报错
+    // $cmd = "export LD_LIBRARY_PATH=/usr/local/lib:/usr/lib && " . 
+       // "{$ffprobePath} -v error -L -hide_banner -user_agent " . escapeshellarg($ua) . 
+       // " -select_streams v:0 -show_entries stream=height -of csv=p=0 " .
+       // " -rw_timeout 8000000 " . 
+       // " -analyzeduration 2000000 -probesize 2000000 " .
+       // " " . escapeshellarg($url) . " 2>&1";
+    
+    // $res = shell_exec($cmd);
+    // $rawOutput = trim($res);
+
+    // // --- 3. 改进的提取逻辑 ---
+    // // 使用正则提取出输出中所有的独立数字块
+    // preg_match_all('/\d+/', $rawOutput, $matches);
+    
+    // $height = 0;
+    // if (!empty($matches[0])) {
+        // // 关键点：ffprobe 如果成功，分辨率数字（如 1080）一定在输出的最后一行
+        // // 我们取匹配到的最后一个数字块
+        // $lastValue = end($matches[0]);
+        
+        // // 排除掉版本号中常见的个位数干扰（如 ffprobe 6.x）
+        // // 正常分辨率至少是 144P 以上
+        // if ((int)$lastValue > 100) {
+            // $height = (int)$lastValue;
+        // }
+    // }
+
+    // if ($height > 0) {
+        // return $height;
+    // }
+
+    // // --- 4. 针对 DNS 解析失败的保底逻辑 ---
+    // if (stripos($rawOutput, 'resolve') !== false || stripos($rawOutput, 'System error') !== false) {
+        // //logMsg("DNS 解析受限，已强制保活(1081P): " . parse_url($url, PHP_URL_HOST), "WARNING", 2);
+        // return 0; 
+    // }
+
+    // // 5. 记录其他调试信息
+    // if (!empty($rawOutput)) {
+        // logMsg("FFPROBE DEBUG: URL: $url | Error: " . substr($rawOutput, 0, 80), "DEBUG", 2);
+    // }
+    
+    return 1;
 }
 
 set_time_limit(0);
@@ -315,34 +362,52 @@ function logMsg($msg, $type = 'INFO', $indent = 0)
 {
     $time = date('H:i:s');
     $date = date('Ymd');
-    $padding = str_repeat("    ", $indent); // 文件日志用空格
-    $htmlPadding = str_repeat("&nbsp;&nbsp;&nbsp;&nbsp;", $indent); // 网页用nbsp
-    
-    // --- 1. 构造写入文件的文本内容 ---
-    // 去掉 HTML 标签，纯文本格式保存
+    $isCli = (php_sapi_name() === 'cli'); // 判断是否是命令行运行
+
+    // 1. 构造写入文件的文本内容 (保持原样)
+    $padding = str_repeat("    ", $indent); 
     $logFile = "log_{$date}.log";
     $plainMsg = "[$time] [$type] {$padding}{$msg}" . PHP_EOL;
     file_put_contents($logFile, $plainMsg, FILE_APPEND);
-    chmod($logFile, 0666); // [新增] 确保 root 生成的文件，普通用户也能访问
+    @chmod($logFile, 0666); 
 
-    // --- 2. 构造网页显示的 HTML 内容 ---
-    $colors = [
-        'MATCH'   => '#2e7d32', 
-        'ERROR'   => '#c62828', 
-        'SUCCESS' => '#1565c0', 
-        'TEST'    => '#f57c00', 
-        'INFO'    => '#333333'
-    ];
-    $color = $colors[$type] ?? '#333333';
-    
-    echo "<div style='font-family:monospace;margin-bottom:2px;font-size:12px;border-left:".($indent*2)."px solid #ccc;padding-left:5px;'>";
-    echo "<span style='color:$color'>[$time] [$type] $htmlPadding$msg</span>";
-    echo "</div>";
-    
-    // 强制刷新输出缓冲区，确保网页实时滚动
-    echo str_pad('', 4096); 
-    if (ob_get_level() > 0) ob_flush();
-    flush();
+    // 2. 命令行显示逻辑
+    if ($isCli) {
+        // 终端专用颜色代码 (ANSI)
+        $cliColors = [
+            'MATCH'   => "\033[32m",    // 绿色
+            'ERROR'   => "\033[31m",    // 红色
+            'SUCCESS' => "\033[1;34m",  // 粗体蓝
+            'TEST'    => "\033[33m",    // 黄色
+            'INFO'    => "\033[0m",     // 默认
+            'RESET'   => "\033[0m"
+        ];
+        $color = $cliColors[$type] ?? $cliColors['INFO'];
+        $reset = $cliColors['RESET'];
+        
+        // 命令行输出：[时间] [类型] 缩进 消息
+        echo "[$time] {$color}[$type]{$reset} {$padding}{$msg}" . PHP_EOL;
+    } 
+    // 3. 网页显示逻辑 (保留你原本的所有样式)
+    else {
+        $htmlPadding = str_repeat("&nbsp;&nbsp;&nbsp;&nbsp;", $indent);
+        $htmlColors = [
+            'MATCH'   => '#2e7d32', 
+            'ERROR'   => '#c62828', 
+            'SUCCESS' => '#1565c0', 
+            'TEST'    => '#f57c00', 
+            'INFO'    => '#333333'
+        ];
+        $color = $htmlColors[$type] ?? '#333333';
+        
+        echo "<div style='font-family:monospace;margin-bottom:2px;font-size:12px;border-left:".($indent*2)."px solid #ccc;padding-left:5px;'>";
+        echo "<span style='color:$color'>[$time] [$type] $htmlPadding$msg</span>";
+        echo "</div>";
+        
+        echo str_pad('', 4096); 
+        if (ob_get_level() > 0) ob_flush();
+        flush();
+    }
 }
 
 /**
@@ -725,19 +790,25 @@ do {
         if ($code >= 200 && $code < 400 && $time > 0) {
 			// --- 【核心修改：注入物理分辨率】 ---
             // logMsg("正在物理探测分辨率: [{$c['tpl_name']}][源:#{$c['src_idx']}]", "INFO", 1);
-            $realRes = getRealResolution($c['url']);
-			if ($realRes > 0) 
-			{
-				$c['real_res'] = $realRes; 
-				$c['speed'] = $time;
-				logMsg("测速和分辨率探测成功: [{$c['tpl_name']}][源:#{$c['src_idx']}] | 分辨率: {$realRes}P | 耗时: {$time}s", "TEST", 1);
+            // $realRes = getRealResolution($c['url']);
+			// $testUrl = $c['url'] ?? "未知URL";
+			// if ($realRes > 0) 
+			// {
+				// $c['real_res'] = $realRes; 
+				// $c['speed'] = $time;
+				// logMsg("测速和分辨率探测成功: [{$c['tpl_name']}][源:#{$c['src_idx']}]| 地址: $testUrl | 分辨率: {$realRes}P | 耗时: {$time}s", "TEST", 1);
 
-				$results[] = $c;
-			}
-			else
-			{
-				logMsg("探测失败: [{$c['tpl_name']}][源:#{$c['src_idx']}] 分辨率为0或无法解析，已过滤", "ERROR", 1);
-			}		
+				// $results[] = $c;
+			// }
+			// else
+			// {
+				// logMsg("探测失败: [{$c['tpl_name']}][源:#{$c['src_idx']}]| 地址: $testUrl 分辨率为0或无法解析，已过滤", "ERROR", 1);
+			// }	
+			$testUrl = $c['url'] ?? "未知URL";	
+			$c['real_res'] = 0; // 初始设为0，留到最后探测
+			$c['speed'] = $time;			
+			logMsg("测速成功: [{$c['tpl_name']}][源:#{$c['src_idx']}]| 地址: $testUrl | 耗时: {$time}s", "TEST", 1);
+			$results[] = $c;
         } else {
             $reason = ($time >= $testTimeout) ? "超时" : "状态码: $code";
 			$testUrl = $c['url'] ?? "未知URL";
@@ -772,9 +843,11 @@ do {
 
 curl_multi_close($mh);
 
-// --- [ 4. 合并保存 ] ---
+// --- [ 4. 合并保存 & 延迟物理探测版 ] ---
 $grouped = [];
-foreach ($results as $r) { $grouped[$r['tpl_name']][] = $r; }
+foreach ($results as $r) { 
+    $grouped[$r['tpl_name']][] = $r; 
+}
 
 // 核心修正：直接输出去重后的原始头行
 $m3u = $m3uHeaders; 
@@ -787,23 +860,50 @@ foreach ($tplLines as $tLine)
     $name = $tpl['name'];
 
     if (!isset($grouped[$name])) continue; // 如果该频道没有测速通过的线路，跳过
-   
-	$list = $grouped[$name];
-    // --- 【核心修改：双重排序逻辑】 ---
+    
+    $list = $grouped[$name];
+
+    // 1. 【初步筛选】先按纯测速耗时排序，取前几个作为候选（比最大保留数多取2个，防止探测失败）
     usort($list, function($a, $b) {
+        return $a['speed'] <=> $b['speed'];
+    });
+    $candidates = array_slice($list, 0, $maxLinksPerChannel + 2);
+
+    // 2. 【方案A：延迟物理探测】仅对入选的候选者进行 ffprobe 探测
+    $finalForChannel = [];
+    foreach ($candidates as $item) {
+        logMsg("对最优线路执行物理探测: [{$name}] -> {$item['url']}", "INFO", 1);
+        
+        // 执行 ffprobe 获取真实高度
+        $realRes = getRealResolution($item['url'], $item['ua']);
+        
+        if ($realRes > 0) {
+            $item['real_res'] = $realRes;
+            logMsg("探测成功: 分辨率={$realRes}P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+			$finalForChannel[] = $item;
+        } else {
+            // 方案A核心：探测失败删除
+            logMsg("探测失败或超时，已彻底丢弃", "ERROR", 2);
+        }
+        
+    }
+
+    // 3. 【最终排序】根据探测到的真实分辨率和速度进行二次精准排序
+    usort($finalForChannel, function($a, $b) {
         $resA = $a['real_res'] ?? 0;
         $resB = $b['real_res'] ?? 0;
         
-        // 1. 如果分辨率不同，高的排前面
+        // 分辨率高的排前面
         if ($resA !== $resB) {
             return $resB <=> $resA; 
         }
-        // 2. 如果分辨率相同，测速快的排前面
+        // 分辨率相同时，速度快的排前面
         return $a['speed'] <=> $b['speed'];
     });
-    // ----------------------------------
-    $topLinks = array_slice($list, 0, $maxLinksPerChannel);
-	
+
+    // 4. 【正式写入】取前 $maxLinksPerChannel 个写入最终数组
+    $topLinks = array_slice($finalForChannel, 0, $maxLinksPerChannel);
+    
     foreach ($topLinks as $m) 
     {
         // 1. 合并标签
@@ -846,7 +946,7 @@ foreach ($tplLines as $tLine)
     unset($grouped[$name]);
 }
 file_put_contents($outputFile, implode("\n", $m3u));
- chmod($outputFile, 0666); // [新增] 确保 root 生成的文件，普通用户也能访问
+chmod($outputFile, 0666); // [新增] 确保 root 生成的文件，普通用户也能访问
 
 // --- [ 5. 自动清理 7 天前的旧日志 ] ---
 $logFiles = glob("log_*.log");
