@@ -329,7 +329,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0', $allLines = '') {
 	{
 		foreach ($mpdFeatures as $feature) {
 	        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
-	            return 546; // 遇到这类“难搞”的源，直接保活，不测了
+	            return 479; // 遇到这类“难搞”的源，直接保活，不测了
 	        }
  	   }
 	}
