@@ -296,60 +296,43 @@ $aliasData = json_decode($aliasJson, true);
 // ========================================================
 // --- 分辨率探测函数 ---
 function getRealResolution($url, $ua = 'okHttp/Mod-1.2.0.0') {
-    // // // 1. 尝试修复容器 DNS
-    // // $resolvConf = '/etc/resolv.conf';
-    // // if (is_writable($resolvConf)) {
-        // // $dnsStr = "nameserver 114.114.114.114\nnameserver 8.8.8.8\n";
-        // // @file_put_contents($resolvConf, $dnsStr);
-    // // }
+    // 1. 设置宿主机 ffprobe 路径
+    // 如果你在终端输入 ffprobe 就能运行，这里直接写 'ffprobe'
+    // 如果需要特定路径，请写绝对路径如 '/usr/bin/ffprobe'
+    $ffprobePath = 'ffprobe'; 
 
-    // $ffprobePath = __DIR__ . '/ffprobe'; 
-    // if (!file_exists($ffprobePath)) return 0;
-
-    // // 2. 构造命令：去掉 head -n 1，确保拿到完整报错
-    // $cmd = "export LD_LIBRARY_PATH=/usr/local/lib:/usr/lib && " . 
-       // "{$ffprobePath} -v error -L -hide_banner -user_agent " . escapeshellarg($ua) . 
-       // " -select_streams v:0 -show_entries stream=height -of csv=p=0 " .
-       // " -rw_timeout 8000000 " . 
-       // " -analyzeduration 2000000 -probesize 2000000 " .
-       // " " . escapeshellarg($url) . " 2>&1";
+    // 2. 构造命令
+    // 使用你测试成功的参数：-follow 1 (跟随重定向), -v error (只看错误)
+    // -select_streams v:0 (只选视频流)
+    $cmd = "{$ffprobePath} -timeout 5000000 -user_agent " . escapeshellarg($ua) . 
+           " -follow 1 -v error -select_streams v:0 " .
+           " -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 " .
+           " " . escapeshellarg($url) . " 2>&1";
     
-    // $res = shell_exec($cmd);
-    // $rawOutput = trim($res);
+    $res = shell_exec($cmd);
+    $rawOutput = trim($res);
 
-    // // --- 3. 改进的提取逻辑 ---
-    // // 使用正则提取出输出中所有的独立数字块
-    // preg_match_all('/\d+/', $rawOutput, $matches);
-    
-    // $height = 0;
-    // if (!empty($matches[0])) {
-        // // 关键点：ffprobe 如果成功，分辨率数字（如 1080）一定在输出的最后一行
-        // // 我们取匹配到的最后一个数字块
-        // $lastValue = end($matches[0]);
-        
-        // // 排除掉版本号中常见的个位数干扰（如 ffprobe 6.x）
-        // // 正常分辨率至少是 144P 以上
-        // if ((int)$lastValue > 100) {
-            // $height = (int)$lastValue;
-        // }
-    // }
+    // 3. 解析输出
+    // 宿主机可能返回多行（如你测试看到的 height=720 出现两次）
+    $lines = explode("\n", $rawOutput);
+    foreach ($lines as $line) {
+        $val = trim($line);
+        // 提取第一行纯数字
+        if (is_numeric($val) && (int)$val > 0) {
+            return (int)$val;
+        }
+    }
 
-    // if ($height > 0) {
-        // return $height;
-    // }
+    // 4. 容错处理：如果没拿到数字，判断是否为网络解析问题
+    if (empty($rawOutput) || stripos($rawOutput, 'resolve') !== false || stripos($rawOutput, 'timed out') !== false) {
+        // 针对宿主机网络波动或 DNS 暂时的异常，强制保活
+        logMsg( "宿主机解析超时/异常， " . $url . parse_url($url, PHP_URL_HOST), "ERROR", 2);
+        return 0; 
+    }
 
-    // // --- 4. 针对 DNS 解析失败的保底逻辑 ---
-    // if (stripos($rawOutput, 'resolve') !== false || stripos($rawOutput, 'System error') !== false) {
-        // //logMsg("DNS 解析受限，已强制保活(1081P): " . parse_url($url, PHP_URL_HOST), "WARNING", 2);
-        // return 0; 
-    // }
-
-    // // 5. 记录其他调试信息
-    // if (!empty($rawOutput)) {
-        // logMsg("FFPROBE DEBUG: URL: $url | Error: " . substr($rawOutput, 0, 80), "DEBUG", 2);
-    // }
-    
-    return 1;
+    // 5. 记录真正的错误（如 403/404）
+    logMsg("探测失败: " . $url. substr($rawOutput, 0, 50), "ERROR", 2);
+    return 0;
 }
 
 set_time_limit(0);
@@ -812,7 +795,7 @@ do {
         } else {
             $reason = ($time >= $testTimeout) ? "超时" : "状态码: $code";
 			$testUrl = $c['url'] ?? "未知URL";
-			logMsg("测速跳过: [{$c['tpl_name']}][源:#{$c['src_idx']}] 原因: $reason | 地址: $testUrl", "INFO", 1);
+			logMsg("测速跳过: [{$c['tpl_name']}][源:#{$c['src_idx']}] 原因: $reason | 地址: $testUrl", "ERROR", 1);
         }
 
         // 移除旧句柄并补充新任务
