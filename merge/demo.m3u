@@ -194,8 +194,8 @@
 #EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://upload.112114.xyz/logo/Astro欢喜台.png" group-title="港·澳·海外",Astro欢喜(马来西亚)
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://upload.112114.xyz/logo/Astro全佳.png" group-title="港·澳·海外",Astro全佳(马来西亚)
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
-#EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://upload.112114.xyz/logo/Korea TV.png" group-title="港·澳·海外",Korea TV(韩国)
-#EXTINF:-1 tvg-id="Gugak TV" tvg-name="Gugak TV" tvg-logo="https://upload.112114.xyz/logo/Gugak TV.png" group-title="港·澳·海外",Gugak TV(韩国)
+#EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://upload.112114.xyz/logo/Korea TV.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="港·澳·海外",Korea TV(韩国)
+#EXTINF:-1 tvg-id="Gugak TV" tvg-name="Gugak TV" tvg-logo="https://upload.112114.xyz/logo/Gugak TV.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="港·澳·海外",Gugak TV(韩国)
 
 
 
@@ -277,9 +277,9 @@
 
 
 
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC家庭影院.png" group-title="电影·娱乐",CHC家庭影院
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC动作电影.png" group-title="电影·娱乐",CHC动作电影
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC影迷电影.png" group-title="电影·娱乐",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC家庭影院.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="电影·娱乐",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC动作电影.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="电影·娱乐",CHC动作电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC影迷电影.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="电影·娱乐",CHC影迷电影
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="电影·娱乐",新片放映厅
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://tb.zbds.top/logo/凤凰电影.png" group-title="电影·娱乐",凤凰电影
 #EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="电影·娱乐",南方影视
@@ -408,8 +408,8 @@
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/国学.png" group-title="体育·休闲",国学
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/书画.png" group-title="体育·休闲",书画频道
 #EXTINF:-1 tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://upload.112114.xyz/logo/弈坛春秋.png" group-title="体育·休闲",弈坛春秋
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" group-title="体育·休闲",湖南茶频道
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" group-title="体育·休闲",湖南快乐垂钓
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="体育·休闲",湖南茶频道
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="体育·休闲",湖南快乐垂钓
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/四海钓鱼.png" group-title="体育·休闲",四海钓鱼
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",河南武术世界
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/五星体育.png" group-title="体育·休闲",上海五星体育
@@ -487,11 +487,11 @@
 
 
 
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV1.png" group-title="教育·少儿·动画",CETV-1 综合教育 
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV2.png" group-title="教育·少儿·动画",CETV-2 教育教学
-#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV3.png" group-title="教育·少儿·动画",CETV-3 北京地面
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV4.png" group-title="教育·少儿·动画",CETV-4 职业教育
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV早期教育.png" group-title="教育·少儿·动画",CETV-早期教育
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV1.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",CETV-1 综合教育 
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV2.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",CETV-2 教育教学
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV3.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",CETV-3 北京地面
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV4.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",CETV-4 职业教育
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CET/CETV早期教育.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",CETV-早期教育
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东教育.png" group-title="教育·少儿·动画",山东教育卫视
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://static.tv.darwinchow.com/logo/上海教育.png" group-title="教育·少儿·动画",上海教育
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://static.tv.darwinchow.com/logo/优优宝贝.png" group-title="教育·少儿·动画",优优宝贝
@@ -501,10 +501,10 @@
 #EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海纪实科教" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="教育·少儿·动画",上海新纪实
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海纪实人文.png" group-title="教育·少儿·动画",上海纪实人文
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo//新动漫.png" group-title="教育·少儿·动画",新动漫
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰纪实.png" group-title="教育·少儿·动画",湖南金鹰纪实
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/嘉佳卡通.png" group-title="教育·少儿·动画",广东嘉佳卡通
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/优漫卡通.png" group-title="教育·少儿·动画",江苏优漫卡通
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰卡通.png" group-title="教育·少儿·动画",湖南金鹰卡通
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰纪实.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",湖南金鹰纪实
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/嘉佳卡通.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",广东嘉佳卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/优漫卡通.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",江苏优漫卡通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰卡通.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="教育·少儿·动画",湖南金鹰卡通
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="教育·少儿·动画",北京卡酷少儿
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/哈哈炫动.png" group-title="教育·少儿·动画",上海哈哈炫动
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="教育·少儿·动画",经典动画大集合
@@ -657,15 +657,15 @@
 #EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界" tvg-logo="https://upload.112114.xyz/logo/咪视界4K.png" group-title="未分类",咪视界4K
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 #EXTINF:-1 tvg-id="BesTV LIVE" tvg-name="BesTV LIVE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/BesTVlive.png" group-title="未分类",BesTV LIVE
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/第一财经.png" group-title="未分类",上海第一财经
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/财富天下.png" group-title="未分类",江苏财富天下
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/第一财经.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",上海第一财经
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/财富天下.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",江苏财富天下
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/.png" group-title="未分类",广东珠江
 #EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen4.png" group-title="未分类",深圳财经生活
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://static.tv.darwinchow.com/logo/上海都市.png" group-title="未分类",上海都市
-#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/好享购物.png" group-title="未分类",江苏好享购物
-#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/聚鲨环球精选.png" group-title="未分类",聚鲨环球精选
-#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/快乐购.png" group-title="未分类",湖南快乐购
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/央广购物.png" group-title="未分类",CCTV-央广购物
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/优购物.png" group-title="未分类",山西优购物
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/好享购物.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",江苏好享购物
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/聚鲨环球精选.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",聚鲨环球精选
+#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/快乐购.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",湖南快乐购
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/央广购物.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",CCTV-央广购物
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/优购物.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",山西优购物
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://static.tv.darwinchow.com/logo/东方购物.png" group-title="未分类",东方购物
 

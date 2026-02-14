@@ -3,6 +3,7 @@
  * M3U 聚合工具 - 语句级换行排版 & 全量审计版
  */
 $scriptStartTime = microtime(true); // 记录脚本开始执行的时间
+date_default_timezone_set('Asia/Shanghai'); // 强制指定为北京时间
 chdir(__DIR__); // [关键] 确保 Crontab 调用时能找到同目录文件
 umask(000); // [新增] 确保脚本创建的文件对所有用户都有读写权限
 // ================= [ 用户自定义配置区 ] =================
