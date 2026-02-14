@@ -599,12 +599,15 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
     $c = array_shift($queue);
     $ch = curl_init($c['url']);
     curl_setopt_array($ch, [
-        CURLOPT_RETURNTRANSFER => 1, 
-        CURLOPT_RANGE => '0-1', 
-        CURLOPT_TIMEOUT_MS => $testTimeout * 1000, 
-        CURLOPT_FOLLOWLOCATION => 1, 
-        CURLOPT_SSL_VERIFYPEER => 0, 
-        CURLOPT_USERAGENT => $c['ua']
+		CURLOPT_RETURNTRANSFER => 1, 
+		CURLOPT_RANGE => '0-1', 
+		CURLOPT_TIMEOUT_MS => $testTimeout * 1000, 
+		CURLOPT_CONNECTTIMEOUT_MS => $testTimeout * 1000 *0.6, 
+		CURLOPT_FOLLOWLOCATION => 1, 
+		CURLOPT_SSL_VERIFYPEER => 0, 
+		CURLOPT_SSL_VERIFYHOST => 0,
+		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
+		CURLOPT_USERAGENT => $next['ua']
     ]);
     curl_multi_add_handle($mh, $ch);
     $activeHandles[(int)$ch] = $c;
@@ -665,8 +668,11 @@ do {
                 CURLOPT_RETURNTRANSFER => 1, 
                 CURLOPT_RANGE => '0-1', 
                 CURLOPT_TIMEOUT_MS => $testTimeout * 1000, 
+				CURLOPT_CONNECTTIMEOUT_MS => $testTimeout * 1000 *0.6, 
                 CURLOPT_FOLLOWLOCATION => 1, 
                 CURLOPT_SSL_VERIFYPEER => 0, 
+				CURLOPT_SSL_VERIFYHOST => 0,
+				CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
                 CURLOPT_USERAGENT => $next['ua']
             ]);
             curl_multi_add_handle($mh, $nch);
