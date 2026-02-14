@@ -603,25 +603,38 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
     $url = trim($parts[0]); 
     $sourceDefaultUA = $parts[1] ?? $defaultUA; 
     
-    $ch = curl_init($url);
-	curl_setopt_array($ch, [
-		CURLOPT_RETURNTRANSFER => 1,
-		// 使用毫秒级超时，3.8 * 1000 = 3800 毫秒
-		CURLOPT_TIMEOUT => 30,
-		CURLOPT_FOLLOWLOCATION => 1,
-		CURLOPT_SSL_VERIFYPEER => 0,
-		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
-		CURLOPT_USERAGENT => $sourceDefaultUA
-	]);
-	
+	$retryCount = 0;
+    $maxRetries = 2; // 失败后再尝试 2 次
+    $content = false;
 
-	
-    $content = curl_exec($ch); 
-    curl_close($ch);
+    while ($retryCount <= $maxRetries && $content === false) {
+        $ch = curl_init($url);
+        curl_setopt_array($ch, [
+            CURLOPT_RETURNTRANSFER => 1,
+            CURLOPT_TIMEOUT => 30,          // 增加到 30 秒
+            CURLOPT_CONNECTTIMEOUT => 10,   // 连接超时 10 秒
+            CURLOPT_FOLLOWLOCATION => 1,
+            CURLOPT_SSL_VERIFYPEER => 0,
+            CURLOPT_SSL_VERIFYHOST => 0,
+            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4, // 强制 IPv4
+            CURLOPT_ENCODING => '',         // 处理 GZIP
+            CURLOPT_USERAGENT => $sourceDefaultUA
+        ]);
+        $content = curl_exec($ch);
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
 
-    if (!$content) 
-    { 
-        logMsg("源 [#$srcIdx] 加载失败 | 地址: $url", "ERROR"); 
+        if ($content !== false && $httpCode == 200) break;
+        
+        $retryCount++;
+        if ($retryCount <= $maxRetries) {
+            logMsg("源 [#$srcIdx] | 地址: $url加载失败，正在进行第 $retryCount 次重试...", "TEST");
+            sleep(1); // 等待 1 秒再重试
+        }
+    }
+
+    if (!$content) { 
+        logMsg("源 [#$srcIdx] 彻底加载失败 (重试 $maxRetries 次均无效) | 地址: $url", "ERROR"); 
         continue; 
     }
 
