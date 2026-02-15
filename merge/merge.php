@@ -47,7 +47,7 @@ $testTimeout = 3.8;
 $testRetries = 2;      
 // [重试次数] 测速失败后的尝试次数，2 表示共请求 3 次
 
-$defaultUA = 'okHttp/Mod-1.2.0.0'; 
+$defaultUA = 'okHttp/Mod-1.5.0.0'; 
 // [默认UA] 当订阅源或标签未指定 User-Agent 时使用的全局默认标识
 
 $maxLinksPerChannel = 3;  
