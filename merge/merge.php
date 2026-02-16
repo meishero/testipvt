@@ -45,13 +45,13 @@ $sourceUrls = [
 ];
 
 // --- 性能与规则参数 ---
-$maxConcurrency = 3;      
+$maxConcurrency = 2;      
 // [并行路数] 同时测速的线程数，建议 5-10
 
 $testTimeout = 3.5;      
 // [超时秒数] 超过此时间无响应即认为该线路连接失败
 
-$testRetries = 2;      
+$testRetries = 1;      
 // [重试次数] 测速失败后的尝试次数，2 表示共请求 3 次
 
 $defaultUA = 'okHttp/Mod-1.5.0.0'; 
