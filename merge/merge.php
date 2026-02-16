@@ -844,7 +844,7 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
 		CURLOPT_SSL_VERIFYPEER => 0, 
 		CURLOPT_SSL_VERIFYHOST => 0,
 		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
-		CURLOPT_USERAGENT => $next['ua']
+		CURLOPT_USERAGENT => $c['ua']
     ]);
     curl_multi_add_handle($mh, $ch);
     $activeHandles[(int)$ch] = $c;
