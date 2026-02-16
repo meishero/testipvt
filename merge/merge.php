@@ -959,11 +959,18 @@ foreach ($tplLines as $tLine)
 		$allLinesContext = $item['raw_block'] ?? '';
         $realRes = getRealResolution($item['url'], $item['ua'], $allLinesContext);
         
-        if ($realRes > 0) {
-            $item['real_res'] = $realRes;
-            logMsg("探测成功: 分辨率={$realRes}P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
-			$finalForChannel[] = $item;
-        } else {
+        if ($realRes > 0) {         
+			if($realRes == 400)
+				logMsg("探测成功但过滤: 分辨率={$realRes}P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+			else
+			{
+				$item['real_res'] = $realRes;
+				logMsg("探测成功: 分辨率={$realRes}P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+				$finalForChannel[] = $item;
+			}
+        } 
+		else 
+		{
             // 方案A核心：探测失败删除
             logMsg("探测失败或超时，已彻底丢弃", "ERROR", 2);
         }
