@@ -21,9 +21,16 @@ $sourceUrls = [
 	'https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u#UA=aliplayer',
 	//冰茶TV
 	'https://bc.188766.xyz/?url=https://live.188766.xyz&lunbo=false&mima=bingcha1130',
-	//https://live.zbds.top/  直播电视 
+	//直播电视 https://live.zbds.top/
 	'https://live.zbds.top/tv/iptv4.m3u',
 //	'https://live.zbds.top/tv/iptv6.m3u',
+	//裤佬
+	'https://bit.ly/jsnzkpg',
+	//itvlist
+	'https://bit.ly/itvlist',
+	//suxuang-v4
+	'https://bit.ly/suxuang-v4',
+	
 	//海外源
 	//jackTV
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
@@ -38,10 +45,10 @@ $sourceUrls = [
 ];
 
 // --- 性能与规则参数 ---
-$maxConcurrency = 2;      
+$maxConcurrency = 3;      
 // [并行路数] 同时测速的线程数，建议 5-10
 
-$testTimeout = 3.8;      
+$testTimeout = 3.5;      
 // [超时秒数] 超过此时间无响应即认为该线路连接失败
 
 $testRetries = 2;      
@@ -54,7 +61,7 @@ $maxLinksPerChannel = 3;
 // [最大保留数] 每个频道最终保留的最快线路个数（测速不通的自动删除）
 
 // --- 全局探测配置 (提速核心) ---
-define('FF_TIMEOUT', 5000000);      // 5秒超时
+define('FF_TIMEOUT', 4000000);      // 5秒超时
 define('FF_PROBE_SIZE', 200000);    // 降低到 500KB (默认是 5M)
 define('FF_ANALYZE_DUR', 1000000);  // 降低到 1秒 (默认是 5秒)
 
