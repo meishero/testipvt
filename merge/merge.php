@@ -45,10 +45,10 @@ $sourceUrls = [
 ];
 
 // --- 性能与规则参数 ---
-$maxConcurrency = 2;      
+$maxConcurrency = 1;      
 // [并行路数] 同时测速的线程数，建议 5-10
 
-$testTimeout = 3.5;      
+$testTimeout = 3;      
 // [超时秒数] 超过此时间无响应即认为该线路连接失败
 
 $testRetries = 1;      
@@ -63,7 +63,7 @@ $maxLinksPerChannel = 3;
 // --- 全局探测配置 (提速核心) ---
 define('FF_TIMEOUT', 4000000);      // 5秒超时
 define('FF_PROBE_SIZE', 200000);    // 降低到 500KB (默认是 5M)
-define('FF_ANALYZE_DUR', 1000000);  // 降低到 1秒 (默认是 5秒)
+define('FF_ANALYZE_DUR', 2000000);  // 降低到 1秒 (默认是 5秒)
 
 // ========================================================
 
@@ -353,7 +353,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     $ffprobePath = 'ffprobe'; 
 
 	// 组装极速探测命令
-    $cmd = "timeout 10s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
+    $cmd = "timeout 8s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
            " -follow 1 -v error -hide_banner " .
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
