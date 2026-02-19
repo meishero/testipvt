@@ -36,9 +36,9 @@ $sourceUrls = [
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
 	//mursor
 	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=597a41048979fa2f0f9447be88f433f7f32914024567253f55dda782e889117d2de162d8f79b398dbe5cef1daf96dc76758675b06fbdeec3b19a1a4c1fee152a9411ab34621124&auth_token=720628804be3d44523e0b170aab73e30',
-	//streamlink.org 需续期
+	//streamlink.org   需续期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
-	//iptv研究所	  需续期
+	//iptv研究所	   需续期
 	'https://goiptv.passwdword.xyz/get.php?username=tg_ra49h11m&password=aoy6p7kxi342&type=m3u_plus',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
@@ -57,7 +57,7 @@ $testRetries = 1;
 $defaultUA = 'okHttp/Mod-1.5.0.0'; 
 // [默认UA] 当订阅源或标签未指定 User-Agent 时使用的全局默认标识
 
-$maxLinksPerChannel = 3;  
+$maxLinksPerChannel = 2;  
 // [最大保留数] 每个频道最终保留的最快线路个数（测速不通的自动删除）
 
 // --- 全局探测配置 (提速核心) ---
@@ -352,12 +352,12 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     // 如果需要特定路径，请写绝对路径如 '/usr/bin/ffprobe'
     $ffprobePath = 'ffprobe'; 
 
-	// 组装极速探测命令
+    // 组装极速探测命令
     $cmd = "timeout 8s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
            " -follow 1 -v error -hide_banner " .
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
-           " -select_streams v:0 -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 " .
+           " -select_streams v:0 -show_entries stream=width,height -of default=noprint_wrappers=1 " .
            " " . escapeshellarg($url) . " 2>&1";
 
     
@@ -369,13 +369,28 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
 
     // 3. 解析输出
     // 宿主机可能返回多行（如你测试看到的 height=720 出现两次）
+    $width = 0;
+    $height = 0;
     $lines = explode("\n", $rawOutput);
     foreach ($lines as $line) {
-        $val = trim($line);
-        // 提取第一行纯数字
-        if (is_numeric($val) && (int)$val > 0) {
-            return (int)$val;
+        $line = trim($line);
+        // 解析 width=1920 或 height=1080 格式
+        if (preg_match('/^(width|height)=(\d+)$/', $line, $matches)) {
+            if ($matches[1] == 'width') {
+                $width = (int)$matches[2];
+            } elseif ($matches[1] == 'height') {
+                $height = (int)$matches[2];
+            }
         }
+    }
+
+    // 返回宽度和高度的数组
+    if ($width > 0 && $height > 0) {
+        return [
+            'width' => $width,
+            'height' => $height,
+            'resolution' => $width . 'x' . $height
+        ];
     }
 
     // 4. 容错处理：如果没拿到数字，判断是否为网络解析问题
@@ -948,7 +963,7 @@ foreach ($tplLines as $tLine)
     usort($list, function($a, $b) {
         return $a['speed'] <=> $b['speed'];
     });
-    $candidates = array_slice($list, 0, $maxLinksPerChannel + 2);
+    $candidates = array_slice($list, 0, $maxLinksPerChannel + 1);
 
     // 2. 【方案A：延迟物理探测】仅对入选的候选者进行 ffprobe 探测
     $finalForChannel = [];
@@ -957,21 +972,37 @@ foreach ($tplLines as $tLine)
         
         // 执行 ffprobe 获取真实高度
 		$allLinesContext = $item['raw_block'] ?? '';
-        $realRes = getRealResolution($item['url'], $item['ua'], $allLinesContext);
+        $resResult = getRealResolution($item['url'], $item['ua'], $allLinesContext);
         
-        if ($realRes > 0) {         
-			if($realRes == 400)
-				logMsg("探测成功但过滤: 分辨率={$realRes}P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
-			else
+        if (is_array($resResult) && isset($resResult['width'], $resResult['height'])) 
+		{
+            $width = $resResult['width'];
+            $height = $resResult['height'];
+            $resolution = $resResult['resolution'];
+            
+            // 过滤低分辨率（例如高度小于400的）
+            if($height <= 400) 
 			{
-				$item['real_res'] = $realRes;
-				logMsg("探测成功: 分辨率={$realRes}P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
-				$finalForChannel[] = $item;
-			}
+                logMsg("探测成功但过滤: 分辨率={$resolution} | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+            } 
+			else {
+                $item['real_width'] = $width;
+                $item['real_height'] = $height;
+                $item['real_resolution'] = $resolution;
+                $item['real_res'] = $height; // 保持向后兼容
+                logMsg("探测成功: 分辨率={$resolution} (宽:{$width}, 高:{$height}) | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+                $finalForChannel[] = $item;
+            }
+        } 
+		elseif ($resResult === 479) {
+            // 特殊过滤，保活
+            $item['real_res'] = 479; // 特殊标记
+            logMsg("探测返回特殊代码479: 保活线路 | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+            $finalForChannel[] = $item;
         } 
 		else 
 		{
-            // 方案A核心：探测失败删除
+            // 探测失败删除
             logMsg("探测失败或超时，已彻底丢弃", "ERROR", 2);
         }
         
@@ -979,14 +1010,22 @@ foreach ($tplLines as $tLine)
 
     // 3. 【最终排序】根据探测到的真实分辨率和速度进行二次精准排序
     usort($finalForChannel, function($a, $b) {
-        $resA = $a['real_res'] ?? 0;
-        $resB = $b['real_res'] ?? 0;
+        $heightA = $a['real_height'] ?? $a['real_res'] ?? 0;
+        $heightB = $b['real_height'] ?? $b['real_res'] ?? 0;
         
-        // 分辨率高的排前面
-        if ($resA !== $resB) {
-            return $resB <=> $resA; 
+        // 分辨率高的排前面（主要按高度排序）
+        if ($heightA !== $heightB) {
+            return $heightB <=> $heightA; 
         }
-        // 分辨率相同时，速度快的排前面
+        
+        // 如果高度相同，按宽度排序
+        $widthA = $a['real_width'] ?? 0;
+        $widthB = $b['real_width'] ?? 0;
+        if ($widthA !== $widthB) {
+            return $widthB <=> $widthA;
+        }
+        
+        // 分辨率完全相同时，速度快的排前面
         return $a['speed'] <=> $b['speed'];
     });
 
