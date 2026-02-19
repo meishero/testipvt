@@ -20,7 +20,7 @@ $sourceUrls = [
 	//APTV
 	'https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u#UA=aliplayer',
 	//冰茶TV
-	'https://bc.188766.xyz/?url=https://live.188766.xyz&lunbo=false&mima=bingcha1130',
+	//'https://bc.188766.xyz/?url=https://live.188766.xyz&lunbo=false&mima=bingcha1130',
 	//直播电视 https://live.zbds.top/
 	'https://live.zbds.top/tv/iptv4.m3u',
 //	'https://live.zbds.top/tv/iptv6.m3u',
@@ -656,7 +656,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         
         $retryCount++;
         if ($retryCount <= $maxRetries) {
-            logMsg("源 [#$srcIdx] | 地址: $url加载失败，正在进行第 $retryCount 次重试...", "TEST");
+            logMsg("源 [#$srcIdx] | 地址: $url 加载失败，正在进行第 $retryCount 次重试...", "TEST");
             sleep(1); // 等待 1 秒再重试
         }
     }
