@@ -963,7 +963,7 @@ foreach ($tplLines as $tLine)
     usort($list, function($a, $b) {
         return $a['speed'] <=> $b['speed'];
     });
-    $candidates = array_slice($list, 0, $maxLinksPerChannel + 1);
+    $candidates = array_slice($list, 0, $maxLinksPerChannel + 2);
 
     // 2. 【方案A：延迟物理探测】仅对入选的候选者进行 ffprobe 探测
     $finalForChannel = [];
