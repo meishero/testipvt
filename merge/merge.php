@@ -30,18 +30,28 @@ $sourceUrls = [
 	'https://bit.ly/itvlist',
 	//suxuang-v4
 	'https://bit.ly/suxuang-v4',
+	//大圣若鱼iptv
+	'https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186Wtm3H56k.m3u',
+
 	
 	//海外源
+	//catvod https://live.catvod.com/login.php  令牌42fc9e5a5932f32ebb11c0c838b74fbeef8086acb3eed38ca0920a9adc5ff467
+	//catvod https://iptv.catvod.com/user_panel.php 网站查看 
+	'https://iptv.catvod.com/list.php?token=42fc9e5a5932f32ebb11c0c838b74fbeef8086acb3eed38ca0920a9adc5ff467',
 	//jackTV
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
 	//mursor
 	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=597a41048979fa2f0f9447be88f433f7f32914024567253f55dda782e889117d2de162d8f79b398dbe5cef1daf96dc76758675b06fbdeec3b19a1a4c1fee152a9411ab34621124&auth_token=720628804be3d44523e0b170aab73e30',
-	//streamlink.org   需续期
+	//streamlink.org   需续期 20260315过期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
-	//iptv研究所	   需续期
-	'https://goiptv.passwdword.xyz/get.php?username=tg_ra49h11m&password=aoy6p7kxi342&type=m3u_plus',   
+	//iptv研究所	   需续期 20260322过期
+	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
+];
+
+$doubleFetchUrls = [
+	'https://iptv.catvod.com/list.php?token=42fc9e5a5932f32ebb11c0c838b74fbeef8086acb3eed38ca0920a9adc5ff467',
 ];
 
 // --- 性能与规则参数 ---
@@ -631,9 +641,38 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
     $url = trim($parts[0]); 
     $sourceDefaultUA = $parts[1] ?? $defaultUA; 
     
+	$needDoubleFetch = in_array($url, $doubleFetchUrls);
+	
 	$retryCount = 0;
     $maxRetries = 2; // 失败后再尝试 2 次
     $content = false;
+
+	// 如果需要两次拉取，先执行第一次（鉴权）
+    if ($needDoubleFetch) {
+        logMsg("检测到需两次拉取的源 [#$srcIdx]，执行首次鉴权拉取...", "TEST", 1);
+        $ch = curl_init($url);
+        curl_setopt_array($ch, [
+            CURLOPT_RETURNTRANSFER => 1,
+            CURLOPT_TIMEOUT => 30,
+            CURLOPT_CONNECTTIMEOUT => 10,
+            CURLOPT_FOLLOWLOCATION => 1,
+            CURLOPT_SSL_VERIFYPEER => 0,
+            CURLOPT_SSL_VERIFYHOST => 0,
+            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
+            CURLOPT_ENCODING => '',
+            CURLOPT_USERAGENT => $sourceDefaultUA
+        ]);
+        $firstFetch = curl_exec($ch);
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+        
+        if ($firstFetch !== false) {
+            logMsg("首次鉴权成功，等待2秒后执行第二次拉取...", "INFO", 1);
+            sleep(2); // 等待服务器记录IP
+        } else {
+            logMsg("首次鉴权拉取失败，但继续尝试第二次拉取...", "WARNING", 1);
+        }
+    }
 
     while ($retryCount <= $maxRetries && $content === false) {
         $ch = curl_init($url);
@@ -652,7 +691,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         curl_close($ch);
 
-        if ($content !== false && $httpCode == 200) break;
+        if ($content !== false && $httpCode == 200 ) break;
         
         $retryCount++;
         if ($retryCount <= $maxRetries) {
