@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u"  group-title="央视",CCTV-4K
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV8K.png" group-title="央视",CCTV-8K
+//#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV8K.png" group-title="央视",CCTV-8K
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV1.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u"  group-title="央视",CCTV-1 综合
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV2.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u"  group-title="央视",CCTV-2 财经
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV3.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u"  group-title="央视",CCTV-3 综艺
@@ -656,7 +656,7 @@
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",SiTV乐游
 #EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="未分类",爱奇艺
-#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界" tvg-logo="https://upload.112114.xyz/logo/咪视界4K.png" group-title="未分类",咪视界4K
+#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="https://upload.112114.xyz/logo/咪视界4K.png" group-title="未分类",咪视界4K
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 #EXTINF:-1 tvg-id="BesTV LIVE" tvg-name="BesTV LIVE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/BesTVlive.png" group-title="未分类",BesTV LIVE
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/第一财经.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="未分类",上海第一财经

@@ -45,7 +45,7 @@ $sourceUrls = [
 	//streamlink.org   需续期 20260315过期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
 	//iptv研究所	   需续期 20260322过期
-	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus',   
+	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus#UA=Goiptv/8.8.8',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
 ];
