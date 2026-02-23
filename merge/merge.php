@@ -45,9 +45,10 @@ $sourceUrls = [
 	//streamlink.org   需续期 20260315过期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
 	//iptv研究所	   需续期 20260322过期
-	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus#UA=Goiptv/8.8.8',   
+	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
+	'https://tv.iill.top/m3u/MyTV, 
 ];
 
 $doubleFetchUrls = [
@@ -653,8 +654,8 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_TIMEOUT => 30,
-            CURLOPT_CONNECTTIMEOUT => 10,
+            CURLOPT_TIMEOUT => 60,
+            CURLOPT_CONNECTTIMEOUT => 15,
             CURLOPT_FOLLOWLOCATION => 1,
             CURLOPT_SSL_VERIFYPEER => 0,
             CURLOPT_SSL_VERIFYHOST => 0,
@@ -678,8 +679,8 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_TIMEOUT => 30,          // 增加到 30 秒
-            CURLOPT_CONNECTTIMEOUT => 10,   // 连接超时 10 秒
+            CURLOPT_TIMEOUT => 120,          // 增加到 120 秒
+            CURLOPT_CONNECTTIMEOUT => 15,   // 连接超时 10 秒
             CURLOPT_FOLLOWLOCATION => 1,
             CURLOPT_SSL_VERIFYPEER => 0,
             CURLOPT_SSL_VERIFYHOST => 0,
@@ -761,6 +762,17 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
             $streamUrl = isset($lines[$nextIdx]) ? trim($lines[$nextIdx]) : '';
             if (!$streamUrl || strpos($streamUrl, 'http') !== 0) continue;
 
+			// ===============================================
+			// 查找$符号的位置
+			$dollarPos = strpos($streamUrl, '$');
+			if ($dollarPos !== false) {
+				$originalUrl = $streamUrl; // 保存原始URL用于日志
+				$streamUrl = substr($streamUrl, 0, $dollarPos);
+				// 可选：记录清理日志
+				//logMsg("清理URL: 去掉$及后面内容 | 原URL长度: " . strlen($originalUrl) . " | 新URL长度: " . strlen($streamUrl), "INFO", 3);
+			}
+			// ===============================================
+			
             $entry = [
                 'url'     => $streamUrl, 
                 'src_idx' => $srcIdx, 
