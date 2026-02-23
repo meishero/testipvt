@@ -48,7 +48,7 @@ $sourceUrls = [
 	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
-	'https://tv.iill.top/m3u/MyTV, 
+	'https://tv.iill.top/m3u/MyTV', 
 ];
 
 $doubleFetchUrls = [
