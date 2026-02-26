@@ -59,7 +59,7 @@ $doubleFetchUrls = [
 $maxConcurrency = 1;      
 // [并行路数] 同时测速的线程数，建议 5-10
 
-$testTimeout = 3;      
+$testTimeout = 3.5;      
 // [超时秒数] 超过此时间无响应即认为该线路连接失败
 
 $testRetries = 1;      
@@ -68,7 +68,7 @@ $testRetries = 1;
 $defaultUA = 'okHttp/Mod-1.5.0.0'; 
 // [默认UA] 当订阅源或标签未指定 User-Agent 时使用的全局默认标识
 
-$maxLinksPerChannel = 2;  
+$maxLinksPerChannel = 3;  
 // [最大保留数] 每个频道最终保留的最快线路个数（测速不通的自动删除）
 
 // --- 全局探测配置 (提速核心) ---
@@ -407,8 +407,8 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     // 4. 容错处理：如果没拿到数字，判断是否为网络解析问题
     if (empty($rawOutput) || stripos($rawOutput, 'resolve') !== false || stripos($rawOutput, 'timed out') !== false) {
         // 针对宿主机网络波动或 DNS 暂时的异常，强制保活
-        logMsg( "宿主机解析超时/异常， " . $url . parse_url($url, PHP_URL_HOST), "ERROR", 2);
-        return 0; 
+        logMsg( "宿主机解析超时/异常，暂时保活 " . $url . parse_url($url, PHP_URL_HOST), "ERROR", 2);
+        return 479; 
     }
 
     // 5. 记录真正的错误（如 403/404）
@@ -1048,6 +1048,8 @@ foreach ($tplLines as $tLine)
 		elseif ($resResult === 479) {
             // 特殊过滤，保活
             $item['real_res'] = 479; // 特殊标记
+			$item['real_width'] = 720;
+			$item['real_height'] = 479;
             logMsg("探测返回特殊代码479: 保活线路 | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
             $finalForChannel[] = $item;
         } 
