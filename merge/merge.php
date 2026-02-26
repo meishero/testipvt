@@ -30,8 +30,8 @@ $sourceUrls = [
 	'https://bit.ly/itvlist',
 	//suxuang-v4
 	'https://bit.ly/suxuang-v4',
-	//大圣若鱼iptv
-	'https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186Wtm3H56k.m3u',
+	//大圣若鱼iptv  文件名经常变化
+//	'https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186Wtm3H56k.m3u',
 
 	
 	//海外源
@@ -41,11 +41,11 @@ $sourceUrls = [
 	//jackTV
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
 	//mursor
-	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=597a41048979fa2f0f9447be88f433f7f32914024567253f55dda782e889117d2de162d8f79b398dbe5cef1daf96dc76758675b06fbdeec3b19a1a4c1fee152a9411ab34621124&auth_token=720628804be3d44523e0b170aab73e30',
+	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=a3dd9f713f13d66c184cb2a78580dd62fb3b650fea201cd37b98ccc5c97a5efa01a59131a16ecebf1c5a9f158fbf64c7d814df6449acb25b06a98810611bc46242c42c0504e455&auth_token=720628804be3d44523e0b170aab73e30',	
 	//streamlink.org   需续期 20260315过期
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
 	//iptv研究所	   需续期 20260322过期
-	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus',   
+	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus#UA=Goiptv/8.8.8',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
 	'https://tv.iill.top/m3u/MyTV', 
@@ -654,7 +654,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_TIMEOUT => 60,
+            CURLOPT_TIMEOUT => 30,
             CURLOPT_CONNECTTIMEOUT => 15,
             CURLOPT_FOLLOWLOCATION => 1,
             CURLOPT_SSL_VERIFYPEER => 0,
@@ -679,7 +679,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_TIMEOUT => 120,          // 增加到 120 秒
+            CURLOPT_TIMEOUT => 30,          // 增加到 120 秒
             CURLOPT_CONNECTTIMEOUT => 15,   // 连接超时 10 秒
             CURLOPT_FOLLOWLOCATION => 1,
             CURLOPT_SSL_VERIFYPEER => 0,
