@@ -14,7 +14,7 @@ $sourceUrls = [
 	//ENSHAN
 	'https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u',
 	//chinatv
-	'https://live.264788.xyz/sub/02Rzne28JFpslw3tVEoWU5DYa814gL#UA=Mozilla/5.0',
+	'https://live.264788.xyz/sub/02Rzne28JFpslw3tVEoWU5DYa814gL',
 	//nas 咪咕
 	'http://192.168.33.93:3007',
 	//APTV
@@ -697,7 +697,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         
         $retryCount++;
         if ($retryCount <= $maxRetries) {
-            logMsg("源 [#$srcIdx] | 地址: $url 加载失败| UA: $sourceDefaultUA$sourceDefaultUA 正在进行第 $retryCount 次重试...", "TEST");
+            logMsg("源 [#$srcIdx] | 地址: $url 加载失败| UA: $sourceDefaultUA 正在进行第 $retryCount 次重试...", "TEST");
             sleep(1); // 等待 1 秒再重试
         }
     }
