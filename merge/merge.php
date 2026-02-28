@@ -14,7 +14,7 @@ $sourceUrls = [
 	//ENSHAN
 	'https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u',
 	//chinatv
-	'https://live.264788.xyz/sub/02Rzne28JFpslw3tVEoWU5DYa814gL',
+	'https://live.264788.xyz/sub/02Rzne28JFpslw3tVEoWU5DYa814gL#UA=Mozilla/5.0',
 	//nas 咪咕
 	'http://192.168.33.93:3007',
 	//APTV
@@ -651,7 +651,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
 
 	// 如果需要两次拉取，先执行第一次（鉴权）
     if ($needDoubleFetch) {
-        logMsg("检测到需两次拉取的源 [#$srcIdx]，执行首次鉴权拉取...", "TEST", 1);
+        logMsg("检测到需两次拉取的源 [#$srcIdx]，| UA: $sourceDefaultUA 执行首次鉴权拉取...", "TEST", 1);
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
@@ -697,13 +697,13 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         
         $retryCount++;
         if ($retryCount <= $maxRetries) {
-            logMsg("源 [#$srcIdx] | 地址: $url 加载失败，正在进行第 $retryCount 次重试...", "TEST");
+            logMsg("源 [#$srcIdx] | 地址: $url 加载失败| UA: $sourceDefaultUA$sourceDefaultUA 正在进行第 $retryCount 次重试...", "TEST");
             sleep(1); // 等待 1 秒再重试
         }
     }
 
     if (!$content) { 
-        logMsg("源 [#$srcIdx] 彻底加载失败 (重试 $maxRetries 次均无效) | 地址: $url", "ERROR"); 
+        logMsg("源 [#$srcIdx] 彻底加载失败| UA: $sourceDefaultUA (重试 $maxRetries 次均无效) | 地址: $url", "ERROR"); 
         continue; 
     }
 
@@ -798,7 +798,7 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
             $i = $nextIdx; // 跳过已处理的属性行和URL行
         }
     }
-    logMsg("源 [#$srcIdx] 加载成功 | 有效频道: $count | 默认UA: $sourceDefaultUA | 地址: $url", "SUCCESS");
+    logMsg("源 [#$srcIdx] 加载成功 | 有效频道: $count | UA: $sourceDefaultUA | 地址: $url", "SUCCESS");
 }
 
 // --- [ 2. 严格原子交叉匹配 ] ---
