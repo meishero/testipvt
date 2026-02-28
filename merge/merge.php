@@ -32,7 +32,8 @@ $sourceUrls = [
 	'https://bit.ly/suxuang-v4',
 	//大圣若鱼iptv  文件名经常变化
 //	'https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186Wtm3H56k.m3u',
-
+	//潇雨萌萌  需续期 20260328过期
+	'http://www.xymm.de5.net:8880/live.m3u?key=975085',
 	
 	//海外源
 	//catvod https://live.catvod.com/login.php  令牌42fc9e5a5932f32ebb11c0c838b74fbeef8086acb3eed38ca0920a9adc5ff467
