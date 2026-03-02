@@ -354,7 +354,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
 	{
 		foreach ($mpdFeatures as $feature) {
 	        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
-	            return 479; // 遇到这类“难搞”的源，直接保活，不测了
+	            return 0; //return 479;  遇到这类“难搞”的源，直接保活，不测了
 	        }
  	   }
 	}
@@ -365,7 +365,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     $ffprobePath = 'ffprobe'; 
 
     // 组装极速探测命令
-    $cmd = "timeout 8s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
+    $cmd = "timeout 15s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
            " -follow 1 -v error -hide_banner " .
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
@@ -408,8 +408,8 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     // 4. 容错处理：如果没拿到数字，判断是否为网络解析问题
     if (empty($rawOutput) || stripos($rawOutput, 'resolve') !== false || stripos($rawOutput, 'timed out') !== false) {
         // 针对宿主机网络波动或 DNS 暂时的异常，强制保活
-        logMsg( "宿主机解析超时/异常，暂时保活 " . $url . parse_url($url, PHP_URL_HOST), "ERROR", 2);
-        return 479; 
+        logMsg( "宿主机解析超时/异常，不保活 " . $url . parse_url($url, PHP_URL_HOST), "ERROR", 2);
+        return 0; 
     }
 
     // 5. 记录真正的错误（如 403/404）
