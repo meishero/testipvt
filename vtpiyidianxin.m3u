@@ -345,7 +345,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/书画.png" group-title="体育·休闲",书画频道
 http://111.20.33.93/PLTV/88888893/224/3221227129/index.m3u8
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" group-title="体育·休闲",湖南茶频道
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" group-title="体育·休闲",湖南茶频道
 http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" group-title="体育·休闲",湖南快乐垂钓
 http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8

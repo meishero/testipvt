@@ -289,11 +289,13 @@
 #EXTINF:-1 tvg-id="动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV动作电影.png" group-title="电影·娱乐",NewTV动作电影
 #EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV惊悚悬疑.png" group-title="电影·娱乐",NewTV惊悚悬疑
 #EXTINF:-1 tvg-id="超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓电影.png" group-title="电影·娱乐",黑莓电影
+#EXTINF:-1 tvg-id="高清大片" tvg-name="NEWTV高清大片" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV高清大片.png" group-title="电影·娱乐",NewTV高清大片
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="NEWTV黑莓电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓电影.png" group-title="电影·娱乐",NEWTV黑莓电影
 #EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png" group-title="电影·娱乐",iHOT爱院线
 #EXTINF:-1 tvg-id="爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱电竞.png" group-title="电影·娱乐",iHOT爱电竞
 #EXTINF:-1 tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱奇谈.png" group-title="电影·娱乐",iHOT爱奇谈
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱科幻.png" group-title="电影·娱乐",iHOT爱科幻
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱喜剧.png" group-title="电影·娱乐",iHOT爱喜剧
 #EXTINF:-1 tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱旅行.png" group-title="电影·娱乐",iHOT爱旅行
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱谍战.png" group-title="电影·娱乐",iHOT爱谍战
 #EXTINF:-1 tvg-id="爱都市" tvg-name="iHOT爱都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱都市.png" group-title="电影·娱乐",iHOT爱都市
@@ -391,18 +393,19 @@
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png" group-title="体育·休闲",睛彩竞技
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="hhttps://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png" group-title="体育·休闲",睛彩青少
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮球.png" group-title="体育·休闲",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩羽毛球.png" group-title="体育·休闲",睛彩羽毛球
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩广场舞.png" group-title="体育·休闲",睛彩广场舞
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/先锋乒羽.png" group-title="体育·休闲",先锋乒羽
-#EXTINF:-1 tvg-id="精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="体育·休闲",NewTV精品体育
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵电竞.png" group-title="体育·休闲",哒啵电竞
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵赛事.png" group-title="体育·休闲",哒啵赛事
+#EXTINF:-1 tvg-id="超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="体育·休闲",NewTV超级体育
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="NEWTV哒啵电竞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵电竞.png" group-title="体育·休闲",NEWTV哒啵电竞
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="NEWTV哒啵赛事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/哒啵赛事.png" group-title="体育·休闲",NEWTV哒啵赛事
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/魅力足球.png" group-title="体育·休闲",SiTV魅力足球
 #EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://static.tv.darwinchow.com/logo/天下足球.png" group-title="体育·休闲",天下足球
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/天元围棋.png" group-title="体育·休闲",天元围棋
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/国学.png" group-title="体育·休闲",国学
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/书画.png" group-title="体育·休闲",书画频道
 #EXTINF:-1 tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://upload.112114.xyz/logo/弈坛春秋.png" group-title="体育·休闲",弈坛春秋
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="体育·休闲",湖南茶频道
+#EXTINF:-1 tvg-id="茶" tvg-name="茶频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="体育·休闲",湖南茶频道
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="体育·休闲",湖南快乐垂钓
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/四海钓鱼.png" group-title="体育·休闲",四海钓鱼
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",河南武术世界
@@ -472,6 +475,7 @@
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",欢笑剧场4K
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png" group-title="剧场·综艺",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电视剧.png" group-title="剧场·综艺",NewTV超级电视剧
 #EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV潮妈辣婆.png" group-title="剧场·综艺",NewTV潮妈辣婆
 #EXTINF:-1 tvg-id="古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV古装剧场.png" group-title="剧场·综艺",NewTV古装剧场
 #EXTINF:-1 tvg-id="家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV家庭剧场.png" group-title="剧场·综艺",NewTV家庭剧场
@@ -479,12 +483,20 @@
 #EXTINF:-1 tvg-id="精彩轮播" tvg-name="NEWTV精彩轮播" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精彩轮播.png" group-title="剧场·综艺",NewTV精彩轮播
 #EXTINF:-1 tvg-id="精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品大剧.png" group-title="剧场·综艺",NewTV精品大剧
 #EXTINF:-1 tvg-id="精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品纪录.png" group-title="剧场·综艺",NewTV精品纪录
+#EXTINF:-1 tvg-id="精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="剧场·综艺",NewTV精品体育
+#EXTINF:-1 tvg-id="精品剧场" tvg-name="NEWTV精品剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品剧场.png" group-title="剧场·综艺",NewTV精品剧场
+#EXTINF:-1 tvg-id="精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品综合.png" group-title="剧场·综艺",NewTV精品综合
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV东北热剧.png" group-title="剧场·综艺",NewTV东北热剧
+#EXTINF:-1 tvg-id="海外剧场" tvg-name="NEWTV海外剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV海外剧场.png" group-title="剧场·综艺",NewTV海外剧场
 #EXTINF:-1 tvg-id="军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军旅剧场.png" group-title="剧场·综艺",NewTV军旅剧场
 #EXTINF:-1 tvg-id="军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军事评论.png" group-title="剧场·综艺",NewTV军事评论
 #EXTINF:-1 tvg-id="热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV热播精选.png" group-title="剧场·综艺",NewTV热播精选
+#EXTINF:-1 tvg-id="明星大片" tvg-name="NEWTV明星大片" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV明星大片.png" group-title="剧场·综艺",NewTV明星大片
+#EXTINF:-1 tvg-id="武博世界" tvg-name="NEWTV武博世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV武博世界.png" group-title="剧场·综艺",NewTV武博世界
 #EXTINF:-1 tvg-id="炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV炫舞未来.png" group-title="剧场·综艺",NewTV炫舞未来
 #EXTINF:-1 tvg-id="怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV怡伴健康.png" group-title="剧场·综艺",NewTV怡伴健康
 #EXTINF:-1 tvg-id="中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV中国功夫.png" group-title="剧场·综艺",NewTV中国功夫
+#EXTINF:-1 tvg-id="农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV农业致富.png" group-title="剧场·综艺",NewTV农业致富
 
 
 
@@ -496,7 +508,7 @@
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/山东教育.png" group-title="教育·少儿·动画",山东教育卫视
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://static.tv.darwinchow.com/logo/上海教育.png" group-title="教育·少儿·动画",上海教育
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://static.tv.darwinchow.com/logo/优优宝贝.png" group-title="教育·少儿·动画",优优宝贝
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓动画.png" group-title="教育·少儿·动画",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓动画.png" group-title="教育·少儿·动画",NEWTV黑莓动画
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/动漫秀场.png" group-title="教育·少儿·动画",SiTV动漫秀场
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/纪实科教.png" group-title="教育·少儿·动画",北京纪实科教
 #EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海纪实科教" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="教育·少儿·动画",上海新纪实
@@ -530,9 +542,10 @@
 #EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="教育·少儿·动画",MiaoMi
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="教育·少儿·动画",Cartoon Network
 #EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱动漫.png" group-title="教育·少儿·动画",iHOT爱动漫
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索纪录.png" group-title="教育·少儿·动画",求索纪录
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索动物.png" group-title="教育·少儿·动画",求索动物
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索科学.png" group-title="教育·少儿·动画",求索科学
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="NEWTV求索纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索纪录.png" group-title="教育·少儿·动画",NEWTV求索纪录
+#EXTINF:-1 tvg-id="求索动物" tvg-name="NEWTV求索动物" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索动物.png" group-title="教育·少儿·动画",NEWTV求索动物
+#EXTINF:-1 tvg-id="求索科学" tvg-name="NEWTV求索科学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索科学.png" group-title="教育·少儿·动画",NEWTV求索科学
+#EXTINF:-1 tvg-id="求索生活" tvg-name="NEWTV求索科学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索生活.png" group-title="教育·少儿·动画",NEWTV求索生活
 #EXTINF:-1 tvg-id="华数漫游世界" tvg-name="华数漫游世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/华数漫游世界.png" group-title="教育·少儿·动画",华数漫游世界
 #EXTINF:-1 tvg-id="华数探索纪实" tvg-name="华数探索纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/华数探索纪实.png" group-title="教育·少儿·动画",华数探索纪实
 #EXTINF:-1 tvg-id="华数电子竞技" tvg-name="华数电子竞技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/华数电子竞技.png" group-title="教育·少儿·动画",华数电子竞技
