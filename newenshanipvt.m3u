@@ -2,6 +2,7 @@
 #EXTM3U x-tvg-url="http://192.168.33.93:3007/playback.xml"
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz"
 #EXTM3U x-tvg-url="https://static.188766.xyz/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://liliu.serv00.net/epg/download.php?type=gz"
 #集众家所长的EPG,咪咕,bee-v1/smart-v1,JACKTV,冰茶TV
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" group-title="央视",CCTV-4K
