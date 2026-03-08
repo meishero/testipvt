@@ -19,7 +19,7 @@ $sourceUrls = [
 	'http://192.168.33.93:3007',
 	//APTV
 	'https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u#UA=aliplayer',
-	//冰茶TV
+	//冰茶TV  解散了
 	//'https://bc.188766.xyz/?url=https://live.188766.xyz&lunbo=false&mima=bingcha1130',
 	//直播电视 https://live.zbds.top/
 	'https://live.zbds.top/tv/iptv4.m3u',
@@ -39,14 +39,17 @@ $sourceUrls = [
 	//catvod https://live.catvod.com/login.php  令牌42fc9e5a5932f32ebb11c0c838b74fbeef8086acb3eed38ca0920a9adc5ff467
 	//catvod https://iptv.catvod.com/user_panel.php 网站查看 
 	'https://iptv.catvod.com/list.php?token=42fc9e5a5932f32ebb11c0c838b74fbeef8086acb3eed38ca0920a9adc5ff467',
+	//judy-gotv litv smartv
+	'https://ghfast.top/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u',
+	'https://ghfast.top/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u',
 	//jackTV
 	'https://php.946985.filegear-sg.me/jackTV.m3u',
 	//mursor
-	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=a3dd9f713f13d66c184cb2a78580dd62fb3b650fea201cd37b98ccc5c97a5efa01a59131a16ecebf1c5a9f158fbf64c7d814df6449acb25b06a98810611bc46242c42c0504e455&auth_token=720628804be3d44523e0b170aab73e30',	
-	//streamlink.org   需续期 20260315过期
+	'https://live.ottiptv.cc/iptv.m3u?userid=5870134784&sign=3dca1c5154c003f63b6ae9e98e3cbf6c4ea79ff2b53e228448025fa5afa7584c8f64438aa3ae7c2ca83c7a97f32063047cb14da7840bef728d0c2303c016418a2a8fc1231b2d95&auth_token=720628804be3d44523e0b170aab73e30',	
+	//streamlink.org   需续期 20260408过期  EPG https://content.stream-link.org/epg/92f7d738-585f-4795-9bb4-07fa3e1d1a2e/guide.xml
 	'https://www.stream-link.org/playlist.m3u?token=92f7d738-585f-4795-9bb4-07fa3e1d1a2e', 	
-	//iptv研究所	   需续期 20260322过期
-	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus#UA=Goiptv/8.8.8',   
+	//iptv研究所	   需续期 20260328过期
+	'https://iptv.mydiver.eu.org/get.php?username=tg_st1h14nc&password=fsmi7r6t4tfd&type=m3u_plus',   
 	//益力多 肥羊
 	'https://tv.iill.top/m3u/Gather', 
 	'https://tv.iill.top/m3u/MyTV', 
