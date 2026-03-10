@@ -925,7 +925,7 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
 		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
 		CURLOPT_USERAGENT => $c['ua'],
 		// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
-		CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $c['url']), 
+		CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $c['url']),
 		CURLOPT_AUTOREFERER => true,
     ]);
     curl_multi_add_handle($mh, $ch);
@@ -995,7 +995,7 @@ do {
 				CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
                 CURLOPT_USERAGENT => $next['ua'],
 				// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
-				CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $next['url']), 
+				CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $next['url']),
 				CURLOPT_AUTOREFERER => true,
             ]);
             curl_multi_add_handle($mh, $nch);
