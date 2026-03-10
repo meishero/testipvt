@@ -923,7 +923,7 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
 		CURLOPT_SSL_VERIFYPEER => 0, 
 		CURLOPT_SSL_VERIFYHOST => 0,
 		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
-		CURLOPT_USERAGENT => $c['ua']
+		CURLOPT_USERAGENT => $c['ua'],
 		// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
 		CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $c['url']), 
 		CURLOPT_AUTOREFERER => true,
