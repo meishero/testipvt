@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://liliu.serv00.net/epg/download.php?type=gz"
+#EXTM3U x-tvg-url="https://liliu.serv00.net/epg/cn.xml.gz"
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" group-title="央视",CCTV-4K
 http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
