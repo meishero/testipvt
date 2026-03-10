@@ -76,9 +76,9 @@ $maxLinksPerChannel = 3;
 // [最大保留数] 每个频道最终保留的最快线路个数（测速不通的自动删除）
 
 // --- 全局探测配置 (提速核心) ---
-define('FF_TIMEOUT', 5000000);      // 5秒超时
-define('FF_PROBE_SIZE', 300000);    // 降低到 500KB (默认是 5M)
-define('FF_ANALYZE_DUR', 2000000);  // 降低到 1秒 (默认是 5秒)
+define('FF_TIMEOUT', 10000000);     // 10秒超时
+define('FF_PROBE_SIZE', 1000000);   // 增加到 1MB
+define('FF_ANALYZE_DUR', 3000000);  // 增加到 3秒
 
 // ========================================================
 
@@ -367,14 +367,23 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     // 如果需要特定路径，请写绝对路径如 '/usr/bin/ffprobe'
     $ffprobePath = 'ffprobe'; 
 
+	// 提取根域名作为更真实的 Referer
+	$referer = parse_url($url, PHP_URL_SCHEME) . "://" . parse_url($url, PHP_URL_HOST) . "/";
+	
     // 组装极速探测命令
-    $cmd = "timeout 15s {$ffprobePath} -rw_timeout " . FF_TIMEOUT . " -timeout " . FF_TIMEOUT . " -user_agent " . escapeshellarg($ua) . 
-           " -follow 1 -v error -hide_banner " .
+    $cmd = "timeout 15s {$ffprobePath} " .
+		   " -rw_timeout " . FF_TIMEOUT .
+		   " -timeout " . FF_TIMEOUT . 
+		   " -tls_verify 0 " .                      // 强制跳过 TLS 证书校验
+		   " -allowed_extensions ALL " .            // 允许所有协议扩展，防止 tls pull 报错
+		   " -headers " . escapeshellarg("Referer: " . $referer) . " " . // 补充伪造来源
+		   " -user_agent " . escapeshellarg($ua) . 
+           " -follow 1 -v error -hide_banner " .  // 跟随 302
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
-           " -select_streams v:0 -show_entries stream=width,height -of default=noprint_wrappers=1 " .
+           " -select_streams v:0 -show_entries stream=width,height " .
+		   " -of default=noprint_wrappers=1 " .
            " " . escapeshellarg($url) . " 2>&1";
-
     
     $startTime = microtime(true);
     $res = shell_exec($cmd);
@@ -411,7 +420,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     // 4. 容错处理：如果没拿到数字，判断是否为网络解析问题
     if (empty($rawOutput) || stripos($rawOutput, 'resolve') !== false || stripos($rawOutput, 'timed out') !== false) {
         // 针对宿主机网络波动或 DNS 暂时的异常，强制保活
-        logMsg( "宿主机解析超时/异常，不保活 " . $url . parse_url($url, PHP_URL_HOST), "ERROR", 2);
+		logMsg("宿主机解析超时/异常，不保活 : [" . parse_url($url, PHP_URL_HOST) . "] 地址: " . $url, "ERROR", 2);
         return 0; 
     }
 
@@ -915,6 +924,9 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
 		CURLOPT_SSL_VERIFYHOST => 0,
 		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
 		CURLOPT_USERAGENT => $c['ua']
+		// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
+		CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $c['url']), 
+		CURLOPT_AUTOREFERER => true,
     ]);
     curl_multi_add_handle($mh, $ch);
     $activeHandles[(int)$ch] = $c;
@@ -934,7 +946,8 @@ do {
         // 获取测速结果
         $code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         $time = curl_getinfo($ch, CURLINFO_TOTAL_TIME);
-
+		$curlErr = ($code == 0) ? " (" . curl_error($ch) . ")" : ""; // 获取具体的报错文本
+		
         if ($code >= 200 && $code < 400 && $time > 0) {
 			// --- 【核心修改：注入物理分辨率】 ---
             // logMsg("正在物理探测分辨率: [{$c['tpl_name']}][源:#{$c['src_idx']}]", "INFO", 1);
@@ -980,7 +993,10 @@ do {
                 CURLOPT_SSL_VERIFYPEER => 0, 
 				CURLOPT_SSL_VERIFYHOST => 0,
 				CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
-                CURLOPT_USERAGENT => $next['ua']
+                CURLOPT_USERAGENT => $next['ua'],
+				// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
+				CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $next['url']), 
+				CURLOPT_AUTOREFERER => true,
             ]);
             curl_multi_add_handle($mh, $nch);
             $activeHandles[(int)$nch] = $next;
