@@ -60,10 +60,10 @@ $doubleFetchUrls = [
 ];
 
 // --- 性能与规则参数 ---
-$maxConcurrency = 1;      
+$maxConcurrency = 2;      
 // [并行路数] 同时测速的线程数，建议 5-10
 
-$testTimeout = 3.5;      
+$testTimeout = 3.2;      
 // [超时秒数] 超过此时间无响应即认为该线路连接失败
 
 $testRetries = 1;      
@@ -75,11 +75,18 @@ $defaultUA = 'okHttp/Mod-1.5.0.0';
 $maxLinksPerChannel = 3;  
 // [最大保留数] 每个频道最终保留的最快线路个数（测速不通的自动删除）
 
-// --- 全局探测配置 (提速核心) ---
-define('FF_TIMEOUT', 10000000);     // 10秒超时
-define('FF_PROBE_SIZE', 1000000);   // 增加到 1MB
-define('FF_ANALYZE_DUR', 3000000);  // 增加到 3秒
+// --- 随机延迟配置 ---
+$enableRandomDelay = true;           // 是否启用随机延迟
+$sourceCount = count($sourceUrls);
+$randomDelayMin = max(50, (int)(1000 / $sourceCount));      // 最小延迟（毫秒）
+$randomDelayMax = max(300, (int)(2000 / $sourceCount));     // 最大延迟（毫秒）
 
+// --- 全局探测配置 (提速核心) ---
+define('FF_TIMEOUT', 10000000);     // 10000000 微秒 = 10秒
+define('FF_CONNECT_TIMEOUT', 5000000);     // 5000000 微秒 = 5秒
+define('FF_PROBE_SIZE', 512000);       // 512KB（足以探测分辨率）
+define('FF_ANALYZE_DUR', 2000000);     // 2秒（快速探测）
+define('MIN_RESOLUTION_HEIGHT', 400);  // 最小分辨率
 // ========================================================
 
 // --- [内置别名库] 原 alias.json 内容直接放这里 ---
@@ -316,8 +323,8 @@ $aliasJson = <<<'JSON'
   "尼克動畫": ["Nickelodeon"],
   "經典卡通台": ["经典卡通"],
   "精選動漫台": ["精选动漫"],
-  "深圳财经生活": ["深圳财经","深圳生活"]
-  "东方卫视4K": ["东方卫视4K超","东方卫视超高清"] 
+  "深圳财经生活": ["深圳财经","深圳生活"],
+  "东方卫视4K": ["东方卫视4K超","东方卫视超高清"]
   
 }
 JSON;
@@ -349,6 +356,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
 	{
 		foreach ($mpdFeatures as $feature) {
 	        if (stripos($allLines, $feature) !== false || stripos($url, $feature) !== false) {
+				logMsg("检测到加密流特征[$feature]，跳过探测", "INFO", 2);
 	            return 0;   //过滤mpd dash
 	        }
  	   }
@@ -370,26 +378,56 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
 	// 提取根域名作为更真实的 Referer
 	$referer = parse_url($url, PHP_URL_SCHEME) . "://" . parse_url($url, PHP_URL_HOST) . "/";
 	
+	if (stripos($url, 'rtsp://') === 0) {
+		$rtspTransport = " -rtsp_transport tcp ";
+	} else {
+		$rtspTransport = "";
+	}
+	
     // 组装极速探测命令
-    $cmd = "timeout 15s {$ffprobePath} " .
-		   " -rw_timeout " . FF_TIMEOUT .
-		   " -timeout " . FF_TIMEOUT . 
+    $cmd = "timeout 30s {$ffprobePath} " .
+		   $rtspTransport .  // 在开头
+		   " -rw_timeout " . FF_TIMEOUT .           // 网络读写超时
+		   " -connect_timeout " . FF_CONNECT_TIMEOUT . 		// 连接超时
 		   " -tls_verify 0 " .                      // 强制跳过 TLS 证书校验
 		   " -allowed_extensions ALL " .            // 允许所有协议扩展，防止 tls pull 报错
 		   " -headers " . escapeshellarg("Referer: " . $referer) . " " . // 补充伪造来源
 		   " -user_agent " . escapeshellarg($ua) . 
-           " -follow 1 -v error -hide_banner " .  // 跟随 302
+		   " -v error -hide_banner " .  				// 只显示错误		
+           " -follow 1 " .							// 跟随 302  	  		
            " -probesize " . FF_PROBE_SIZE . 
            " -analyzeduration " . FF_ANALYZE_DUR . 
-           " -select_streams v:0 -show_entries stream=width,height " .
+           " -select_streams v:0 " .				// 只选视频流
+		   " -show_entries stream=width,height " .    
+		   " -fflags +nobuffer " .				// 对于直播流，应该禁用缓冲
 		   " -of default=noprint_wrappers=1 " .
            " " . escapeshellarg($url) . " 2>&1";
-    
+
     $startTime = microtime(true);
-    $res = shell_exec($cmd);
-    $duration = round(microtime(true) - $startTime, 2);
+    exec($cmd, $output, $returnCode);
+	$res = implode("\n", $output);
 
     $rawOutput = trim($res);
+	
+	if ($returnCode !== 0) {
+		$errorMsg = substr($rawOutput, 0, 200);
+        
+        // 区分不同的错误类型
+        if (stripos($rawOutput, 'resolve') !== false) {
+            logMsg("DNS解析失败: $url", "ERROR", 2);
+        } elseif (stripos($rawOutput, 'timed out') !== false) {
+            logMsg("连接超时: $url", "ERROR", 2);
+        } elseif (stripos($rawOutput, 'connection refused') !== false) {
+            logMsg("连接被拒绝: $url", "ERROR", 2);
+        } else {
+            logMsg("ffprobe失败[$returnCode]: $errorMsg", "ERROR", 2);
+        }
+		return 0;
+	}
+	
+    $duration = round(microtime(true) - $startTime, 2);
+
+
 
     // 3. 解析输出
     // 宿主机可能返回多行（如你测试看到的 height=720 出现两次）
@@ -913,6 +951,14 @@ $mh = curl_multi_init();
 // 1. 初始化：预填满并发池
 for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
     $c = array_shift($queue);
+    
+    // ============ 【新增】随机延迟 ============
+    if ($enableRandomDelay) {
+        $randomDelay = rand($randomDelayMin, $randomDelayMax) / 1000;  // 转换为秒
+        usleep($randomDelay * 1000000);  // 转换为微秒
+    }
+    // ==========================================
+    
     $ch = curl_init($c['url']);
     curl_setopt_array($ch, [
 		CURLOPT_RETURNTRANSFER => 1, 
@@ -933,6 +979,9 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
 }
 
 // 2. 滚动处理：跑完一个补一个
+// ============ 【新增】记录每个源的最后请求时间 ============
+$lastRequestTime = [];  // 格式: ['example.com' => 1234567890.123]
+$minInterval = 1;     // 同一源的最小请求间隔（秒）
 do {
     // 执行 curl 任务
     while (($execStatus = curl_multi_exec($mh, $running)) === CURLM_CALL_MULTI_PERFORM);
@@ -948,7 +997,7 @@ do {
         $time = curl_getinfo($ch, CURLINFO_TOTAL_TIME);
 		$curlErr = ($code == 0) ? " (" . curl_error($ch) . ")" : ""; // 获取具体的报错文本
 		
-        if ($code >= 200 && $code < 400 && $time > 0) {
+		if ($code >= 200 && $code < 400 && $time > 0 && $time < $testTimeout) {
 			// --- 【核心修改：注入物理分辨率】 ---
             // logMsg("正在物理探测分辨率: [{$c['tpl_name']}][源:#{$c['src_idx']}]", "INFO", 1);
             // $realRes = getRealResolution($c['url']);
@@ -971,7 +1020,13 @@ do {
 			logMsg("测速成功: [{$c['tpl_name']}][源:#{$c['src_idx']}]| 地址: $testUrl | 耗时: {$time}s", "TEST", 1);
 			$results[] = $c;
         } else {
-            $reason = ($time >= $testTimeout) ? "超时" : "状态码: $code";
+			if($code == 0)
+				$reason = ($time >= $testTimeout) ? "超时" : "状态码: $code";
+			elseif ($time >= $testTimeout) 
+				$reason = "超时 (>{$testTimeout}s)";
+			else 				
+				$reason = "HTTP " . $code;
+					
 			$testUrl = $c['url'] ?? "未知URL";
 			logMsg("测速跳过: [{$c['tpl_name']}][源:#{$c['src_idx']}] 原因: $reason | 地址: $testUrl", "ERROR", 1);
         }
@@ -983,6 +1038,30 @@ do {
 
         if (!empty($queue)) {
             $next = array_shift($queue);
+            
+            // ============ 【新增】检查该源的请求间隔 ============
+            $sourceHost = parse_url($next['url'], PHP_URL_HOST);
+            
+            if (isset($lastRequestTime[$sourceHost])) {
+                $timeSinceLastRequest = microtime(true) - $lastRequestTime[$sourceHost];
+                
+                if ($timeSinceLastRequest < $minInterval) {
+                    $sleepTime = $minInterval - $timeSinceLastRequest;
+                    logMsg("源[$sourceHost]请求间隔过短，等待 {$sleepTime}s", "INFO", 2);
+                    usleep($sleepTime * 1000000);
+                }
+            }
+            
+            $lastRequestTime[$sourceHost] = microtime(true);
+            // ======================================================
+            
+            // ============ 【新增】随机延迟 ============
+            if ($enableRandomDelay) {
+                $randomDelay = rand($randomDelayMin, $randomDelayMax) / 1000;
+                usleep($randomDelay * 1000000);
+            }
+            // ==========================================
+            
             $nch = curl_init($next['url']);
             curl_setopt_array($nch, [
                 CURLOPT_RETURNTRANSFER => 1, 
@@ -1034,16 +1113,19 @@ foreach ($tplLines as $tLine)
     usort($list, function($a, $b) {
         return $a['speed'] <=> $b['speed'];
     });
-    $candidates = array_slice($list, 0, $maxLinksPerChannel + 2);
+    $candidates = array_slice($list, 0, $maxLinksPerChannel + 3);
 
     // 2. 【方案A：延迟物理探测】仅对入选的候选者进行 ffprobe 探测
     $finalForChannel = [];
     foreach ($candidates as $item) {
-        logMsg("对最优线路执行物理探测: [{$name}] -> {$item['url']}", "INFO", 1);
-        
+        logMsg("对最优线路执行物理探测: [{$name}] 源[#{$item['src_idx']}] URL: " . substr($item['url'], 0, 80) . "...", "INFO", 1);
         // 执行 ffprobe 获取真实高度
 		$allLinesContext = $item['raw_block'] ?? '';
-        $resResult = getRealResolution($item['url'], $item['ua'], $allLinesContext);
+		$resResult = getRealResolution($item['url'], $item['ua'], $allLinesContext);
+		if ($resResult === false || $resResult === 0) {
+			logMsg("探测失败或无效，已跳过此线路", "ERROR", 2);
+			continue;
+		}
         
         if (is_array($resResult) && isset($resResult['width'], $resResult['height'])) 
 		{
@@ -1052,10 +1134,10 @@ foreach ($tplLines as $tLine)
             $resolution = $resResult['resolution'];
             
             // 过滤低分辨率（例如高度小于400的）
-            if($height <= 400) 
-			{
-                logMsg("探测成功但过滤: 分辨率={$resolution} | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
-            } 
+			if($height < MIN_RESOLUTION_HEIGHT) {
+				logMsg("探测成功但过滤: 分辨率={$resolution}，低于最小值" . MIN_RESOLUTION_HEIGHT . "P | 探测前测速耗时={$item['speed']}s", "SUCCESS", 2);
+				continue; 
+			}
 			else {
                 $item['real_width'] = $width;
                 $item['real_height'] = $height;
@@ -1135,7 +1217,7 @@ foreach ($tplLines as $tLine)
         }
 
         // 4. 组合成最终行：#EXTINF:-1 标签, 频道名称
-        $m3u[] = "#EXTINF:-1$tagStr," . $name;
+		$m3u[] = "#EXTINF:-1" . $tagStr . "," . $name;
         
         // 处理 KODIPROP 属性
         if (!empty($m['props'])) foreach ($m['props'] as $p) $m3u[] = $p;
