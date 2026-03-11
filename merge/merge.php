@@ -390,7 +390,8 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
 		   " -rw_timeout " . FF_TIMEOUT .           // 网络读写超时
 		   " -connect_timeout " . FF_CONNECT_TIMEOUT . 		// 连接超时
 		   " -tls_verify 0 " .                      // 强制跳过 TLS 证书校验
-		   " -allowed_extensions ALL " .            // 允许所有协议扩展，防止 tls pull 报错
+		   " -allowed_extensions ALL " .            // 允许所有协议扩展，防止 tls pull 报错  允许所有文件扩展名
+		   " -protocol_whitelist file,http,https,tcp,tls,rtsp,rtsps,hls " .  // 允许 HLS 协议
 		   " -headers " . escapeshellarg("Referer: " . $referer) . " " . // 补充伪造来源
 		   " -user_agent " . escapeshellarg($ua) . 
 		   " -v error -hide_banner " .  				// 只显示错误		
@@ -399,7 +400,11 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
            " -analyzeduration " . FF_ANALYZE_DUR . 
            " -select_streams v:0 " .				// 只选视频流
 		   " -show_entries stream=width,height " .    
-		   " -fflags +nobuffer " .				// 对于直播流，应该禁用缓冲
+		   " -fflags +nobuffer+discardcorrupt" .				// 对于直播流，应该禁用缓冲  丢弃损坏帧
+		   " -hls_live 1 " .
+		   " -hls_segment_ignore_expire 1 " .
+		   " -hls_segment_timeout 5000000 " .                     // ✅ 分段超时
+		   " -hls_segment_attempts 1 " .                          // ✅ 重试次数
 		   " -of default=noprint_wrappers=1 " .
            " " . escapeshellarg($url) . " 2>&1";
 
@@ -1023,7 +1028,7 @@ do {
 			if($code == 0)
 				$reason = ($time >= $testTimeout) ? "超时" : "状态码: $code";
 			elseif ($time >= $testTimeout) 
-				$reason = "超时 (>{$testTimeout}s)";
+				$reason = "超时 ({$time}s >{$testTimeout}s)";
 			else 				
 				$reason = "HTTP " . $code;
 					
