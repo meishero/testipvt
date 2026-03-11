@@ -401,12 +401,12 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
            " -select_streams v:0 " .				// 只选视频流
 		   " -show_entries stream=width,height " .    
 		   " -fflags +nobuffer+discardcorrupt" .				// 对于直播流，应该禁用缓冲  丢弃损坏帧
-		   " -hls_live 1 " .
-		   " -hls_segment_ignore_expire 1 " .
-		   " -hls_segment_timeout 5000000 " .                     // ✅ 分段超时
-		   " -hls_segment_attempts 1 " .                          // ✅ 重试次数
-		   " -of default=noprint_wrappers=1 " .
-           " " . escapeshellarg($url) . " 2>&1";
+		   //" -hls_live 1 " .
+		   //" -hls_segment_ignore_expire 1 " .
+		   //" -hls_segment_timeout 5000000 " .                     // ✅ 分段超时
+		   //" -hls_segment_attempts 1 " .                          // ✅ 重试次数
+		   //" -of default=noprint_wrappers=1 " .
+           " " . escapeshellarg($url) . " 2>&1 ";
 
     $startTime = microtime(true);
     exec($cmd, $output, $returnCode);
