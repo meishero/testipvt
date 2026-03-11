@@ -415,7 +415,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     $rawOutput = trim($res);
 	
 	if ($returnCode !== 0) {
-		$errorMsg = substr($rawOutput, 0, 200);
+		$errorMsg = substr($rawOutput, 0, 500);
         
         // 区分不同的错误类型
         if (stripos($rawOutput, 'resolve') !== false) {
@@ -468,7 +468,7 @@ function getRealResolution($url, $ua = 'okHttp/Mod-1.5.0.0', $allLines = '') {
     }
 
     // 5. 记录真正的错误（如 403/404）
-    logMsg("探测失败: " . $url. substr($rawOutput, 0, 50), "ERROR", 2);
+    logMsg("探测失败: " . $url. substr($rawOutput, 0, 500), "ERROR", 2);
     return 0;
 }
 
@@ -710,13 +710,16 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_TIMEOUT => 30,
-            CURLOPT_CONNECTTIMEOUT => 15,
+            CURLOPT_TIMEOUT => 90,
+            CURLOPT_CONNECTTIMEOUT => 30,
             CURLOPT_FOLLOWLOCATION => 1,
+			CURLOPT_MAXREDIRS => 5,             //  最多 5 次重定向
             CURLOPT_SSL_VERIFYPEER => 0,
             CURLOPT_SSL_VERIFYHOST => 0,
-            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
+            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_WHATEVER,  //自动选择 IPv4/IPv6
             CURLOPT_ENCODING => '',
+			CURLOPT_BUFFERSIZE => 65536,        //  增加缓冲区// 64KB 缓冲
+			CURLOPT_FAILONERROR => 1,           //  HTTP 错误时返回 false
             CURLOPT_USERAGENT => $sourceDefaultUA
         ]);
         $firstFetch = curl_exec($ch);
@@ -735,13 +738,16 @@ foreach ($sourceUrls as $srcIdx => $sUrl)
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_TIMEOUT => 30,          // 增加到 120 秒
-            CURLOPT_CONNECTTIMEOUT => 15,   // 连接超时 10 秒
+            CURLOPT_TIMEOUT => 90,
+            CURLOPT_CONNECTTIMEOUT => 30,
             CURLOPT_FOLLOWLOCATION => 1,
+			CURLOPT_MAXREDIRS => 5,             //  最多 5 次重定向
             CURLOPT_SSL_VERIFYPEER => 0,
             CURLOPT_SSL_VERIFYHOST => 0,
-            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4, // 强制 IPv4
-            CURLOPT_ENCODING => '',         // 处理 GZIP
+            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_WHATEVER,  //自动选择 IPv4/IPv6
+            CURLOPT_ENCODING => '',
+			CURLOPT_BUFFERSIZE => 65536,        //  增加缓冲区// 64KB 缓冲
+			CURLOPT_FAILONERROR => 1,           //  HTTP 错误时返回 false
             CURLOPT_USERAGENT => $sourceDefaultUA
         ]);
         $content = curl_exec($ch);
@@ -967,17 +973,23 @@ for ($i = 0; $i < $maxConcurrency && !empty($queue); $i++) {
     $ch = curl_init($c['url']);
     curl_setopt_array($ch, [
 		CURLOPT_RETURNTRANSFER => 1, 
+		CURLOPT_BINARYTRANSFER => 1,                           //  新增
 		CURLOPT_RANGE => '0-1', 
-		CURLOPT_TIMEOUT_MS => $testTimeout * 1000, 
-		CURLOPT_CONNECTTIMEOUT_MS => $testTimeout * 1000 *0.6, 
+		CURLOPT_TIMEOUT_MS => (int)($testTimeout * 1000),
+		CURLOPT_CONNECTTIMEOUT_MS => (int)($testTimeout * 500), 
 		CURLOPT_FOLLOWLOCATION => 1, 
 		CURLOPT_SSL_VERIFYPEER => 0, 
 		CURLOPT_SSL_VERIFYHOST => 0,
-		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
+		CURLOPT_IPRESOLVE => CURL_IPRESOLVE_WHATEVER,
 		CURLOPT_USERAGENT => $c['ua'],
 		// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
 		CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $c['url']),
 		CURLOPT_AUTOREFERER => true,
+		CURLOPT_MAXREDIRS => 5,                                   //  最多 5 次重定向
+		CURLOPT_FAILONERROR => 0,                                  //  HTTP 错误时返回 false
+		CURLOPT_ENCODING => '',    
+        CURLOPT_TCP_KEEPALIVE => 1,                           //  新增
+        CURLOPT_BUFFERSIZE => 8192,                            //  新增		
     ]);
     curl_multi_add_handle($mh, $ch);
     $activeHandles[(int)$ch] = $c;
@@ -1070,17 +1082,23 @@ do {
             $nch = curl_init($next['url']);
             curl_setopt_array($nch, [
                 CURLOPT_RETURNTRANSFER => 1, 
+				CURLOPT_BINARYTRANSFER => 1,                           //  新增
                 CURLOPT_RANGE => '0-1', 
-                CURLOPT_TIMEOUT_MS => $testTimeout * 1000, 
-				CURLOPT_CONNECTTIMEOUT_MS => $testTimeout * 1000 *0.6, 
+				CURLOPT_TIMEOUT_MS => (int)($testTimeout * 1000),
+				CURLOPT_CONNECTTIMEOUT_MS => (int)($testTimeout * 500), 
                 CURLOPT_FOLLOWLOCATION => 1, 
                 CURLOPT_SSL_VERIFYPEER => 0, 
 				CURLOPT_SSL_VERIFYHOST => 0,
-				CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
+				CURLOPT_IPRESOLVE => CURL_IPRESOLVE_WHATEVER,
                 CURLOPT_USERAGENT => $next['ua'],
 				// 模拟从源地址的根域访问，能骗过一部分简单的防盗链
 				CURLOPT_REFERER => preg_replace('/\/[^\/]*$/', '/', $next['url']),
 				CURLOPT_AUTOREFERER => true,
+				CURLOPT_MAXREDIRS => 5,                                   //  最多 5 次重定向
+				CURLOPT_FAILONERROR => 0,                                 //  HTTP 错误时返回 false
+				CURLOPT_ENCODING => '',             
+				CURLOPT_TCP_KEEPALIVE => 1,                           //  新增
+				CURLOPT_BUFFERSIZE => 8192,                            //  新增				
             ]);
             curl_multi_add_handle($mh, $nch);
             $activeHandles[(int)$nch] = $next;
