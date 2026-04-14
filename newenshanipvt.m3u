@@ -665,10 +665,6 @@ http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/快乐垂钓.png" group-title="体育·休闲",湖南快乐垂钓
 http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 
-#来自???
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png" group-title="体育·休闲",河南武术世界
-http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育1" tvg-logo="https://upload.112114.xyz/logo/咪咕体育4K.png" group-title="体育·休闲",咪咕体育4k-1
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
@@ -710,6 +706,7 @@ https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2578/playlist.m3u8?to
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2869/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/DAZN2台湾.png" group-title="体育·休闲",DAZN2台湾
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2870/playlist.m3u8?token=meishero
+
 
 
 #来自JULI
@@ -1012,14 +1009,13 @@ http://111.20.33.93/PLTV/88888893/224/3221226970/index.m3u8
 
 
 
-#来自陕西移动银河
-EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000011651&amp;livemode=1&amp;stbId=3
-
 #来自???
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/直播中国.png" group-title="未分类",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
+#来自陕西移动银河
+EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo=""https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/纯享4K.png" group-title="未分类",纯享4K
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&amp;Contentid=1000000004000011651&amp;livemode=1&amp;stbId=3
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",生活时尚
@@ -1044,8 +1040,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-
-#来自陕西移动银河
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中国天气.png" group-title="未分类",中国天气
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/上海新闻综合.png" group-title="未分类",上海新闻综合
