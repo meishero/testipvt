@@ -295,7 +295,55 @@ http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
 http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
 
+#来自TRAMS
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="港·澳·海外",凤凰香港
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1345/playlist.m3u8?token=meishero
+
+#来自???
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
+#来自TRAMS
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/60/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/61/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1939/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2831/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" tvg-name="iNews 互動新聞台" group-title="香港",iNews 互動新聞台
+##https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1619/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Plus.png" group-title="港·澳·海外",TVBPLUS
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1615/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1617/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1820/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1823/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2230/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1825/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2469/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" tvg-name="TVB Asia" group-title="香港",TVB Asia
+##https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2729/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB娱乐新闻台.png" group-title="港·澳·海外",TVB娱乐新闻
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2730/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo=http://content.stream-link.org/images/tvb_classic.png" group-title="港·澳·海外",TVB千禧经典台
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2731/playlist.m3u8?token=meishero
+
 #来自JULI
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK33.png" group-title="港·澳·海外",RTHK33
+https://pixman.passwdwork.cc.cd/proxy/0fdfa04b92f5c594.m3u8
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港·澳·海外",PopC
+https://pixman.passwdwork.cc.cd/proxy/103718b37d47a623.m3u8
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76财经.png" group-title="港·澳·海外",HOY76财经
+https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
 https://pixman.passwdwork.cc.cd/proxy/57f2ebcfe2785671.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB新闻台.png" group-title="港·澳·海外",TVB無綫新聞台
@@ -308,54 +356,6 @@ https://pixman.passwdwork.cc.cd/proxy/eec374cc1e8d1626.m3u8
 https://pixman.passwdwork.cc.cd/proxy/74a1f88bb26edd96.m3u8
 
 #来自???
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV32/stream5/streamPlaylist.m3u8
-
-#来自JULI
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK33.png" group-title="港·澳·海外",RTHK33
-https://pixman.passwdwork.cc.cd/proxy/0fdfa04b92f5c594.m3u8
-#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港·澳·海外",PopC
-https://pixman.passwdwork.cc.cd/proxy/103718b37d47a623.m3u8
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76财经.png" group-title="港·澳·海外",HOY76财经
-https://cdn11.163189.xyz/163189/2c86601a7180416e
-
-#来自TRAMS
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1939/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2831/playlist.m3u8?token=meishero
-###EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" tvg-name="iNews 互動新聞台" group-title="香港",iNews 互動新聞台
-##https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1619/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Plus.png" group-title="港·澳·海外",TVBPLUS
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1615/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1617/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="港·澳·海外",凤凰香港
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1345/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="无线财经台" tvg-name="无线财经台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB无线财经台.png" group-title="港·澳·海外",TVB无线财经
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1820/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1823/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1825/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2230/playlist.m3u8?token=meishero
-###EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" tvg-name="TVB Asia" group-title="香港",TVB Asia
-##https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2729/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/60/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/61/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB娱乐新闻台.png" group-title="港·澳·海外",TVB娱乐新闻
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2730/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo=http://content.stream-link.org/images/tvb_classic.png" group-title="港·澳·海外",TVB千禧经典台
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2731/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2469/playlist.m3u8?token=meishero
-
-#来自???
 #EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://upload.112114.xyz/logo/Korea TV.png" group-title="港·澳·海外",Korea TV(韩国)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Gugak TV" tvg-name="Gugak TV" tvg-logo="https://upload.112114.xyz/logo/Gugak TV.png" group-title="港·澳·海外",Gugak TV(韩国)
@@ -364,17 +364,15 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
 #来自TRAMS
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台灣",中天新聞
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1923/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS新闻.png" group-title="台灣",TVBS新聞
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/738/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台视新闻.png" group-title="台灣",台视新闻
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2502/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻.png" group-title="台灣",東森新聞
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/544/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="东森财经台" tvg-name="东森财经台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森财经.png" group-title="台灣",東森財經
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/761/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中天新闻.png" group-title="台灣",中天新聞
-https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1923/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/非凡新聞.png" group-title="台灣",非凡新聞
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/非凡新闻.png" group-title="台灣",非凡新聞
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/575/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视新闻.png" group-title="台灣",民視新聞
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/746/playlist.m3u8?token=meishero
@@ -382,8 +380,10 @@ https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/746/playlist.m3u8?tok
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2501/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视新闻.png" group-title="台灣",中視新聞
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1989/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/年代新闻.png" group-title="台灣",年代新闻
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/年代新闻.png" group-title="台灣",年代新聞
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/825/playlist.m3u8?token=meishero
+#EXTINF:-1 tvg-id="东森财经台" tvg-name="东森财经台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森财经.png" group-title="台灣",東森財經
+https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/761/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS欢乐.png" group-title="台灣",TVBS歡樂
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1936/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/TVBS.png" group-title="台灣",TVBS
@@ -408,13 +408,13 @@ https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2033/playlist.m3u8?to
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2032/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/公视.png" group-title="台灣",公视
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/530/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大第一台.png" group-title="台灣",八大第一
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大第一.png" group-title="台灣",八大第一
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/752/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大综合.png" group-title="台灣",八大综合
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/754/playlist.m3u8?token=meishero
 ###EXTINF:-1 tvg-id="八大戏剧 GTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png" tvg-name="八大戏剧 GTV Drama" group-title="台灣",八大戏剧 GTV Drama
 ##https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/753/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大娱乐台.png" group-title="台灣",八大娱乐
+#EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大娱乐.png" group-title="台灣",八大娱乐
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/110/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾"  tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立台湾.png" group-title="台灣",三立台湾
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/543/playlist.m3u8?token=meishero
@@ -604,7 +604,7 @@ https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 https://cdn12.178.indevs.in/163189/a643783ec587540e
 #EXTINF:-1 tvg-id="AMC电影台" tvg-name="AMC电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/AMC电影台.png" group-title="电影·娱乐",AMC电影台
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/cinemaworld.png" group-title="电影·娱乐",CinemaWorld
+#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CinemaWorld(台湾).png" group-title="电影·娱乐",CinemaWorld(台湾)
 https://cdn12.178.indevs.in/163189/6086cfe7a9756110
 #EXTINF:-1 tvg-id="My Cinema Europe" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/我的欧洲电影.png" group-title="电影·娱乐",My Cinema Europe我的歐洲電影
 https://cdn12.178.indevs.in/163189/5bda99f1c049edef
@@ -626,7 +626,7 @@ https://pixman.passwdwork.cc.cd/proxy/a7de9e9ba71250e9.m3u8
 https://pixman.passwdwork.cc.cd/proxy/475b00abccfc3e16.m3u8
 
 #来自TRAMS
-#EXTINF:-1 tvg-id="美亚电影台湾" tvg-name="美亚电影台湾" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/美亚电影台湾.png" group-title="电影·娱乐",美亚电影台湾
+#EXTINF:-1 tvg-id="美亚电影台湾" tvg-name="美亚电影台湾" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/美亚电影台湾.png" group-title="电影·娱乐",美亚电影台湾
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2099/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Cinemax(台湾).png" group-title="电影·娱乐",Cinemax(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/496/playlist.m3u8?token=meishero
@@ -642,7 +642,7 @@ https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2079/playlist.m3u8?to
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/812/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙祥时代.png" group-title="电影·娱乐",龙祥时代
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2024/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼影视AXN台湾.png" group-title="电影·娱乐",索尼影视AXN台湾
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼影视AXN(台湾).png" group-title="电影·娱乐",索尼影视AXN(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/906/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HBOHD(台湾).png" group-title="电影·娱乐",HBOHD(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/898/playlist.m3u8?token=meishero
@@ -650,7 +650,7 @@ https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/898/playlist.m3u8?tok
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1207/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="HBO_Signature" tvg-name="HBO_Signature" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HBO原创巨献(台湾).png" group-title="电影·娱乐",HBO原创巨献(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2868/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/好莱坞电影台.png" group-title="电影·娱乐",好萊塢電影台(台湾)
+#EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/好莱坞电影台.png" group-title="电影·娱乐",好莱坞电影台
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/278/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森电影.png" group-title="电影·娱乐",东森电影
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/924/playlist.m3u8?token=meishero
@@ -694,7 +694,7 @@ https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2084/playlist.m3u8?to
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2085/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯网球.png" group-title="体育·休闲",博斯网球
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2086/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯无限.png" group-title="体育·休闲",博斯无限
+#EXTINF:-1 tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯无限1.png" group-title="体育·休闲",博斯无限
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2087/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达体育1台.png" group-title="体育·休闲",爱尔达体育1台
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2871/playlist.m3u8?token=meishero
@@ -762,25 +762,25 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 
 #来自JULI
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(中文).png" group-title="教育·少儿·动画",DreamWorks 夢工廠動畫
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(台湾).png" group-title="教育·少儿·动画",DreamWorks夢工廠動畫
 https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 #EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选动漫.png" group-title="教育·少儿·动画",精選動漫台
 https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 
 #来自TRAMS
-#EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/探索频道(台湾)" group-title="教育·少儿·动画",探索频道(台湾)
+#EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/探索频道(台湾).png" group-title="教育·少儿·动画",探索频道(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2878/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天卡通.png" group-title="教育·少儿·动画",靖天卡通
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1585/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(中文).png" group-title="教育·少儿·动画",尼克少兒
+#EXTINF:-1 tvg-id="尼克少儿" tvg-name="尼克少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克少儿(台湾).png" group-title="教育·少儿·动画",尼克少儿(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1986/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="尼克动画" tvg-name="尼克动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(中文).png" group-title="教育·少儿·动画",尼克動畫
+#EXTINF:-1 tvg-id="尼克动画" tvg-name="尼克动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/尼克动画(台湾).png" group-title="教育·少儿·动画",尼克动画(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/1985/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png" group-title="教育·少儿·动画",东森幼幼
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/969/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="教育·少儿·动画",MOMO親子台
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/241/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png" group-title="教育·少儿·动画",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax(台湾).png" group-title="教育·少儿·动画",索尼动画Animax(台湾)
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2291/playlist.m3u8?token=meishero
 #EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="教育·少儿·动画",MiaoMi
 https://ocqbpclvzais.ap-northeast-1.clawcloudrun.com/trams/2283/playlist.m3u8?token=meishero
