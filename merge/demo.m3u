@@ -169,7 +169,6 @@
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半岛电视台英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛电视台英语.png" group-title="港·澳·海外",半島電視台英語頻道
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="港·澳·海外",France 24
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="港·澳·海外",DW
-#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHKWORLDJAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="港·澳·海外",NHK World-Japan
 #EXTINF:-1 tvg-id="SUPERSPORTS" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="港·澳·海外",SUPER Sports
 #EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="MYTVSUPER直播足球3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="港·澳·海外",myTV SUPER直播足球3台
 #EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="MYTVSUPER直播足球4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="港·澳·海外",myTV SUPER直播足球4台
@@ -507,6 +506,8 @@
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="剧场·综艺",最强综艺趴
 #EXTINF:-1 tvg-id="多彩文体4K" tvg-name="多彩文体4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/多彩文体4K.png" group-title="剧场·综艺",多彩文体4K
 #EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/多彩文体4K.png" group-title="剧场·综艺",SiTV多彩文体
+#EXTINF:-1 tvg-id="泰语剧场" tvg-name="NEWTV泰语剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV泰语剧场.png" group-title="剧场·综艺",NewTV泰语剧场
+#EXTINF:-1 tvg-id="大家剧场" tvg-name="NEWTV大家剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV大家剧场.png" group-title="剧场·综艺",NewTV大家剧场
 #EXTINF:-1 tvg-id="超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png" group-title="剧场·综艺",NewTV爱情喜剧
 #EXTINF:-1 tvg-id="超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电视剧.png" group-title="剧场·综艺",NewTV超级电视剧
@@ -701,6 +702,9 @@
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/金色学堂.png" group-title="未分类",SiTV金色学堂
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/生活时尚.png" group-title="未分类",SiTV生活时尚
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/乐游频道.png" group-title="未分类",SiTV乐游
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/汽摩.png" group-title="未分类",重庆汽摩
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/河南梨园.png" group-title="未分类",河南梨园
+#EXTINF:-1 tvg-id="文化宝库" tvg-name="文化宝库" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/文化宝库.png" group-title="未分类",河南文化宝库
 #EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="未分类",爱奇艺
 #EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="https://upload.112114.xyz/logo/咪视界4K.png" group-title="未分类",咪视界4K
