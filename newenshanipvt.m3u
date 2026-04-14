@@ -719,11 +719,11 @@ http://101.35.240.114:88/live.php?id=重温经典
 #来自陕西移动银河
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/多彩文体4K.png" group-title="剧场·综艺",SiTV多彩文体
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/多彩文体4K.png" group-title="剧场·综艺",SiTV多彩文体
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/欢笑剧场4K.png" group-title="剧场·综艺",SiTV欢笑剧场
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/多彩文体4K.png" group-title="剧场·综艺",SiTV多彩文体
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
 
 
