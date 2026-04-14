@@ -885,16 +885,12 @@ http://43.251.226.110:8880/play/2205.m3u8
 http://43.251.226.110:8880/play/1790.m3u8
 #EXTINF:-1 tvg-id="金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV金牌综艺.png" group-title="剧场·综艺",NewTV金牌综艺
 http://43.251.226.110:8880/play/1811.m3u8
-#EXTINF:-1 tvg-id="精彩轮播" tvg-name="NEWTV精彩轮播" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精彩轮播.png" group-title="剧场·综艺",NewTV精彩轮播
 #EXTINF:-1 tvg-id="精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品大剧.png" group-title="剧场·综艺",NewTV精品大剧
 http://43.251.226.110:8880/play/1801.m3u8
 #EXTINF:-1 tvg-id="精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品纪录.png" group-title="剧场·综艺",NewTV精品纪录
 http://43.251.226.110:8880/play/1802.m3u8
 #EXTINF:-1 tvg-id="精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png" group-title="剧场·综艺",NewTV精品体育
 http://43.251.226.110:8880/play/1800.m3u8
-#EXTINF:-1 tvg-id="精品剧场" tvg-name="NEWTV精品剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品剧场.png" group-title="剧场·综艺",NewTV精品剧场
-#EXTINF:-1 tvg-id="精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品综合.png" group-title="剧场·综艺",NewTV精品综合
-#EXTINF:-1 tvg-id="东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV东北热剧.png" group-title="剧场·综艺",NewTV东北热剧
 #EXTINF:-1 tvg-id="海外剧场" tvg-name="NEWTV海外剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV海外剧场.png" group-title="剧场·综艺",NewTV海外剧场
 http://43.251.226.110:8880/play/1796.m3u8
 #EXTINF:-1 tvg-id="军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军旅剧场.png" group-title="剧场·综艺",NewTV军旅剧场
@@ -903,8 +899,6 @@ http://43.251.226.110:8880/play/2204.m3u8
 http://43.251.226.110:8880/play/1786.m3u8
 #EXTINF:-1 tvg-id="军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军事评论.png" group-title="剧场·综艺",NewTV军事评论
 http://43.251.226.110:8880/play/1785.m3u8
-#EXTINF:-1 tvg-id="热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV热播精选.png" group-title="剧场·综艺",NewTV热播精选
-#EXTINF:-1 tvg-id="明星大片" tvg-name="NEWTV明星大片" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV明星大片.png" group-title="剧场·综艺",NewTV明星大片
 #EXTINF:-1 tvg-id="武博世界" tvg-name="NEWTV武博世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV武博世界.png" group-title="剧场·综艺",NewTV武博世界
 http://43.251.226.110:8880/play/1795.m3u8
 #EXTINF:-1 tvg-id="炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV炫舞未来.png" group-title="剧场·综艺",NewTV炫舞未来
@@ -1257,6 +1251,8 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?ch
 #来自abc
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中国天气.png" group-title="未分类",中国天气
 http://43.251.226.110:8880/play/1915.m3u8
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/新视觉.png" group-title="未分类",SiTV新视觉
+http://43.251.226.110:8880/play/1930.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/东方财经.png" group-title="未分类",东方财经
 http://43.251.226.110:8880/play/1945.m3u8
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/法治天地.png" group-title="未分类",法治天地
