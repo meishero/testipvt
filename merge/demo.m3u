@@ -195,6 +195,7 @@
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.112114.xyz/logo/八度空间.png" group-title="港·澳·海外",八度空间(马来西亚)
 #EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://upload.112114.xyz/logo/Korea TV.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="港·澳·海外",Korea TV(韩国)
 #EXTINF:-1 tvg-id="Gugak TV" tvg-name="Gugak TV" tvg-logo="https://upload.112114.xyz/logo/Gugak TV.png" origin-url="https://ghfast.top/https://raw.githubusercontent.com/meishero/testipvt/main/vtpiyidong.m3u" group-title="港·澳·海外",Gugak TV(韩国)
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="港·澳·海外",爱奇艺(马来西亚)
 
 
 
@@ -707,7 +708,6 @@
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/河南梨园.png" group-title="未分类",河南梨园
 #EXTINF:-1 tvg-id="文化宝库" tvg-name="文化宝库" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/文化宝库.png" group-title="未分类",河南文化宝库
 #EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://static.tv.darwinchow.com/logo/收藏天下.png" group-title="未分类",收藏天下
-#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://upload.112114.xyz/logo/爱奇艺.png" group-title="未分类",爱奇艺
 #EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="https://upload.112114.xyz/logo/咪视界4K.png" group-title="未分类",咪视界4K
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 #EXTINF:-1 tvg-id="BesTV LIVE" tvg-name="BesTV LIVE" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/BesTVlive.png" group-title="未分类",BesTV LIVE
