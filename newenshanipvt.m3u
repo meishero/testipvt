@@ -639,7 +639,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 
 #来自陕西移动银河
-#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
+#EXTINF:-1 tvg-id="超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/黑莓电影.png" group-title="电影·娱乐",黑莓电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
@@ -693,9 +693,9 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000006/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 
 ###来自abc
-###EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
+###EXTINF:-1 tvg-id="超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
 ##http://43.251.226.110:8880/play/1805.m3u8
-###EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
+###EXTINF:-1 tvg-id="超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png" group-title="电影·娱乐",NewTV超级电影
 ##http://43.251.226.110:8880/play/1806.m3u8
 ###EXTINF:-1 tvg-id="动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV动作电影.png" group-title="电影·娱乐",NewTV动作电影
 ##http://43.251.226.110:8880/play/1788.m3u8
@@ -862,7 +862,7 @@ http://101.35.240.114:88/live.php?id=重温经典
 ##http://43.251.226.110:8880/play/1916.m3u8
 
 #来自陕西移动银河
-#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png" group-title="剧场·综艺",NewTV超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/多彩文体4K.png" group-title="剧场·综艺",SiTV多彩文体
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
@@ -1258,7 +1258,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/main/上海新闻综合.png" group-title="未分类",上海新闻综合
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品萌宠.png" group-title="未分类",NewTV精品萌宠
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品萌宠.png" group-title="未分类",NewTV精品萌宠
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪视界.png" group-title="未分类",咪视界
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
