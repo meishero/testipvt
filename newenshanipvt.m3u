@@ -373,7 +373,7 @@ https://o11.163189.xyz/stream/tvb/fct/
 https://cdn10.163189.xyz/163189/fct/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
 https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黄金华剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 黄金翡翠台.png" group-title="港·澳·海外",黃金華劇台
+#EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 黄金翡翠台.png" group-title="港·澳·海外",黃金華劇台
 https://cdn10.163189.xyz/163189/hjhjt/
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB星河台.png" group-title="港·澳·海外",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
@@ -863,7 +863,7 @@ https://cdn12.178.indevs.in/163189/a643783ec587540e
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CinemaWorld(台湾).png" group-title="台灣",CinemaWorld(台湾)
 https://cdn12.178.indevs.in/163189/6086cfe7a9756110
-#EXTINF:-1 tvg-id="My Cinema Europe" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/我的欧洲电影.png" group-title="台灣",My Cinema Europe我的歐洲電影
+#EXTINF:-1 tvg-id="My Cinema Europe 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/我的欧洲电影.png" group-title="台灣",My Cinema Europe我的歐洲電影
 https://cdn12.178.indevs.in/163189/5bda99f1c049edef
 #EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="台灣",經典電影台
 https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
