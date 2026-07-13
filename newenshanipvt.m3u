@@ -7,6 +7,8 @@
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" group-title="央视",CCTV-4K
 http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV4K.png" group-title="央视",CCTV-4K
+http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV1.png" group-title="央视",CCTV-1 综合
 http://111.20.33.93/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -75,8 +77,6 @@ http://111.20.33.93/PLTV/88888888/224/3221225785/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV17.png" group-title="央视",CCTV-17 农业农村
@@ -307,8 +307,6 @@ http://192.168.33.93:19890/trams/61/playlist.m3u8?token=meishero
 #来自JULI
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",翡翠台4K
 https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-id="CCTV13港澳" tvg-name="CCTV13" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/vircloud/TVLogo/main/CCTV13.png" origin-url="https://php.946985.filegear-sg.me/jackTV.m3u" group-title="港·澳·海外",CCTV13港澳
-https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
@@ -365,8 +363,6 @@ https://cdn.qd.je/163189/hoy78
 https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
 https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK33.png" group-title="港·澳·海外",RTHK33
-https://cdn.qd.je/163189/cctv1
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
