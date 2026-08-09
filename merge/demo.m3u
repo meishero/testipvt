@@ -404,6 +404,13 @@
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华日韩.png" group-title="台灣",龙华日韩
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华洋片.png" group-title="台灣",龙华洋片
 #EXTINF:-1 tvg-id="美亚电影台湾" tvg-name="美亚电影台湾" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/美亚电影台湾.png" group-title="台灣",美亚电影台湾
+#EXTINF:-1 tvg-id="MyVideo-sport1" tvg-name="MyVideo-sport1" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107234/logoNobgWeb/202607241404142610.png",MyVideo體育台
+#EXTINF:-1 tvg-id="MyVideo-sport2" tvg-name="MyVideo-sport2" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607221019208091/logoNobgWeb/202607241419237376.png",統一7-ELEVEn獅
+#EXTINF:-1 tvg-id="富邦悍將" tvg-name="富邦悍將" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607171558031376/logoNobgWeb/202607241406035859.png",富邦悍將
+#EXTINF:-1 tvg-id="cna" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438642/logoNobgWeb/202607241503087327.png",亞洲新聞台
+#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107558/logoNobgWeb/202607241223107860.png",CBeebies
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107506/logoNobgWeb/202607241156363918.png",BBC Earth
+#EXTINF:-1 tvg-id="bbc-lifestyle" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107537/logoNobgWeb/202607241154519946.png",BBC Lifestyle
 
 
 
