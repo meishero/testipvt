@@ -473,39 +473,39 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Gugak TV" tvg-name="Gugak TV" tvg-logo="https://upload.112114.xyz/logo/Gugak TV.png" group-title="港·澳·海外",Gugak TV(韩国)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
-#来自TRAMS
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="港·澳·海外",凤凰香港
-http://192.168.33.93:19890/trams/1345/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
-http://192.168.33.93:19890/trams/60/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
-http://192.168.33.93:19890/trams/61/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-http://192.168.33.93:19890/trams/1939/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
-http://192.168.33.93:19890/trams/2831/playlist.m3u8?token=meishero
-###EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" tvg-name="iNews 互動新聞台" group-title="香港",iNews 互動新聞台
-##http://192.168.33.93:19890/trams/1619/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Plus.png" group-title="港·澳·海外",TVBPLUS
-http://192.168.33.93:19890/trams/1615/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
-http://192.168.33.93:19890/trams/1617/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯
-http://192.168.33.93:19890/trams/1820/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
-http://192.168.33.93:19890/trams/1823/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
-http://192.168.33.93:19890/trams/2230/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
-http://192.168.33.93:19890/trams/1825/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
-http://192.168.33.93:19890/trams/2469/playlist.m3u8?token=meishero
-###EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" tvg-name="TVB Asia" group-title="香港",TVB Asia
-##http://192.168.33.93:19890/trams/2729/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB娱乐新闻台.png" group-title="港·澳·海外",TVB娱乐新闻
-http://192.168.33.93:19890/trams/2730/playlist.m3u8?token=meishero
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo=http://content.stream-link.org/images/tvb_classic.png" group-title="港·澳·海外",TVB千禧经典台
-http://192.168.33.93:19890/trams/2731/playlist.m3u8?token=meishero
+###来自TRAMS
+###EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰香港.png" group-title="港·澳·海外",凤凰香港
+##http://192.168.33.93:19890/trams/1345/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰中文.png" group-title="港·澳·海外",凤凰中文
+##http://192.168.33.93:19890/trams/60/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/凤凰资讯.png" group-title="港·澳·海外",凤凰资讯
+##http://192.168.33.93:19890/trams/61/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
+##http://192.168.33.93:19890/trams/1939/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB翡翠台.png" group-title="港·澳·海外",TVB翡翠台
+##http://192.168.33.93:19890/trams/2831/playlist.m3u8?token=meishero
+#####EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" tvg-name="iNews 互動新聞台" group-title="香港",iNews 互動新聞台
+####http://192.168.33.93:19890/trams/1619/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB%20Plus.png" group-title="港·澳·海外",TVBPLUS
+##http://192.168.33.93:19890/trams/1615/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB明珠台.png" group-title="港·澳·海外",TVB明珠台
+##http://192.168.33.93:19890/trams/1617/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png" group-title="港·澳·海外",HOY78资讯
+##http://192.168.33.93:19890/trams/1820/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK31.png" group-title="港·澳·海外",RTHK31
+##http://192.168.33.93:19890/trams/1823/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/RTHK32.png" group-title="港·澳·海外",RTHK32
+##http://192.168.33.93:19890/trams/2230/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV.png" group-title="港·澳·海外",VIUTV
+##http://192.168.33.93:19890/trams/1825/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/ViuTV6.png" group-title="港·澳·海外",VIUTV6
+##http://192.168.33.93:19890/trams/2469/playlist.m3u8?token=meishero
+#####EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" tvg-name="TVB Asia" group-title="香港",TVB Asia
+####http://192.168.33.93:19890/trams/2729/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/TVB娱乐新闻台.png" group-title="港·澳·海外",TVB娱乐新闻
+##http://192.168.33.93:19890/trams/2730/playlist.m3u8?token=meishero
+###EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo=http://content.stream-link.org/images/tvb_classic.png" group-title="港·澳·海外",TVB千禧经典台
+##http://192.168.33.93:19890/trams/2731/playlist.m3u8?token=meishero
 
 
 
