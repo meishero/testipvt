@@ -318,7 +318,8 @@
 #EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/采昌影剧.png" group-title="台灣",采昌影剧台
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天映画.png" group-title="台灣",靖天映畫
 #EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天电影.png" group-title="台灣",靖天電影台
-#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位纪实.png" group-title="台灣",影迷数位电影台
+#EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位纪实.png" group-title="台灣",影迷數位紀實台
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/影迷数位电影.png" group-title="台灣",影迷数位电影台
 #EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/AMC电影台.png" group-title="台灣",amc電影台
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CinemaWorld(台湾).png" group-title="台灣",CinemaWorld(台湾)
 #EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱2台.png" group-title="台灣",大愛二台
@@ -375,7 +376,7 @@
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MTV台湾.png" group-title="台灣",MTV台湾
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/好莱坞电影台.png" group-title="台灣",好萊塢電影台
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/纬来电影.png" group-title="台灣",纬来电影
-#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视影剧.png" group-title="台灣",民视影剧
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视影剧.png" group-title="台灣",民視影劇台
 #EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼影视AXN(台湾).png" group-title="台灣",索尼影视AXN(台湾)
 #EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HBOHD(台湾).png" group-title="台灣",HBOHD(台湾)
 #EXTINF:-1 tvg-id="HBO_Signature" tvg-name="HBO_Signature" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/HBO原创巨献(台湾).png" group-title="台灣",HBO原创巨献(台湾)
@@ -404,13 +405,13 @@
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华日韩.png" group-title="台灣",龙华日韩
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/龙华洋片.png" group-title="台灣",龙华洋片
 #EXTINF:-1 tvg-id="美亚电影台湾" tvg-name="美亚电影台湾" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/美亚电影台湾.png" group-title="台灣",美亚电影台湾
-#EXTINF:-1 tvg-id="MyVideo-sport1" tvg-name="MyVideo-sport1" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107234/logoNobgWeb/202607241404142610.png",MyVideo體育台
-#EXTINF:-1 tvg-id="MyVideo-sport2" tvg-name="MyVideo-sport2" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607221019208091/logoNobgWeb/202607241419237376.png",統一7-ELEVEn獅
-#EXTINF:-1 tvg-id="富邦悍將" tvg-name="富邦悍將" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607171558031376/logoNobgWeb/202607241406035859.png",富邦悍將
-#EXTINF:-1 tvg-id="cna" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438642/logoNobgWeb/202607241503087327.png",亞洲新聞台
-#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107558/logoNobgWeb/202607241223107860.png",CBeebies
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107506/logoNobgWeb/202607241156363918.png",BBC Earth
-#EXTINF:-1 tvg-id="bbc-lifestyle" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107537/logoNobgWeb/202607241154519946.png",BBC Lifestyle
+#EXTINF:-1 tvg-id="MyVideo-sport1" tvg-name="MyVideo-sport1" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107234/logoNobgWeb/202607241404142610.png" group-title="台灣",MyVideo體育台
+#EXTINF:-1 tvg-id="MyVideo-sport2" tvg-name="MyVideo-sport2" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607221019208091/logoNobgWeb/202607241419237376.png" group-title="台灣",統一7-ELEVEn獅
+#EXTINF:-1 tvg-id="富邦悍將" tvg-name="富邦悍將" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607171558031376/logoNobgWeb/202607241406035859.png" group-title="台灣",富邦悍將
+#EXTINF:-1 tvg-id="cna" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438642/logoNobgWeb/202607241503087327.png" group-title="台灣",亞洲新聞台
+#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107558/logoNobgWeb/202607241223107860.png" group-title="台灣",CBeebies
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107506/logoNobgWeb/202607241156363918.png" group-title="台灣",BBC Earth
+#EXTINF:-1 tvg-id="bbc-lifestyle" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107537/logoNobgWeb/202607241154519946.png" group-title="台灣",BBC Lifestyle
 
 
 
