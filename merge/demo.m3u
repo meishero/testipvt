@@ -232,7 +232,7 @@
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视台湾.png" group-title="台灣",民視台灣台
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
+#EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/华视.png" group-title="台灣",華視
 #EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立综合.png" group-title="台灣",三立綜合台
@@ -409,9 +409,10 @@
 #EXTINF:-1 tvg-id="MyVideo-sport2" tvg-name="MyVideo-sport2" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607221019208091/logoNobgWeb/202607241419237376.png" group-title="台灣",統一7-ELEVEn獅
 #EXTINF:-1 tvg-id="富邦悍將" tvg-name="富邦悍將" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607171558031376/logoNobgWeb/202607241406035859.png" group-title="台灣",富邦悍將
 #EXTINF:-1 tvg-id="cna" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438642/logoNobgWeb/202607241503087327.png" group-title="台灣",亞洲新聞台
-#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107558/logoNobgWeb/202607241223107860.png" group-title="台灣",CBeebies
 #EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107506/logoNobgWeb/202607241156363918.png" group-title="台灣",BBC Earth
 #EXTINF:-1 tvg-id="bbc-lifestyle" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107537/logoNobgWeb/202607241154519946.png" group-title="台灣",BBC Lifestyle
+#EXTINF:-1 tvg-id="OUTtv" tvg-name="OUTtv" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png" group-title="台灣",OUTtv
+#EXTINF:-1 tvg-id="wedotv Movies" tvg-name="wedotv Movies" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png" group-title="台灣",wedotv Movies
 
 
 

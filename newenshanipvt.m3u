@@ -509,14 +509,14 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 
 
-#来自4gtv.cnlive
+#来自http://4gtv.cnlive.club/4gtv.m3u
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
 http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784703677650
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视台湾.png" group-title="台灣",民視台灣台
 http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784703677650
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
 http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784703677650
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
+#EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
 http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784703677650
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
 http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784703677650
@@ -621,14 +621,14 @@ http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1784703677650
 #EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="台灣",精選動漫台
 http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1784703677650
 
-#来自4g.158
+#来自http://4gtv.158.qzz.io/4gtv.m3u 
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
 https://4g.158.qzz.io/163189/msdyt
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视台湾.png" group-title="台灣",民視台灣台
 https://4g.158.qzz.io/163189/mstwt
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
 https://4g.158.qzz.io/163189/ms
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
+#EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
 https://4g.158.qzz.io/163189/dads
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
 https://4g.158.qzz.io/163189/zs
@@ -736,7 +736,7 @@ https://4g.158.qzz.io/163189/jxdmt
 ##https://4g.158.qzz.io/163189/kjhj
 ###EXTINF:-1 tvg-id="懷舊經典電影-FastTV飛速看" tvg-name="懷舊經典電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live008.png" group-title="台灣",懷舊經典電影-FastTV飛速看
 ##https://4g.158.qzz.io/163189/hjjddy
-###EXTINF:-1 tvg-id="選華語電影-FastTV飛速看" tvg-name="精選華語電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live009.png" group-title="台灣",精選華語電影-FastTV飛速看
+###EXTINF:-1 tvg-id="精選華語電影-FastTV飛速看" tvg-name="精選華語電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live009.png" group-title="台灣",精選華語電影-FastTV飛速看
 ##https://4g.158.qzz.io/163189/jxhydy
 ###EXTINF:-1 tvg-id="國外電影精選-FastTV飛速看" tvg-name="國外電影精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live021.png" group-title="台灣",國外電影精選-FastTV飛速看
 ##https://4g.158.qzz.io/163189/gwdyjx
@@ -759,7 +759,7 @@ https://4g.158.qzz.io/163189/jxdmt
 ###EXTINF:-1 tvg-id="東離劍遊紀-FastTV飛速看" tvg-name="東離劍遊紀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(PILI).png" group-title="台灣",東離劍遊紀-FastTV飛速看
 ##https://4g.158.qzz.io/163189/dljyj
 
-#来自ha.msbot
+#来自https://ha.msbot.dpdns.org/4gtv_api.php
 ###EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
 ##https://ha.msbot.dpdns.org/4gtv_api.php?id=1
 ###EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视第一.png" group-title="台灣",民視第一台
@@ -772,7 +772,7 @@ https://4g.158.qzz.io/163189/jxdmt
 ##https://ha.msbot.dpdns.org/4gtv_api.php?id=3
 ###EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
 ##https://ha.msbot.dpdns.org/4gtv_api.php?id=246
-###EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
+###EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
 ##https://ha.msbot.dpdns.org/4gtv_api.php?id=209
 ###EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
 ##https://ha.msbot.dpdns.org/4gtv_api.php?id=4
@@ -1226,7 +1226,7 @@ https://4gtv.tvbjack.ggff.net/?id=246
 https://4gtv.tvbjack.ggff.net/?id=3
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视.png" group-title="台灣",民視
 https://4gtv.tvbjack.ggff.net/?id=468
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
+#EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
 https://4gtv.tvbjack.ggff.net/?id=209
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/中视.png" group-title="台灣",中視
 https://4gtv.tvbjack.ggff.net/?id=4
@@ -1246,7 +1246,7 @@ https://4gtv.tvbjack.ggff.net/?id=227
 https://4gtv.tvbjack.ggff.net/?id=21
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/靖天日本.png" group-title="台灣",靖天日本台
 https://4gtv.tvbjack.ggff.net/?id=22
-#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="台灣",新唐人亞太台
+#EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="台灣",新唐人亞太台
 https://4gtv.tvbjack.ggff.net/?id=223
 #EXTINF:-1 tvg-id="ARIRANG阿里郎频道" tvg-name="ARIRANG阿里郎频道" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ArirangTV.png" group-title="台灣",ARIRANG阿里郎頻道
 https://4gtv.tvbjack.ggff.net/?id=189
@@ -1510,7 +1510,7 @@ https://myvideotv-tw.pages.dev/cna
 https://myvideotv-tw.pages.dev/nhk-world
 #EXTINF:-1 tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DWChannel.png" group-title="台灣",DW德國之聲
 https://myvideotv-tw.pages.dev/dw
-#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-name="bbc-cbeebies" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107558/logoNobgWeb/202607241223107860.png" group-title="台灣",CBeebies
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Cbeebies(中文).png" group-title="台灣",CBeebies
 https://myvideotv-tw.pages.dev/bbc-cbeebies
 #EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/MOMO亲子台.png" group-title="台灣",MOMO親子台
 https://myvideotv-tw.pages.dev/momo-kids
@@ -1606,7 +1606,7 @@ https://myvideotv-tw.pages.dev/good-tv
 ##http://192.168.33.93:19890/trams/118/playlist.m3u8?token=meishero
 ###EXTINF:-1 tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/公视台语.png" group-title="台灣",公视台语台
 ##http://192.168.33.93:19890/trams/2830/playlist.m3u8?token=meishero
-###EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
+###EXTINF:-1 tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱1台.png" group-title="台灣",大愛電視1台
 ##http://192.168.33.93:19890/trams/550/playlist.m3u8?token=meishero
 ###EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/大爱2台.png" group-title="台灣",大愛二台
 ##http://192.168.33.93:19890/trams/508/playlist.m3u8?token=meishero
