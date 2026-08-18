@@ -1373,8 +1373,6 @@ https://myvideotv-tw.pages.dev/ftv
 https://myvideotv-tw.pages.dev/ftv1
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/民视台湾.png" group-title="台灣",民視台灣台
 https://myvideotv-tw.pages.dev/ftv-tw
-###EXTINF:-1 tvg-id="哈哈台-FastTV飛速看" tvg-name="HahaTai 哈哈台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="台灣",HahaTai 哈哈台-FastTV飛速看
-##https://myvideotv-tw.pages.dev/hahatai
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/好消息1台.png" group-title="台灣",好消息
 https://myvideotv-tw.pages.dev/good-tv
 
@@ -1910,7 +1908,8 @@ https://4gtv.tvbjack.ggff.net/?id=438
 https://4gtv.tvbjack.ggff.net/?id=448
 #EXTINF:-1 tvg-id="MOMO親子精選-FastTV飛速看" tvg-name="MOMO親子精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live415.png" group-title="台灣FastTV飛速看",MOMO親子精選-FastTV飛速看
 https://4gtv.tvbjack.ggff.net/?id=484
-
+#EXTINF:-1 tvg-id="HahaTai 哈哈台-FastTV飛速看" tvg-name="HahaTai 哈哈台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="台灣FastTV飛速看",HahaTai 哈哈台-FastTV飛速看
+https://myvideotv-tw.pages.dev/hahatai
 
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC家庭影院.png" group-title="电影·娱乐",CHC家庭影院
